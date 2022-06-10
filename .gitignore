@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+unpaywall_cache
+
+# exclude everything in ponctual_search_results, but keep dierctory.
+data/ponctual_search_results/*
+!data/ponctual_search_results/.gitkeep
