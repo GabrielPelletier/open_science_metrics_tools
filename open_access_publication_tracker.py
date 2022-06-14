@@ -20,19 +20,26 @@ from datetime import timedelta
 from pandas import *
 import re
 
-UnpywallCredentials('gabriel.pelletier@mcgill.ca')
-
 if __name__ == '__main__':
+
+    ### SET PARAMETERS HERE
+
+    # Email for unpaywall authentification (you don't need to register or anything)
+    UnpywallCredentials('gabriel.pelletier@mcgill.ca')
+    # Number of days back for the start-date of the Pubmed Search
+    n_days_back = 20
+    # Max number of results returned by the PubMed search
+    n_max_results = 50
+    # Set directory(ies)
+    data_dir = 'data/'
+    # Define data file name + Set path for output file
+    master_file_name = 'master_list'
+    master_file_path = data_dir + master_file_name + '.csv'
+
+    #### SET PARAMETERS END
 
     # Get today's date
     todays_date = datetime.today()
-
-    # Set directory(ies)
-    data_dir = 'data/'
-
-    # Define filenames
-    master_file_name = 'master_list'
-    master_file_path = data_dir + master_file_name + '.csv'
 
     # Copy current master_list to data/archive with timestamp before modifying master_list
     shutil.copyfile(master_file_path, data_dir + 'archive/' + todays_date.strftime("%Y_%m_%d") + '_' + master_file_name + '.csv')
@@ -42,7 +49,7 @@ if __name__ == '__main__':
 
     # Load the "master" csv data file containing all previously added publications
     master_df = read_csv(master_file_path)
-    previous_dois = master_df['DOI'].tolist()
+    previous_dois = master_df['doi'].tolist()
 
     # Create a PubMed object that GraphQL can use to query
     # Note that the parameters are not required but kindly requested by PubMed Central
@@ -56,7 +63,7 @@ if __name__ == '__main__':
 
     # Set Date Range for query
     # Subtract a number of days from today's date (e.g. 10)
-    date_from = todays_date - timedelta(20)
+    date_from = todays_date - timedelta(n_days_back)
     # format the date in the pubmed way
     date_from = date_from.strftime('%d/%m/%Y')
 
@@ -69,7 +76,7 @@ if __name__ == '__main__':
     print(f'PubMed Query: {query}')
 
     # Execute the query against the API
-    results = pubmed.query(query, max_results=50)
+    results = pubmed.query(query, max_results=n_max_results)
 
     # Loop over the retrieved articles
     for publication in results:
@@ -118,7 +125,7 @@ if __name__ == '__main__':
         if "," in my_title:
             my_title = my_title.replace(",", "[comma]")
 
-        my_journal =  publication_dict["journal"]
+        my_journal = publication_dict["journal"]
         if "," in my_journal:
             my_journal = my_journal.replace(",", "[comma]")
 
@@ -136,10 +143,9 @@ if __name__ == '__main__':
         separator = "; "
         neuro_ided_authors = separator.join(neuro_ided_authors)
 
-        data_row = [' ', my_title, my_doi,
+        data_row = [neuro_ided_authors, my_title, my_journal, my_doi, my_pmid,
                     publication_dict["publication_date"], is_oa, oa_type,
                     oa_version, oa_url]
-
         # doi_list.append(my_doi)
         # neuro_ided_author_list.append(author_name)
         # title_list.append(publication_dict["title"])
@@ -157,9 +163,9 @@ if __name__ == '__main__':
 
     # Read the updated csv file as a dataframe, Sort by Publication Date and re-save as csv
     master_df = read_csv(master_file_path)
-    master_df["Publication Date"] = master_df["Publication Date"].astype('string')
-    master_df["Publication Date"] = pandas.to_datetime(master_df["Publication Date"])
-    master_df = master_df.sort_values(by='Publication Date', ascending=False)
+    master_df["date_not_actual"] = master_df["date_not_actual"].astype('string')
+    master_df["date_not_actual"] = pandas.to_datetime(master_df["date_not_actual"])
+    master_df = master_df.sort_values(by='date_not_actual', ascending=False)
     master_df.to_csv(master_file_path, index=False)
 
     # Write data in HTML format

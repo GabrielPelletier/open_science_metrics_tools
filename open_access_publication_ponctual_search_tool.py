@@ -28,7 +28,7 @@ if __name__ == '__main__':
     todays_date = datetime.today()
 
     # Set directory(ies)
-    data_dir = 'data/'
+    data_dir = 'data/ponctual_search_results'
 
     # Define filenames
     output_file_name = todays_date.strftime("%Y%m%d%H%M%S") + '_lit_search'
