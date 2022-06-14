@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
     # Load the "master" csv data file containing all previously added publications
     master_df = read_csv(master_file_path)
-    previous_dois = master_df['DOI'].tolist()
+    previous_dois = master_df['doi'].tolist()
 
     # Create a PubMed object that GraphQL can use to query
     # Note that the parameters are not required but kindly requested by PubMed Central
@@ -163,9 +163,9 @@ if __name__ == '__main__':
 
     # Read the updated csv file as a dataframe, Sort by Publication Date and re-save as csv
     master_df = read_csv(master_file_path)
-    master_df["Publication Date"] = master_df["Publication Date"].astype('string')
-    master_df["Publication Date"] = pandas.to_datetime(master_df["Publication Date"])
-    master_df = master_df.sort_values(by='Publication Date', ascending=False)
+    master_df["date_not_actual"] = master_df["date_not_actual"].astype('string')
+    master_df["date_not_actual"] = pandas.to_datetime(master_df["date_not_actual"])
+    master_df = master_df.sort_values(by='date_not_actual', ascending=False)
     master_df.to_csv(master_file_path, index=False)
 
     # Write data in HTML format
