@@ -2,7 +2,7 @@
 Set of tools to track Open Science metrics at an institutional level.
 
 # Contributors
-##Gabriel Pelletier 
+## Gabriel Pelletier 
 Open Science Data Manager, Tanenbaum Open Science Institute (TOSI)
 gabriel.pelletier@mcgill.ca
 
