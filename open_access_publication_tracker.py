@@ -169,4 +169,4 @@ if __name__ == '__main__':
     master_df.to_csv(master_file_path, index=False)
 
     # Write data in HTML format
-    create_html_table(master_file_path)
+    create_html_file(master_file_path)
