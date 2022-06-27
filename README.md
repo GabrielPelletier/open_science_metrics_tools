@@ -1,5 +1,5 @@
-# open_science_metrics_tools
-Set of tools to track Open Science metrics at an institutional level.
+# Open Science Metrics Tools
+Set of tools to track Open Science metrics at an institutional level
 
 # Contributors
 * **Gabriel Pelletier**
