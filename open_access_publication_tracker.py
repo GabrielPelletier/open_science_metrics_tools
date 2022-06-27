@@ -65,14 +65,14 @@ if __name__ == '__main__':
     # Subtract a number of days from today's date (e.g. 10)
     date_from = todays_date - timedelta(n_days_back)
     # format the date in the pubmed way
-    date_from = date_from.strftime('%d/%m/%Y')
+    date_from = date_from.strftime('%Y/%m/%d')
 
     # upper range = 3000 for until Now
     date_to = '"3000"'
 
     # Create a GraphQL query in plain text (Concatenate criteria in a single query)
     # query = '(' + author_name + '[Author]) AND ((' + affiliation_1 + '[Affiliation]) OR (' + affiliation_2 + '[Affiliation]))'
-    query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND((' + date_from + '[Date - Create] : ' + date_to + '[Date - Create]))'
+    query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND ((' + date_from + '[Date - Create] : ' + date_to + '[Date - Create]))'
     print(f'PubMed Query: {query}')
 
     # Execute the query against the API
