@@ -1,0 +1,49 @@
+(Sinclair DS[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Sirhan D[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Sossin WS[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Spreng RN[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Stifani S[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Stratton JA[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Stroh T[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Suvrathan A[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Sziklas V[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Tardif CL[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Teitelbaum J[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Thiel A[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Trenholm S[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Trojan DA[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Van Meyel DJ[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Van Raamsdonk JM[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Veilleux M[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Vieira L[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Wein T[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Wein F[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Xia C[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Xiong L[Author] AND ("Montreal Neurological"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Zatorre R[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Zhou Yang[Author] AND ("Montreal Neurological"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Ziller MG[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication])

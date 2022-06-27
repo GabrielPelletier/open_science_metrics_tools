@@ -5,7 +5,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# *=*=* *=*=* First, Aggregate OA numbers from raw file(s) containing every paper for that year *=*=* *=*=*
+# *=*=* *=*=* First, Agregate OA numbers from raw file(s) containing every paper for that year *=*=* *=*=*
 data_dir = 'data/ponctual_search_results/'
 # Define a file list (to be loaded) and corresponding year (for plotting)
 file_list = ['y2010_oa_info', 'y2011_oa_info', 'y2012_oa_info', 'y2013_oa_info', 'y2014_oa_info', 'y2015_oa_info',
@@ -56,24 +56,32 @@ oa_by_year = pd.DataFrame(
 oa_by_year.to_csv(data_dir + 'summary_trends.csv')
 
 # *=*=* *=*=* Secondly, Plot data *=*=* *=*=*
+plt.rcParams.update({'font.size': 12})
+# This plot is a lie plot with the trend for OA vs non-OA
 plt.figure()
 x = years
 plt.plot(x, oa_by_year['ratio_oa']*100, color='k', linewidth=3)
 plt.scatter(x, oa_by_year['ratio_oa']*100, color='k')
+plt.title("Percent of OA publications at The Neuro by year")
 plt.xlabel("Year")
-plt.ylabel("Ratio of OA publications (all OA types confounded)")
+plt.ylabel("Ratio of OA publications\n(all OA types confounded)")
 plt.ylim([40, 100])
 plt.show()
-
+# This plot is a lie plot with the trend for each OA type
 plt.figure()
 x = years
-plt.plot(x, oa_by_year['ratio_gold']*100, color=(1, 0.73, 0.06), label='Gold', linewidth=3)
+plt.plot(x, oa_by_year['ratio_gold']*100, color=(1, 0.73, 0.06), label='Gold', linewidth=3, )
+plt.scatter(x, oa_by_year['ratio_gold']*100, color=(1, 0.73, 0.06), label='_nolegend_', linewidth=3)
 plt.plot(x, oa_by_year['ratio_green']*100, color=(0.13, 0.82, 0.12), label='Green', linewidth=3)
+plt.scatter(x, oa_by_year['ratio_green']*100, color=(0.13, 0.82, 0.12), label='_nolegend_', linewidth=3)
 plt.plot(x, oa_by_year['ratio_bronze']*100, color=(0.57, 0.47, 0.13), label='Bronze', linewidth=3)
+plt.scatter(x, oa_by_year['ratio_bronze']*100, color=(0.57, 0.47, 0.13), label='_nolegend_', linewidth=3)
 plt.plot(x, oa_by_year['ratio_hybrid']*100, color=(0.68, 0.67, 0.61), label='Hybrid', linewidth=3)
+plt.scatter(x, oa_by_year['ratio_hybrid']*100, color=(0.68, 0.67, 0.61), label='_nolegend_', linewidth=3)
 plt.plot(x, oa_by_year['ratio_hybrid']*100, color=(1, 0.73, 0.06), linestyle='dotted', linewidth=3)
 plt.xlabel("Year")
-plt.ylabel("Percent of OA publications corresponding to each OA type")
+plt.ylabel("Percent of OA publications\nfor each OA type")
+plt.title("Breakdown of Open Access publications by type")
 plt.legend(loc="upper center")
 #plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
 plt.show()

@@ -27,12 +27,12 @@ UnpywallCredentials(my_email)
 # Set directory(ies)
 data_dir = 'data/ponctual_search_results/'
 # Define data file names + Set path for files (input and output)
-list_file_name = 'pubmed_search_2010'
+list_file_name = 'y2021_pubmed_search_cleaned'
 list_file_path = data_dir + list_file_name + '.csv'
 output_file_name = todays_date.strftime("%Y_%m_%d") + '_output'
 output_file_path = data_dir + output_file_name + '.csv'
 
-###SET PARAMATERS END
+### SET PARAMATERS END
 
 # Load list of IDs you want to process (DOIs or PMIDS)
 id_list_df = pd.read_csv(list_file_path)
@@ -48,7 +48,10 @@ for index, row in id_list_df.head(1).iterrows():
 
 for index, row in id_list_df.iterrows():
     my_doi = row['DOI']
-    oa_info = Unpywall.doi(dois=[my_doi])
-    oa_info_list = pd.concat([oa_info_list, oa_info], axis=0)
+    try:
+        oa_info = Unpywall.doi(dois=[my_doi])
+        oa_info_list = pd.concat([oa_info_list, oa_info], axis=0)
+    except:
+        continue
 
 oa_info_list.to_csv(output_file_path)
