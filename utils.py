@@ -3,7 +3,7 @@
 # June 2022
 
 def create_html_table(csv_file):
-    # Writes a CSV table into a (rough) formatted HTML file
+    # Writes a CSV table into a (rough) formatted HTML TABLE
     # The function requires 1 argument: the input file name.
     # It expects a comma-separated input file to parse into an html table,
     # and assumes that the column headers are located in the first row.
@@ -33,5 +33,57 @@ def create_html_table(csv_file):
     table += "</table>"
 
     fileout.writelines(table)
+    fileout.close()
+    filein.close()
+
+def create_html_file(csv_file):
+    # Writes a CSV table into a formatted HTML file
+    # The function requires 1 argument: the input file name.
+    # It expects a comma-separated input file to parse into an html table,
+    # and assumes that the column headers are located in the first row.
+
+    filein = open(csv_file, "r")
+    html_file_name = csv_file[:-4] + '.html'
+    fileout = open(html_file_name, "w")
+    data = filein.readlines()
+
+    my_html_file = "<!DOCTYPE html>\n"
+    my_html_file += "<html>\n"
+    my_html_file += "<body>\n"
+
+    my_html_file += "</br>\n"
+    my_html_file += "<h1> Publication Feed and Open Access Enhancer </h1>\n"
+    my_html_file += "<p>Up-to-date list of Publications from authors affiliated with Research Institution. " \
+                    "For each publication, information is provided as to whether the paper is available openly, " \
+                    "and provides the link to an OA version if any.<p>\n"
+    my_html_file += "</br>\n"
+
+    # CSV has a header
+    header = data[0].split(",")
+    for column in header:
+        a = 0
+
+    # Create an "entry" for each row in the CSV
+    for line in data[1:]:
+        row = line.split(",")
+        # Publication Title
+        my_html_file += "<h3>" + row[1] + "</h3>\n"
+        #my_html_file += "</br>\n"
+        # Publication Date
+        my_html_file += "<p> Publication Date: " + row[5] + "</p>\n"
+        # Open Access Status
+        if row[7] == 'closed':
+            oa_text = "<p> This publication is not available in Open Access :( </p>\n"
+        elif row[7] == 'gold':
+            oa_text = '<p style="color:darkorange"><strong>This publication is Gold Open Access!</strong><p>\n<p><a href=' + row[9] + ' target="_blank">Access it freely here.</a></p>\n'
+        else:
+            oa_text = "<p> else </p>\n"
+        my_html_file += oa_text
+        my_html_file += "</br>\n"
+
+    my_html_file += "<body>\n"
+    my_html_file += "</html>"
+
+    fileout.writelines(my_html_file)
     fileout.close()
     filein.close()
