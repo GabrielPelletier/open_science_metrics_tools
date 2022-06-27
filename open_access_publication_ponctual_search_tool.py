@@ -23,16 +23,31 @@ import re
 UnpywallCredentials('gabriel.pelletier@mcgill.ca')
 
 if __name__ == '__main__':
-
     # Get today's date
     todays_date = datetime.today()
-
+    # Intro Message
+    print('Running OA tracker using the PubMed API and Unpaywall API')
+### SET PARAMTERS
     # Set directory(ies)
-    data_dir = 'data/ponctual_search_results'
-
+    data_dir = 'data/ponctual_search_results/'
     # Define filenames
     output_file_name = todays_date.strftime("%Y%m%d%H%M%S") + '_lit_search'
     output_file_path = data_dir + output_file_name + '.csv'
+    # SET QUERY
+    # Set Affiliations: may use more than one possibilities to cover all variations
+    affiliation_1 = '*montreal*neurological*'
+    affiliation_2 = '*neurology*neurosurgery*'
+    affiliation_3 = '*mcgill*'
+    # Set Date Range for query
+    date_from = '"2021/01/01"'
+    date_to = '"2021/12/31"'
+    query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND((' + date_from + '[Date - Publication] : ' + date_to + '[Date - Publication]))'
+    # OR, READ QUERY FROM FILE (if very long query, for instance.
+    text_file = open("data/pubmed_queries/PubMed_Query_Neuro_2021_p12.txt", "r", encoding='utf-8')
+    query = text_file.read()
+    text_file.close()
+    print(f'PubMed Query: {query}')
+### SET PARAMTERS END
 
     # Print Header in output CSV file
     header = ['neuro_author_s', 'title', 'journal', 'doi', 'pmid', 'date_not_actual', 'is_open_access', 'oa_type',
@@ -42,27 +57,13 @@ if __name__ == '__main__':
         writer_object.writerow(header)
         f_object.close()
 
-    # Intro Message
-    print('Running OA tracker using the PubMed API and Unpaywall API')
-
-    # Create a PubMed object that GraphQL can use to query
     # Note that the parameters are not required but kindly requested by PubMed Central
     # https://www.ncbi.nlm.nih.gov/pmc/tools/developers/
     pubmed = PubMed(tool="oa_publication_tracker", email="gabriel.pelletier@mcgill.ca")
 
-    # Set Affiliations: may use more than one possibilities to cover all variations
-    affiliation_1 = '*montreal*neurological*'
-    affiliation_2 = '*neurology*neurosurgery*'
-    affiliation_3 = '*mcgill*'
-
-    # Set Date Range for query
-    date_from = '"2021/01/01"'
-    date_to = '"2021/12/31"'
-
     # Create a GraphQL query in plain text (Concatenate criteria in a single query)
     # query = '(' + author_name + '[Author]) AND ((' + affiliation_1 + '[Affiliation]) OR (' + affiliation_2 + '[Affiliation]))'
-    query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND((' + date_from + '[Date - Publication] : ' + date_to + '[Date - Publication]))'
-    print(f'PubMed Query: {query}')
+
 
     # Execute the query against the API
     results = pubmed.query(query, max_results=10000)
@@ -149,4 +150,4 @@ if __name__ == '__main__':
             f_object.close()
 
     # Write data in HTML format
-    create_html_table(output_file_path)
+    #create_html_table(output_file_path)

@@ -7,83 +7,51 @@
 # Import packages/modules (have to be Installed before-hand)
 import shutil
 from csv import writer
-from pandas import *
+import pandas as pd
 # unpywall interacts with Unpaywall API
 from unpywall import Unpywall
 from unpywall.utils import UnpywallCredentials
+from pymed import PubMed
 from datetime import datetime
-
+import numpy as np
+from Bio import Entrez
 
 # Get today's date
 todays_date = datetime.today()
 
 ### SET PARAMETERS HERE
-
+# Are you providing a list of DOIs (=TRUE) or PMIDS (=FALSE)?
 # Email for unpaywall authentification (you don't need to register or anything)
-UnpywallCredentials('gabriel.pelletier@mcgill.ca')
+my_email = 'gabriel.pelletier@mcgill.ca'
+UnpywallCredentials(my_email)
 # Set directory(ies)
 data_dir = 'data/ponctual_search_results/'
 # Define data file names + Set path for files (input and output)
-pmid_file_name = 'pmid_list'
-pmid_file_path = data_dir + pmid_file_name + '.csv'
+list_file_name = 'y2021_pubmed_search_cleaned'
+list_file_path = data_dir + list_file_name + '.csv'
 output_file_name = todays_date.strftime("%Y_%m_%d") + '_output'
 output_file_path = data_dir + output_file_name + '.csv'
 
-#### SET PARAMETERS END
+### SET PARAMATERS END
 
-# Load the pmid csv data file containing the pmid of publications for which you want OA info on
-pmid_df = read_csv(pmid_file_path)
+# Load list of IDs you want to process (DOIs or PMIDS)
+id_list_df = pd.read_csv(list_file_path)
 
-# Add Header to CSV
-data_row = ['title', 'journal', 'doi', 'pmid', 'date_not_actual', 'is_open_access', 'oa_type', 'oa_version', 'oa_url']
-with open(output_file_path, 'a', newline='', encoding='utf-8') as f_object:
-    # Pass the CSV  file object to the writer() function
-    writer_object = writer(f_object)
-    # Result - a writer object
-    # Pass the data in the list as an argument into the writerow() function
-    writer_object.writerow(data_row)
-    # Close the file object
-    f_object.close()
+oa_info_list = []
 
-# Loop over the doi list
-for index, row in pmid_df.iterrows():
+# Run list through UNPAYWALL to retrieve OA information
 
-    pmid = row['pmid']
-    doi = row['doi']
+# Run the first item in the list to create the data frame
+for index, row in id_list_df.head(1).iterrows():
+    my_doi = row['DOI']
+    oa_info_list = Unpywall.doi(dois=[my_doi])
 
-    # Grab the publication DOI, and check it's OA status with the Unpaywall API
+for index, row in id_list_df.iterrows():
+    my_doi = row['DOI']
     try:
-        oa_info = Unpywall.doi(dois=[doi])
-        # Prepare Data to be saved
-        is_oa = oa_info.at[0, 'is_oa']
-        oa_type = oa_info.at[0, 'oa_status']
-        title = oa_info.at[0, 'title']
-        journal = oa_info.at[0, 'journal_name']
-        date = oa_info.at[0, 'published_date']
-        if oa_info.at[0, 'is_oa'] == True:
-            oa_version = oa_info.at[0, 'best_oa_location.version']
-            oa_url = oa_info.at[0, 'best_oa_location.url']
-        elif oa_info.at[0, 'is_oa'] == False:
-            oa_version = 'none'
-            oa_url = 'none'
+        oa_info = Unpywall.doi(dois=[my_doi])
+        oa_info_list = pd.concat([oa_info_list, oa_info], axis=0)
     except:
-        # If DOI could not be resolved by Unpaywall
-        is_oa = 'DOI not found by Unpaywall.'
-        oa_type = ' '
-        oa_version = ' '
-        oa_url = ' '
-        title = ' '
+        continue
 
-    #['title', 'journal', 'doi', 'pmid', 'date_not_actual', 'is_open_access', 'oa_type', 'oa_version', 'oa_url']
-    data_row = [title, journal, doi, pmid, date, is_oa, oa_type, oa_version, oa_url]
-
-    # Add data to ongoing CSV
-    with open(output_file_path, 'a', newline='', encoding='utf-8') as f_object:
-        # Pass the CSV  file object to the writer() function
-        writer_object = writer(f_object)
-        # Result - a writer object
-        # Pass the data in the list as an argument into the writerow() function
-        writer_object.writerow(data_row)
-        # Close the file object
-        f_object.close()
-
+oa_info_list.to_csv(output_file_path)

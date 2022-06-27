@@ -1,0 +1,39 @@
+(Genge A[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Giacomini P[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Golan JD[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Gotman J[Author] AND ("Montreal Neurological"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Goulet B[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Guitton D[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Hall J[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Hamel E[Author] AND ("Montreal Neurological"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Hastings K[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Hébert-Blouin M[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Hoge RD[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Huang WC[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Huot P[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Iturria M[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Kennedy TE[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Klein D[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Kobayashi E[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Kostikov A[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Kovitz-Lensch J[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(La Piana r[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication])

@@ -1,0 +1,13 @@
+(Bernard G[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Bernasconi A[Author] AND ("Montreal Neurological"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Bernhardt B[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Bourque CW[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Brais B[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Brien S[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication]) 
+OR
+(Brunet M[Author] AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication])
