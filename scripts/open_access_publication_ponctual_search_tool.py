@@ -42,8 +42,8 @@ if __name__ == '__main__':
     date_from = '"2021/01/01"'
     date_to = '"2021/12/31"'
     query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND((' + date_from + '[Date - Publication] : ' + date_to + '[Date - Publication]))'
-    # OR, READ QUERY FROM FILE (if very long query, for instance.
-    text_file = open("data/pubmed_queries/PubMed_Query_Neuro_2021_p12.txt", "r", encoding='utf-8')
+    # OR, READ QUERY FROM FILE (if very long query, for instance).
+    text_file = open("data/ponctual_pubmed_queries/PubMed_Query_Neuro_2021_109_6.txt", "r", encoding='utf-8')
     query = text_file.read()
     text_file.close()
     print(f'PubMed Query: {query}')
