@@ -19,69 +19,63 @@ from datetime import datetime
 from datetime import timedelta
 from pandas import *
 import re
+import os
+
+UnpywallCredentials('gabriel.pelletier@mcgill.ca')
+ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
 if __name__ == '__main__':
-
-    ### SET PARAMETERS HERE
-
-    # Email for unpaywall authentification (you don't need to register or anything)
-    UnpywallCredentials('gabriel.pelletier@mcgill.ca')
-    # Number of days back for the start-date of the Pubmed Search
-    n_days_back = 20
-    # Max number of results returned by the PubMed search
-    n_max_results = 50
-    # Set directory(ies)
-    data_dir = 'data/'
-    # Define data file name + Set path for output file
-    master_file_name = 'master_list'
-    master_file_path = data_dir + master_file_name + '.csv'
-
-    #### SET PARAMETERS END
-
     # Get today's date
     todays_date = datetime.today()
-
-    # Copy current master_list to data/archive with timestamp before modifying master_list
-    shutil.copyfile(master_file_path, data_dir + 'archive/' + todays_date.strftime("%Y_%m_%d") + '_' + master_file_name + '.csv')
-
     # Intro Message
     print('Running OA tracker using the PubMed API and Unpaywall API')
-
-    # Load the "master" csv data file containing all previously added publications
-    master_df = read_csv(master_file_path)
-    previous_dois = master_df['doi'].tolist()
-
-    # Create a PubMed object that GraphQL can use to query
-    # Note that the parameters are not required but kindly requested by PubMed Central
-    # https://www.ncbi.nlm.nih.gov/pmc/tools/developers/
-    pubmed = PubMed(tool="oa_publication_tracker", email="gabriel.pelletier@mcgill.ca")
-
+### SET PARAMTERS
+    # Set directory(ies)
+    data_dir = ROOT_DIR + '/data/ponctual_search_results/'
+    # Define filenames
+    output_file_name = todays_date.strftime("%Y%m%d%H%M%S") + '_lit_search'
+    output_file_path = data_dir + output_file_name + '.csv'
+    # SET QUERY
     # Set Affiliations: may use more than one possibilities to cover all variations
     affiliation_1 = '*montreal*neurological*'
     affiliation_2 = '*neurology*neurosurgery*'
     affiliation_3 = '*mcgill*'
-
     # Set Date Range for query
-    # Subtract a number of days from today's date (e.g. 10)
-    date_from = todays_date - timedelta(n_days_back)
-    # format the date in the pubmed way
-    date_from = date_from.strftime('%Y/%m/%d')
+    date_from = '"2021/01/01"'
+    date_to = '"2021/12/31"'
+    query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND((' + date_from + '[Date - Publication] : ' + date_to + '[Date - Publication]))'
+    # OR, READ QUERY FROM FILE (if very long query, for instance).
+    text_file = open("data/ponctual_pubmed_queries/PubMed_Query_Neuro_2021_109_6.txt", "r", encoding='utf-8')
+    query = text_file.read()
+    text_file.close()
+    print(f'PubMed Query: {query}')
+### SET PARAMTERS END
 
-    # upper range = 3000 for until Now
-    date_to = '"3000"'
+    # Print Header in output CSV file
+    header = ['neuro_author_s', 'title', 'journal', 'doi', 'pmid', 'date_not_actual', 'is_open_access', 'oa_type',
+                    'oa_version', 'url_to_oa_version']
+    with open(output_file_path, 'a', newline='', encoding='utf-8') as f_object:
+        writer_object = writer(f_object)
+        writer_object.writerow(header)
+        f_object.close()
+
+    # Note that the parameters are not required but kindly requested by PubMed Central
+    # https://www.ncbi.nlm.nih.gov/pmc/tools/developers/
+    pubmed = PubMed(tool="oa_publication_tracker", email="gabriel.pelletier@mcgill.ca")
 
     # Create a GraphQL query in plain text (Concatenate criteria in a single query)
     # query = '(' + author_name + '[Author]) AND ((' + affiliation_1 + '[Affiliation]) OR (' + affiliation_2 + '[Affiliation]))'
-    query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND ((' + date_from + '[Date - Create] : ' + date_to + '[Date - Create]))'
-    print(f'PubMed Query: {query}')
+
 
     # Execute the query against the API
-    results = pubmed.query(query, max_results=n_max_results)
+    results = pubmed.query(query, max_results=10000)
 
     # Loop over the retrieved articles
     for publication in results:
         # convert result for this publication into a python dictionary
         publication_dict = publication.toDict()
+        # Print a JSON representation of the object
+        #print(publication.toJSON())
 
         # Check if multiple DOIs and PMIDs were returned (sort of bug from pymed) and if so grab the first DOI-pmid.
         if "\n" in publication_dict["doi"]:
@@ -96,12 +90,7 @@ if __name__ == '__main__':
         else:
             my_pmid = publication_dict["pubmed_id"]
 
-        # Check if this DOI is in existing master file.
-        # If NOT, add it and do the following bits. If YES, then skip.
-        if my_doi in previous_dois:
-            continue
-
-        # Grab the publication DOI, and check it's OA status with the Unpaywall API
+        # Check OA status with the Unpaywall API based on the article's DOI
         try:
             oa_info = Unpywall.doi(dois=[my_doi])
             # Prepare Data to be saved
@@ -125,7 +114,7 @@ if __name__ == '__main__':
         if "," in my_title:
             my_title = my_title.replace(",", "[comma]")
 
-        my_journal = publication_dict["journal"]
+        my_journal =  publication_dict["journal"]
         if "," in my_journal:
             my_journal = my_journal.replace(",", "[comma]")
 
@@ -146,13 +135,14 @@ if __name__ == '__main__':
         data_row = [neuro_ided_authors, my_title, my_journal, my_doi, my_pmid,
                     publication_dict["publication_date"], is_oa, oa_type,
                     oa_version, oa_url]
+
         # doi_list.append(my_doi)
         # neuro_ided_author_list.append(author_name)
         # title_list.append(publication_dict["title"])
         # date_list.append(publication_dict["publication_date"])
 
         # Add data to ongoing CSV
-        with open(master_file_path, 'a', newline='', encoding='utf-8') as f_object:
+        with open(output_file_path, 'a', newline='', encoding='utf-8') as f_object:
             # Pass the CSV  file object to the writer() function
             writer_object = writer(f_object)
             # Result - a writer object
@@ -161,12 +151,3 @@ if __name__ == '__main__':
             # Close the file object
             f_object.close()
 
-    # Read the updated csv file as a dataframe, Sort by Publication Date and re-save as csv
-    master_df = read_csv(master_file_path)
-    master_df["date_not_actual"] = master_df["date_not_actual"].astype('string')
-    master_df["date_not_actual"] = pandas.to_datetime(master_df["date_not_actual"])
-    master_df = master_df.sort_values(by='date_not_actual', ascending=False)
-    master_df.to_csv(master_file_path, index=False)
-
-    # Write data in HTML format
-    create_html_file(master_file_path)
