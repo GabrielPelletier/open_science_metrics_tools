@@ -19,8 +19,10 @@ from datetime import datetime
 from datetime import timedelta
 from pandas import *
 import re
+import os
 
 UnpywallCredentials('gabriel.pelletier@mcgill.ca')
+ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
 if __name__ == '__main__':
     # Get today's date
@@ -29,7 +31,7 @@ if __name__ == '__main__':
     print('Running OA tracker using the PubMed API and Unpaywall API')
 ### SET PARAMTERS
     # Set directory(ies)
-    data_dir = 'data/ponctual_search_results/'
+    data_dir = ROOT_DIR + '/data/ponctual_search_results/'
     # Define filenames
     output_file_name = todays_date.strftime("%Y%m%d%H%M%S") + '_lit_search'
     output_file_path = data_dir + output_file_name + '.csv'
@@ -149,5 +151,3 @@ if __name__ == '__main__':
             # Close the file object
             f_object.close()
 
-    # Write data in HTML format
-    #create_html_table(output_file_path)

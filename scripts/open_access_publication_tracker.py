@@ -19,11 +19,13 @@ from datetime import datetime
 from datetime import timedelta
 from pandas import *
 import re
+import os
+
+ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
 if __name__ == '__main__':
 
     ### SET PARAMETERS HERE
-
     # Email for unpaywall authentification (you don't need to register or anything)
     UnpywallCredentials('gabriel.pelletier@mcgill.ca')
     # Number of days back for the start-date of the Pubmed Search
@@ -31,7 +33,7 @@ if __name__ == '__main__':
     # Max number of results returned by the PubMed search
     n_max_results = 50
     # Set directory(ies)
-    data_dir = 'data/'
+    data_dir = ROOT_DIR + '/data/'
     # Define data file name + Set path for output file
     master_file_name = 'master_list'
     master_file_path = data_dir + master_file_name + '.csv'
