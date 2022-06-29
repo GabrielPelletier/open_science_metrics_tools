@@ -5,6 +5,7 @@ enddate:
 ---
 
 This publication is available in Open Access! (Gold OA)
+
 [Access it freely here](https://direct.mit.edu/netn/article-pdf/6/2/320/2028100/netn_a_00237.pdf
 )
 
