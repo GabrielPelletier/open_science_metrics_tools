@@ -1,0 +1,27 @@
+---
+title: Composers
+timezone: Europe/Berlin
+collections:
+  posts:
+    title: Posts
+    output: true
+  steps:
+    title: Steps
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: steps
+  values:
+    title: 
+    date: 2016-09-01 00:00:00 -0700
+markdown: kramdown
+highlighter: rouge
+lsi: false
+description: your resume
+baseurl: "/jekyll-timeline"
+url: http://himsel.me
+color: "#f2f2f2"

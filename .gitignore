@@ -5,7 +5,11 @@ scripts/*.py[cod]
 scripts/unpaywall_cache
 
 unpaywall_cache
-.idea/
+.idea/*
+
+_site
+.sass-cache
+.jekyll-metadata
 
 # exclude everything in ponctual_search_results, but keep dierctory.
 data/ponctual_search_results/*
