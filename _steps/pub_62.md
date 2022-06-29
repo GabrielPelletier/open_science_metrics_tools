@@ -6,7 +6,7 @@ enddate:
 
 Published in: *The Journal of neuropsychiatry and clinical neurosciences*
 
-DOI: 10.1176/appi.neuropsych.21080209
+DOI: [10.1176/appi.neuropsych.21080209](https://doi.org/10.1176/appi.neuropsych.21080209)
 
 This article is not available in Open Access
 

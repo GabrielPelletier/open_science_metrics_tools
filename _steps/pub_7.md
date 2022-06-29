@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Glia*
 
-DOI: 10.1002/glia.24230
+DOI: [10.1002/glia.24230](https://doi.org/10.1002/glia.24230)
 
 This article is not available in Open Access
 

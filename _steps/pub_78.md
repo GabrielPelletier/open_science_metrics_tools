@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Brain : a journal of neurology*
 
-DOI: 10.1093/brain/awac150
+DOI: [10.1093/brain/awac150](https://doi.org/10.1093/brain/awac150)
 
 This article is not available in Open Access
 

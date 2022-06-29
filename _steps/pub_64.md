@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Autism research : official journal of the International Society for Autism Research*
 
-DOI: 10.1002/aur.2739
+DOI: [10.1002/aur.2739](https://doi.org/10.1002/aur.2739)
 
 This article is not available in Open Access
 

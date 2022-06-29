@@ -1,12 +1,12 @@
 ---
-title: "An overview of the active clinical trials for Parkinson's disease psychosis."
+title: "Sex-specific associations in verbal memory brain circuitry in early psychosis."
 date: 2022-05-21
 enddate:
 ---
 
-Published in: *Neurodegenerative disease management*
+Published in: *Journal of psychiatric research*
 
-DOI: 10.2217/nmt-2022-0020
+DOI: [10.1016/j.jpsychires.2022.05.006](https://doi.org/10.1016/j.jpsychires.2022.05.006)
 
 This article is not available in Open Access
 

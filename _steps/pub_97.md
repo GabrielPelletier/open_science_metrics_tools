@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Physiological reviews*
 
-DOI: 10.1152/physrev.00041.2021
+DOI: [10.1152/physrev.00041.2021](https://doi.org/10.1152/physrev.00041.2021)
 
 This article is not available in Open Access
 

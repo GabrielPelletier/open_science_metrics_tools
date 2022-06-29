@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Neuro-oncology*
 
-DOI: 10.1093/neuonc/noac116
+DOI: [10.1093/neuonc/noac116](https://doi.org/10.1093/neuonc/noac116)
 
 This article is not available in Open Access
 

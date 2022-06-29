@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Brain topography*
 
-DOI: 10.1007/s10548-022-00898-w
+DOI: [10.1007/s10548-022-00898-w](https://doi.org/10.1007/s10548-022-00898-w)
 
 This article is not available in Open Access
 

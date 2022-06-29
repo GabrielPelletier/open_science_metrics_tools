@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Operative neurosurgery (Hagerstown[comma] Md.)*
 
-DOI: 10.1227/ons.0000000000000232
+DOI: [10.1227/ons.0000000000000232](https://doi.org/10.1227/ons.0000000000000232)
 
 This article is not available in Open Access
 
