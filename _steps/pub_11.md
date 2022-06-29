@@ -1,5 +1,5 @@
 ---
-title: Host Kinase CSNK2 is a Target for Inhibition of Pathogenic SARS-like β-Coronaviruses.
+title: "Host Kinase CSNK2 is a Target for Inhibition of Pathogenic SARS-like β-Coronaviruses."
 date: 2022-06-21 00:00:00 -0700
 enddate:
 ---

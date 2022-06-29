@@ -1,5 +1,5 @@
 ---
-title: Artificial Neural Network Approach to Competency-Based Training Using a Virtual Reality Neurosurgical Simulation.
+title: "Artificial Neural Network Approach to Competency-Based Training Using a Virtual Reality Neurosurgical Simulation."
 date: 2022-06-22 00:00:00 -0700
 enddate:
 ---
