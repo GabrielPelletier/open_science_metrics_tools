@@ -1,12 +1,12 @@
 ---
-title: "Normal-range verbal memory in the first-episode of psychosis: Clinical and functional outcomes across 24 months and impact of estimated verbal memory decrement."
-date: 2022-06-22 00:00:00 -0700
+title: ""Letter to the Editor: ""Selection of Neurosurgical Applicants in High-Income Developing Countries: A Pilot Study from the Gulf Cooperation Council Countries"".""
+date: 2022-06-23
 enddate:
 ---
 
-Published in: *Schizophrenia research*
+Published in: *World neurosurgery*
 
-DOI: 10.1016/j.schres.2022.06.007
+DOI: 10.1016/j.wneu.2022.04.069
 
 This article is not available in Open Access
 

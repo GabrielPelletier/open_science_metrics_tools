@@ -1,0 +1,15 @@
+---
+title: "SORL1 Polymorphisms in Mexican Patients with Alzheimer's Disease."
+date: 2022-04-24
+enddate:
+---
+
+Published in: *Genes*
+
+DOI: 10.3390/genes13040587
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.mdpi.com/2073-4425/13/4/587/pdf?version=1648206236
+)
+

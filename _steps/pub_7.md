@@ -1,15 +1,13 @@
 ---
-title: "Cerebellar and cortico-striatal-midbrain contributions to reward-cognition processes and apathy within the psychosis continuum."
-date: 2022-06-22 00:00:00 -0700
+title: "Regional and age-related diversity of human mature oligodendrocytes."
+date: 2022-06-24
 enddate:
 ---
 
-Published in: *Schizophrenia research*
+Published in: *Glia*
 
-DOI: 10.1016/j.schres.2022.06.010
+DOI: 10.1002/glia.24230
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1016/j.schres.2022.06.010
-)
 

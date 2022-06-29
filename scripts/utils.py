@@ -2,6 +2,8 @@
 # Gabriel Pelletier
 # June 2022
 
+from datetime import datetime
+
 def create_html_table(csv_file):
     # Writes a CSV table into a (rough) formatted HTML TABLE
     # The function requires 1 argument: the input file name.
@@ -117,7 +119,10 @@ def create_md_files(csv_file, out_dir):
         # create separate output md file for each publication
         md_file_name = out_dir + 'pub_' + str(pub_num) + '.md'
         fileout = open(md_file_name, "w")
-        date_text = datetime.strptime(row[5], '%m/%d/%Y').strftime('%Y-%m-%d') + " 00:00:00 -0700"
+        try:
+            date_text = datetime.strptime(row[5], '%m/%d/%Y').strftime('%Y-%m-%d') + " 00:00:00 -0700"
+        except:
+            date_text = row[5]
         oa_logo_link = '"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png"'
         # Define text and formatting based on Open Access Status
         if row[7] == 'closed':
