@@ -1,11 +1,10 @@
 ---
-title: Sergei Rachmaninoff
-date: 1873-04-01 00:00:00 -0700
-enddate: 1943-03-28 00:00:00 -0700
+title: Loss of recent memory after bilateral hippocampal lesions: memory and memories-looking back and looking forward
+date: 2016-03-01 00:00:00 -0700
+enddate:
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sergei_Rachmaninoff_cph.3a40575.jpg/128px-Sergei_Rachmaninoff_cph.3a40575.jpg)
+Milner B, Klein D. Loss of recent memory after bilateral hippocampal lesions:memory and memories-looking back and looking forward. J Neurol Neurosurg
+Psychiatry. 2016 Mar;87(3):230. doi: 10.1136/jnnp-2015-311092. Epub 2015 Aug 17. PMID: 26283686.
 
-Sergei Vasilievich Rachmaninoff was a Russian virtuoso pianist, composer, and conductor of the late-Romantic period, some of whose works are among the most popular in the classical repertoire.
-
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff)
+[Access the article here](https://pubmed.ncbi.nlm.nih.gov/26283686/)
