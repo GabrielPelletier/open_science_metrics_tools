@@ -1,5 +1,5 @@
 ---
-title: Nondominant Hand Skills Spatial and Psychomotor Analysis During a Complex Virtual Reality Neurosurgical Task-A Case Series Study.
+title: "Nondominant Hand Skills Spatial and Psychomotor Analysis During a Complex Virtual Reality Neurosurgical Task-A Case Series Study."
 date: 2022-06-22 00:00:00 -0700
 enddate:
 ---

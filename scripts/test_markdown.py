@@ -22,20 +22,20 @@ for line in data[1:]:
     if row[7] == 'closed':
         oa_text = 'This article is not available in Open Access\n\n'
     elif row[7] == 'gold':
-        oa_text = 'This publication is available in **Open Access**! (Gold OA)\n\n' + \
+        oa_text = 'This publication is available in **Open Access**! <span style="color:darkorange"> (Gold OA) </span>\n\n' + \
                   '[Access it freely here](' + row[9] + ')\n\n'
     elif row[7] == 'hybrid':
-        oa_text = 'This publication is available in **Open Access**! (Hybrid OA)\n\n' + \
+        oa_text = 'This publication is available in **Open Access**! <span style="color:grey"> (Hybrid OA) </span>\n\n' + \
                   '[Access it freely here](' + row[9] + ')\n'
     elif row[7] == 'green':
-        oa_text = 'This publication is available in **Open Access**! (Green OA)\n\n' + \
+        oa_text = 'This publication is available in **Open Access**! <span style="color:green"> (Green OA) </span>\n\n' + \
                   '[Access it freely here](' + row[9] + ')\n'
     elif row[7] == 'bronze':
-        oa_text = 'This publication is available in **Open Access**! (Bronze OA)\n\n' + \
+        oa_text = 'This publication is available in **Open Access**! <span style="color:#7E3517"> (Bronze OA) </span>\n\n' + \
                   '[Access it freely here](' + row[9] + ')\n'
 
     my_md_file = "---\n"
-    my_md_file += "title: " + row[1] + "\n"
+    my_md_file += 'title: ' + '"' + row[1] + '"' + '\n'
     my_md_file += "date: " + date_text + "\n"
     my_md_file += "enddate:\n"
     my_md_file += "---\n"
