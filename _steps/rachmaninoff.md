@@ -1,5 +1,5 @@
 ---
-title: Loss of recent memory after bilateral hippocampal lesions: memory and memories-looking back and looking forward
+title: "Loss of recent memory after bilateral hippocampal lesions: memory and memories-looking back and looking forward"
 date: 2016-03-01 00:00:00 -0700
 enddate:
 ---
