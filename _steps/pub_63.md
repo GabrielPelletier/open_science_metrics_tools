@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Comparative biochemistry and physiology. Part B[comma] Biochemistry & molecular biology*
 
-DOI: 10.1016/j.cbpb.2022.110756
+DOI: [10.1016/j.cbpb.2022.110756](https://doi.org/10.1016/j.cbpb.2022.110756)
 
 This article is not available in Open Access
 

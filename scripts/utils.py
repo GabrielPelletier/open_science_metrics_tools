@@ -124,6 +124,7 @@ def create_md_files(csv_file, out_dir):
         except:
             date_text = row[5]
         oa_logo_link = '"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png"'
+        green_oa_logo_link = '"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png"'
         # Define text and formatting based on Open Access Status
         if row[7] == 'closed':
             oa_text = 'This article is not available in Open Access\n\n'
@@ -134,7 +135,7 @@ def create_md_files(csv_file, out_dir):
             oa_text = '<img src=' + oa_logo_link + ' alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)\n\n' + \
                       '&nbsp;&nbsp;&nbsp;[Access it freely here](' + row[9] + ')\n'
         elif row[7] == 'green':
-            oa_text = '<img src=' + oa_logo_link + ' alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)\n\n' + \
+            oa_text = '<img src=' + green_oa_logo_link + ' alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)\n\n' + \
                       '&nbsp;&nbsp;&nbsp;[Access it freely here](' + row[9] + ')\n'
         elif row[7] == 'bronze':
             oa_text = '<img src=' + oa_logo_link + ' alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Bronze OA)\n\n' + \
@@ -147,7 +148,7 @@ def create_md_files(csv_file, out_dir):
         my_md_file += "---\n"
         my_md_file += "\n"
         my_md_file += 'Published in: *' + row[2] + '*\n\n'
-        my_md_file += 'DOI: ' + row[3] + '\n\n'
+        my_md_file += 'DOI: [' + row[3] +'](https://doi.org/' + row[3] + ')\n\n'
         my_md_file += oa_text + "\n"
 
         fileout.writelines(my_md_file)

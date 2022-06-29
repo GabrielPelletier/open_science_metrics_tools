@@ -6,7 +6,7 @@ enddate:
 
 Published in: *World neurosurgery*
 
-DOI: 10.1016/j.wneu.2022.04.069
+DOI: [10.1016/j.wneu.2022.04.069](https://doi.org/10.1016/j.wneu.2022.04.069)
 
 This article is not available in Open Access
 

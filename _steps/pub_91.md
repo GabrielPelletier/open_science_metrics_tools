@@ -6,7 +6,7 @@ enddate:
 
 Published in: *The Lancet. Neurology*
 
-DOI: 10.1016/S1474-4422(22)00143-0
+DOI: [10.1016/S1474-4422(22)00143-0](https://doi.org/10.1016/S1474-4422(22)00143-0)
 
 This article is not available in Open Access
 

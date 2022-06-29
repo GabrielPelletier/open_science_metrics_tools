@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Maturitas*
 
-DOI: 10.1016/j.maturitas.2022.04.006
+DOI: [10.1016/j.maturitas.2022.04.006](https://doi.org/10.1016/j.maturitas.2022.04.006)
 
 This article is not available in Open Access
 

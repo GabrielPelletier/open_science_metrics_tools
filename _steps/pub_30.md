@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Social neuroscience*
 
-DOI: 10.1080/17470919.2022.2083230
+DOI: [10.1080/17470919.2022.2083230](https://doi.org/10.1080/17470919.2022.2083230)
 
 This article is not available in Open Access
 

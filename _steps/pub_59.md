@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Nature reviews. Neurology*
 
-DOI: 10.1038/s41582-022-00665-2
+DOI: [10.1038/s41582-022-00665-2](https://doi.org/10.1038/s41582-022-00665-2)
 
 This article is not available in Open Access
 

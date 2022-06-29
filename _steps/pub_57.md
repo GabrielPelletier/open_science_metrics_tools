@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Neurodegenerative disease management*
 
-DOI: 10.2217/nmt-2021-0055
+DOI: [10.2217/nmt-2021-0055](https://doi.org/10.2217/nmt-2021-0055)
 
 This article is not available in Open Access
 

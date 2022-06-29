@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Neurobiology of aging*
 
-DOI: 10.1016/j.neurobiolaging.2022.04.004
+DOI: [10.1016/j.neurobiolaging.2022.04.004](https://doi.org/10.1016/j.neurobiolaging.2022.04.004)
 
 This article is not available in Open Access
 

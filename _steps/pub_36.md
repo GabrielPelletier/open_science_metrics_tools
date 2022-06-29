@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Epilepsia*
 
-DOI: 10.1111/epi.17316
+DOI: [10.1111/epi.17316](https://doi.org/10.1111/epi.17316)
 
 This article is not available in Open Access
 

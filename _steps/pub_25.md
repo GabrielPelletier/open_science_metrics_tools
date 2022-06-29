@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Biomedical chromatography : BMC*
 
-DOI: 10.1002/bmc.5423
+DOI: [10.1002/bmc.5423](https://doi.org/10.1002/bmc.5423)
 
 This article is not available in Open Access
 

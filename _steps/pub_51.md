@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Current protein & peptide science*
 
-DOI: 10.2174/1389203723666220519154229
+DOI: [10.2174/1389203723666220519154229](https://doi.org/10.2174/1389203723666220519154229)
 
 This article is not available in Open Access
 

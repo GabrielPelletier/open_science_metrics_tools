@@ -6,7 +6,7 @@ enddate:
 
 Published in: *Proceedings of the National Academy of Sciences of the United States of America*
 
-DOI: 10.1073/pnas.2123421119
+DOI: [10.1073/pnas.2123421119](https://doi.org/10.1073/pnas.2123421119)
 
 This article is not available in Open Access
 
