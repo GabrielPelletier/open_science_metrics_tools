@@ -22,6 +22,6 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 description: your resume
-baseurl: "/jekyll-timeline"
-url: http://himsel.me
+baseurl: "/open_science_metrics_tools"
+url: https://gabrielpelletier.github.io/open_science_metrics_tools/
 color: "#f2f2f2"
