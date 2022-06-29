@@ -41,18 +41,18 @@ if __name__ == '__main__':
     affiliation_2 = '*neurology*neurosurgery*'
     affiliation_3 = '*mcgill*'
     # Set Date Range for query
-    date_from = '"2021/01/01"'
-    date_to = '"2021/12/31"'
+    date_from = '"2017/01/01"'
+    date_to = '"2017/12/31"'
     query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND((' + date_from + '[Date - Publication] : ' + date_to + '[Date - Publication]))'
     # OR, READ QUERY FROM FILE (if very long query, for instance).
-    text_file = open("data/ponctual_pubmed_queries/PubMed_Query_Neuro_2021_109_6.txt", "r", encoding='utf-8')
-    query = text_file.read()
-    text_file.close()
+    #text_file = open("data/ponctual_pubmed_queries/PubMed_Query_Neuro_2021_109_6.txt", "r", encoding='utf-8')
+    #query = text_file.read()
+    #text_file.close()
     print(f'PubMed Query: {query}')
 ### SET PARAMTERS END
 
     # Print Header in output CSV file
-    header = ['neuro_author_s', 'title', 'journal', 'doi', 'pmid', 'date_not_actual', 'is_open_access', 'oa_type',
+    header = ['neuro_author_s', 'title', 'journal', 'doi', 'pmid', 'date_not_actual', 'is_oa', 'oa_status',
                     'oa_version', 'url_to_oa_version']
     with open(output_file_path, 'a', newline='', encoding='utf-8') as f_object:
         writer_object = writer(f_object)
@@ -76,6 +76,10 @@ if __name__ == '__main__':
         publication_dict = publication.toDict()
         # Print a JSON representation of the object
         #print(publication.toJSON())
+
+        # If no DOI listed for this publication, skip it.
+        if publication_dict["doi"] is None:
+            continue
 
         # Check if multiple DOIs and PMIDs were returned (sort of bug from pymed) and if so grab the first DOI-pmid.
         if "\n" in publication_dict["doi"]:
@@ -114,9 +118,12 @@ if __name__ == '__main__':
         if "," in my_title:
             my_title = my_title.replace(",", "[comma]")
 
-        my_journal =  publication_dict["journal"]
-        if "," in my_journal:
-            my_journal = my_journal.replace(",", "[comma]")
+        try:
+            my_journal = publication_dict["journal"]
+            if "," in my_journal:
+                my_journal = my_journal.replace(",", "[comma]")
+        except:
+            continue
 
         # Retrieve affiliated authors
         neuro_ided_authors = []

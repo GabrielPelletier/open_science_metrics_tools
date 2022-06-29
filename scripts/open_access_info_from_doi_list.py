@@ -14,7 +14,9 @@ from unpywall.utils import UnpywallCredentials
 from pymed import PubMed
 from datetime import datetime
 import numpy as np
-from Bio import Entrez
+import os
+
+ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
 # Get today's date
 todays_date = datetime.today()
@@ -25,9 +27,9 @@ todays_date = datetime.today()
 my_email = 'gabriel.pelletier@mcgill.ca'
 UnpywallCredentials(my_email)
 # Set directory(ies)
-data_dir = 'data/ponctual_search_results/'
+data_dir = ROOT_DIR + '/data/ponctual_search_results/'
 # Define data file names + Set path for files (input and output)
-list_file_name = 'y2021_pubmed_search_cleaned'
+list_file_name = 'y2021_pubmed_search'
 list_file_path = data_dir + list_file_name + '.csv'
 output_file_name = todays_date.strftime("%Y_%m_%d") + '_output'
 output_file_path = data_dir + output_file_name + '.csv'
