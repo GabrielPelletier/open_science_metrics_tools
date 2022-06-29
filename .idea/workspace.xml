@@ -169,11 +169,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.open_access_info_from_doi_list" />
+      <item itemvalue="Python.open_access_plot_one_year_summary (1)" />
+      <item itemvalue="Python.open_access_plot_trends" />
       <item itemvalue="Python.open_access_publication_ponctual_search_tool" />
       <item itemvalue="Python.open_access_publication_tracker" />
-      <item itemvalue="Python.open_access_plot_one_year_summary (1)" />
-      <item itemvalue="Python.open_access_info_from_doi_list" />
-      <item itemvalue="Python.open_access_plot_trends" />
     </list>
     <recent_temporary>
       <list>
