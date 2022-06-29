@@ -3,17 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9cd493dc-e4ec-48b9-bfc9-66055c92d846" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_10.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_12.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_13.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_14.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_14.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_15.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_15.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_16.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_16.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_7.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_9.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/test_markdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_markdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/open_access_publication_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/open_access_publication_tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +48,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
@@ -225,6 +216,7 @@
       <workItem from="1656345014893" duration="9641000" />
       <workItem from="1656424479038" duration="21386000" />
       <workItem from="1656507629132" duration="3565000" />
+      <workItem from="1656531429444" duration="409000" />
     </task>
     <servers />
   </component>
@@ -270,7 +262,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/oa_publication_tracker$models.coverage" NAME="models Coverage Results" MODIFIED="1654530038074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/RL_model_interpreter/oa_publication_tracker/Lib/site-packages/requests" />
     <SUITE FILE_PATH="coverage/open_science_metrics_tools$open_access_publication_tracker.coverage" NAME="open_access_publication_tracker Coverage Results" MODIFIED="1656359136594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/open_science_metrics_tools$test_markdown.coverage" NAME="test_markdown Coverage Results" MODIFIED="1656529995809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/open_science_metrics_tools$test_markdown.coverage" NAME="test_markdown Coverage Results" MODIFIED="1656530402328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/open_science_metrics_tools$open_access_plot_one_year_summary.coverage" NAME="open_access_plot_one_year_summary Coverage Results" MODIFIED="1655942071679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/open_science_metrics_tools$open_access_info_from_doi_list.coverage" NAME="open_access_info_from_doi_list Coverage Results" MODIFIED="1656444945933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/oa_publication_tracker$main.coverage" NAME="main Coverage Results" MODIFIED="1654694855245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
