@@ -170,5 +170,7 @@ if __name__ == '__main__':
     master_df = master_df.sort_values(by='date_not_actual', ascending=False)
     master_df.to_csv(master_file_path, index=False)
 
-    # Write data in HTML format
+    # Write data in HTML format and in MD formats for webpage
     create_html_file(master_file_path)
+    out_dir = ROOT_DIR + '/_steps/'
+    create_md_files(master_file_path, out_dir)
