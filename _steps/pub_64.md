@@ -1,12 +1,12 @@
 ---
-title: "The time has come for living systematic reviews in autism research."
-date: 2022-05-17
+title: "Neuropsychiatry's Role in the Postacute Sequelae of COVID-19: Report From the American Neuropsychiatric Association Committee on Research."
+date: 2022-05-18
 enddate:
 ---
 
-Published in: *Autism research : official journal of the International Society for Autism Research*
+Published in: *The Journal of neuropsychiatry and clinical neurosciences*
 
-DOI: [10.1002/aur.2739](https://doi.org/10.1002/aur.2739)
+DOI: [10.1176/appi.neuropsych.21080209](https://doi.org/10.1176/appi.neuropsych.21080209)
 
 This article is not available in Open Access
 

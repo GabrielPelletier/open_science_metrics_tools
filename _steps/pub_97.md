@@ -1,13 +1,15 @@
 ---
-title: "Mitochondrial quality control in health and in Parkinson's disease."
-date: 2022-04-26
+title: "Shared and unique brain network features predict cognitive[comma] personality[comma] and mental health scores in the ABCD study."
+date: 2022-04-27
 enddate:
 ---
 
-Published in: *Physiological reviews*
+Published in: *Nature communications*
 
-DOI: [10.1152/physrev.00041.2021](https://doi.org/10.1152/physrev.00041.2021)
+DOI: [10.1038/s41467-022-29766-8](https://doi.org/10.1038/s41467-022-29766-8)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.nature.com/articles/s41467-022-29766-8.pdf
+)
 

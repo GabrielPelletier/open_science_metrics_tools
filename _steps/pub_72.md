@@ -1,12 +1,12 @@
 ---
-title: "Transsynaptic cerebellin 4-neogenin 1 signaling mediates LTP in the mouse dentate gyrus."
-date: 2022-05-12
+title: "A convergent structure-function substrate of cognitive imbalances in autism."
+date: 2022-05-14
 enddate:
 ---
 
-Published in: *Proceedings of the National Academy of Sciences of the United States of America*
+Published in: *Cerebral cortex (New York[comma] N.Y. : 1991)*
 
-DOI: [10.1073/pnas.2123421119](https://doi.org/10.1073/pnas.2123421119)
+DOI: [10.1093/cercor/bhac156](https://doi.org/10.1093/cercor/bhac156)
 
 This article is not available in Open Access
 

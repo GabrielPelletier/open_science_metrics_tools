@@ -1,13 +1,15 @@
 ---
-title: "Clinical Yield of Electromagnetic Source Imaging and Hemodynamic Responses in Epilepsy: Validation With Intracerebral Data."
-date: 2022-04-28
+title: "Genetic Generalized Epilepsy and Intrafamilial Phenotypic Variability with Distal 7q11.23 Deletion."
+date: 2022-04-29
 enddate:
 ---
 
-Published in: *Neurology*
+Published in: *Child neurology open*
 
-DOI: [10.1212/WNL.0000000000200337](https://doi.org/10.1212/WNL.0000000000200337)
+DOI: [10.1177/2329048X221093173](https://doi.org/10.1177/2329048X221093173)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://journals.sagepub.com/doi/pdf/10.1177/2329048X221093173
+)
 

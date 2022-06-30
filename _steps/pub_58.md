@@ -1,15 +1,13 @@
 ---
-title: "Human brain anatomy reflects separable genetic and environmental components of socioeconomic status."
-date: 2022-05-19
+title: "Glutamate modulation for the treatment of levodopa induced dyskinesia: a brief review of the drugs tested in the clinic."
+date: 2022-05-20
 enddate:
 ---
 
-Published in: *Science advances*
+Published in: *Neurodegenerative disease management*
 
-DOI: [10.1126/sciadv.abm2923](https://doi.org/10.1126/sciadv.abm2923)
+DOI: [10.2217/nmt-2021-0055](https://doi.org/10.2217/nmt-2021-0055)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116589
-)
 

@@ -1,12 +1,12 @@
 ---
-title: "Population variation in social brain morphology: links to socioeconomic status and health disparity."
-date: 2022-06-07
+title: "Developmental Exposure to Bisphenol a Degrades Auditory Cortical Processing in Rats."
+date: 2022-06-08
 enddate:
 ---
 
-Published in: *Social neuroscience*
+Published in: *Neuroscience bulletin*
 
-DOI: [10.1080/17470919.2022.2083230](https://doi.org/10.1080/17470919.2022.2083230)
+DOI: [10.1007/s12264-022-00891-0](https://doi.org/10.1007/s12264-022-00891-0)
 
 This article is not available in Open Access
 

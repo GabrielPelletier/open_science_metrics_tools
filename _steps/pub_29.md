@@ -1,15 +1,15 @@
 ---
-title: "Novel homozygous nonsense mutation of MLIP and compensatory alternative splicing."
-date: 2022-06-08
+title: "Progress in the genetics of RLS: the path ahead in the era of WGS."
+date: 2022-06-09
 enddate:
 ---
 
-Published in: *NPJ genomic medicine*
+Published in: *Sleep*
 
-DOI: [10.1038/s41525-022-00307-y](https://doi.org/10.1038/s41525-022-00307-y)
+DOI: [10.1093/sleep/zsac136](https://doi.org/10.1093/sleep/zsac136)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.nature.com/articles/s41525-022-00307-y.pdf
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://academic.oup.com/sleep/advance-article-pdf/doi/10.1093/sleep/zsac136/43984758/zsac136.pdf
 )
 

@@ -1,12 +1,12 @@
 ---
-title: "Interictal sleep recordings during presurgical evaluation: Bidirectional perspectives on sleep related network functioning."
-date: 2022-06-03
+title: "Event-based modelling in temporal lobe epilepsy demonstrates progressive atrophy from cross-sectional data."
+date: 2022-06-04
 enddate:
 ---
 
-Published in: *Revue neurologique*
+Published in: *Epilepsia*
 
-DOI: [10.1016/j.neurol.2022.03.011](https://doi.org/10.1016/j.neurol.2022.03.011)
+DOI: [10.1111/epi.17316](https://doi.org/10.1111/epi.17316)
 
 This article is not available in Open Access
 
