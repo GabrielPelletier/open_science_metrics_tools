@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: Publication feed updated every day using the following pubmed querry: [(*montreal*neurological*[Affiliation]) OR ((*neurology*neurosurgery*[Affiliation]) AND (*mcgill*[Affiliation]))]. Open Access information is provided for each publication from the Unpaywall API. Code and data available at https://github.com/GabrielPelletier/open_science_metrics_tools.
+description: Publication feed updated every day using the PubMed querry [(*montreal*neurological*[Affiliation]) OR ((*neurology*neurosurgery*[Affiliation]) AND (*mcgill*[Affiliation]))]. Open Access information is provided for each publication from the Unpaywall API. Code and data available at https://github.com/GabrielPelletier/open_science_metrics_tools.
 baseurl: "/open_science_metrics_tools"
 url: https://gabrielpelletier.github.io/open_science_metrics_tools/
 color: "#f2f2f2"
