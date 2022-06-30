@@ -1,15 +1,15 @@
 ---
-title: "Serum MOG-IgG in children meeting multiple sclerosis diagnostic criteria."
+title: "Human brain anatomy reflects separable genetic and environmental components of socioeconomic status."
 date: 2022-05-19
 enddate:
 ---
 
-Published in: *Multiple sclerosis (Houndmills[comma] Basingstoke[comma] England)*
+Published in: *Science advances*
 
-DOI: [10.1177/13524585221093789](https://doi.org/10.1177/13524585221093789)
+DOI: [10.1126/sciadv.abm2923](https://doi.org/10.1126/sciadv.abm2923)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://journals.sagepub.com/doi/pdf/10.1177/13524585221093789
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116589
 )
 

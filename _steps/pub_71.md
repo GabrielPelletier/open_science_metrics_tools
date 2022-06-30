@@ -1,15 +1,15 @@
 ---
-title: "Altered amygdala shape trajectories and emotion recognition in youth at familial high risk of schizophrenia who develop psychosis."
+title: "Age of Acquisition Modulates Alpha Power During Bilingual Speech Comprehension in Noise."
 date: 2022-05-14
 enddate:
 ---
 
-Published in: *Translational psychiatry*
+Published in: *Frontiers in psychology*
 
-DOI: [10.1038/s41398-022-01957-3](https://doi.org/10.1038/s41398-022-01957-3)
+DOI: [10.3389/fpsyg.2022.865857](https://doi.org/10.3389/fpsyg.2022.865857)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.nature.com/articles/s41398-022-01957-3.pdf
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.865857/pdf
 )
 

@@ -1,12 +1,12 @@
 ---
-title: "Metabolic and functional connectivity provide unique and complementary insights into cognition-connectome relationships."
-date: 2022-04-21
+title: "Mitochondrial quality control in health and in Parkinson's disease."
+date: 2022-04-26
 enddate:
 ---
 
-Published in: *Cerebral cortex (New York[comma] N.Y. : 1991)*
+Published in: *Physiological reviews*
 
-DOI: [10.1093/cercor/bhac150](https://doi.org/10.1093/cercor/bhac150)
+DOI: [10.1152/physrev.00041.2021](https://doi.org/10.1152/physrev.00041.2021)
 
 This article is not available in Open Access
 

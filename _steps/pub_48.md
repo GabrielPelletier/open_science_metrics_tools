@@ -1,15 +1,13 @@
 ---
-title: "Brain stimulation competes with ongoing oscillations for control of spike timing in the primate brain."
-date: 2022-05-26
+title: "Automated Detection of Brain Metastases on T1-Weighted MRI Using a Convolutional Neural Network: Impact of Volume Aware Loss and Sampling Strategy."
+date: 2022-05-29
 enddate:
 ---
 
-Published in: *PLoS biology*
+Published in: *Journal of magnetic resonance imaging : JMRI*
 
-DOI: [10.1371/journal.pbio.3001650](https://doi.org/10.1371/journal.pbio.3001650)
+DOI: [10.1002/jmri.28274](https://doi.org/10.1002/jmri.28274)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001650&type=printable
-)
 

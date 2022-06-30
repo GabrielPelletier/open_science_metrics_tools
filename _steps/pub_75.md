@@ -1,12 +1,12 @@
 ---
-title: "Long-range cortical synchronization supports abrupt visual learning."
-date: 2022-05-07
+title: "CARE frailty e-health scale: Association with incident adverse health outcomes and comparison with the Cardiovascular Health Study frailty scale in the NuAge cohort."
+date: 2022-05-11
 enddate:
 ---
 
-Published in: *Current biology : CB*
+Published in: *Maturitas*
 
-DOI: [10.1016/j.cub.2022.04.029](https://doi.org/10.1016/j.cub.2022.04.029)
+DOI: [10.1016/j.maturitas.2022.04.006](https://doi.org/10.1016/j.maturitas.2022.04.006)
 
 This article is not available in Open Access
 

@@ -1,12 +1,12 @@
 ---
-title: "Neuropsychiatry's Role in the Postacute Sequelae of COVID-19: Report From the American Neuropsychiatric Association Committee on Research."
-date: 2022-05-18
+title: "Blood phospho-tau in Alzheimer disease: analysis[comma] interpretation[comma] and clinical utility."
+date: 2022-05-19
 enddate:
 ---
 
-Published in: *The Journal of neuropsychiatry and clinical neurosciences*
+Published in: *Nature reviews. Neurology*
 
-DOI: [10.1176/appi.neuropsych.21080209](https://doi.org/10.1176/appi.neuropsych.21080209)
+DOI: [10.1038/s41582-022-00665-2](https://doi.org/10.1038/s41582-022-00665-2)
 
 This article is not available in Open Access
 

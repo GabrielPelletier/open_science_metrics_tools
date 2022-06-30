@@ -1,15 +1,13 @@
 ---
-title: "Continuous monitoring of surgical bimanual expertise using deep neural networks in virtual reality simulation."
-date: 2022-04-28
+title: "Comparison of switching to 6-week dosing of natalizumab versus continuing with 4-week dosing in patients with relapsing-remitting multiple sclerosis (NOVA): a randomised[comma] controlled[comma] open-label[comma] phase 3b trial."
+date: 2022-04-29
 enddate:
 ---
 
-Published in: *NPJ digital medicine*
+Published in: *The Lancet. Neurology*
 
-DOI: [10.1038/s41746-022-00596-8](https://doi.org/10.1038/s41746-022-00596-8)
+DOI: [10.1016/S1474-4422(22)00143-0](https://doi.org/10.1016/S1474-4422(22)00143-0)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.nature.com/articles/s41746-022-00596-8.pdf
-)
 

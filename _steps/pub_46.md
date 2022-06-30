@@ -1,12 +1,12 @@
 ---
-title: "Automated Detection of Brain Metastases on T1-Weighted MRI Using a Convolutional Neural Network: Impact of Volume Aware Loss and Sampling Strategy."
-date: 2022-05-29
+title: "Null models in network neuroscience."
+date: 2022-06-01
 enddate:
 ---
 
-Published in: *Journal of magnetic resonance imaging : JMRI*
+Published in: *Nature reviews. Neuroscience*
 
-DOI: [10.1002/jmri.28274](https://doi.org/10.1002/jmri.28274)
+DOI: [10.1038/s41583-022-00601-9](https://doi.org/10.1038/s41583-022-00601-9)
 
 This article is not available in Open Access
 

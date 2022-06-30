@@ -1,12 +1,12 @@
 ---
-title: "Sex-specific associations in verbal memory brain circuitry in early psychosis."
-date: 2022-05-21
+title: "DEPhosphorylation TArgeting Chimaera (DEPTAC): Targeting Tau Proteins in Tauopathies."
+date: 2022-05-23
 enddate:
 ---
 
-Published in: *Journal of psychiatric research*
+Published in: *Current protein & peptide science*
 
-DOI: [10.1016/j.jpsychires.2022.05.006](https://doi.org/10.1016/j.jpsychires.2022.05.006)
+DOI: [10.2174/1389203723666220519154229](https://doi.org/10.2174/1389203723666220519154229)
 
 This article is not available in Open Access
 
