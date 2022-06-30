@@ -4,7 +4,7 @@ layout: default
 
 <div class="container row">
     <h1 class="cv-title"><span class="black white-text">{{ site.title }}</span></h1>
-    <p class="cv-title"><span class="black white-text">{{ site.description }}</span></p>
+    <p class="item-date">{{ site.description }}</p>
     {% assign steps = site.steps | sort: 'date' %}
     {% for step in steps reversed %}
     <div class="item">
