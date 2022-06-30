@@ -43,6 +43,10 @@ margin:2rem 0 0 3rem
 margin-top:-60px;
 margin-left:4rem
 }
+.cv-description {
+margin-top:0px;
+margin-left:calc(2% - 5px);
+}
 .cv-title {
 margin-bottom:0;
 margin-left:calc(2% - 5px);
