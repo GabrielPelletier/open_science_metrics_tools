@@ -1,12 +1,12 @@
 ---
-title: "Regional and age-related diversity of human mature oligodendrocytes."
-date: 2022-06-24
+title: "Prevalence and temporal trends of cerebral palsy in children born from 2002 to 2017 in Ontario[comma] Canada: Population-based cohort study."
+date: 2022-07-01
 enddate:
 ---
 
-Published in: *Glia*
+Published in: *Developmental medicine and child neurology*
 
-DOI: [10.1002/glia.24230](https://doi.org/10.1002/glia.24230)
+DOI: [10.1111/dmcn.15324](https://doi.org/10.1111/dmcn.15324)
 
 This article is not available in Open Access
 

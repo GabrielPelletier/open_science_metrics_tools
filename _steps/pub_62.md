@@ -1,12 +1,12 @@
 ---
-title: "Blood phospho-tau in Alzheimer disease: analysis[comma] interpretation[comma] and clinical utility."
-date: 2022-05-19
+title: "Long-range functional connections mirror and link microarchitectural and cognitive hierarchies in the human brain."
+date: 2022-05-22
 enddate:
 ---
 
-Published in: *Nature reviews. Neurology*
+Published in: *Cerebral cortex (New York[comma] N.Y. : 1991)*
 
-DOI: [10.1038/s41582-022-00665-2](https://doi.org/10.1038/s41582-022-00665-2)
+DOI: [10.1093/cercor/bhac172](https://doi.org/10.1093/cercor/bhac172)
 
 This article is not available in Open Access
 

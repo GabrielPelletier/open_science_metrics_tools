@@ -1,15 +1,13 @@
 ---
-title: "DARQ: Deep learning of quality control for stereotaxic registration of human brain MRI to the T1w MNI-ICBM 152 template."
-date: 2022-05-03
+title: "Long-range cortical synchronization supports abrupt visual learning."
+date: 2022-05-07
 enddate:
 ---
 
-Published in: *NeuroImage*
+Published in: *Current biology : CB*
 
-DOI: [10.1016/j.neuroimage.2022.119266](https://doi.org/10.1016/j.neuroimage.2022.119266)
+DOI: [10.1016/j.cub.2022.04.029](https://doi.org/10.1016/j.cub.2022.04.029)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1016/j.neuroimage.2022.119266
-)
 

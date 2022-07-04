@@ -1,13 +1,15 @@
 ---
-title: "DEPhosphorylation TArgeting Chimaera (DEPTAC): Targeting Tau Proteins in Tauopathies."
-date: 2022-05-23
+title: "A Riemannian approach to predicting brain function from the structural connectome."
+date: 2022-06-01
 enddate:
 ---
 
-Published in: *Current protein & peptide science*
+Published in: *NeuroImage*
 
-DOI: [10.2174/1389203723666220519154229](https://doi.org/10.2174/1389203723666220519154229)
+DOI: [10.1016/j.neuroimage.2022.119299](https://doi.org/10.1016/j.neuroimage.2022.119299)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1016/j.neuroimage.2022.119299
+)
 

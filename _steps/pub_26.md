@@ -1,12 +1,12 @@
 ---
-title: "The Role of PTEN-L in Modulating PINK1-Parkin-Mediated Mitophagy."
-date: 2022-06-15
+title: "Host Kinase CSNK2 is a Target for Inhibition of Pathogenic SARS-like β-Coronaviruses."
+date: 2022-06-21
 enddate:
 ---
 
-Published in: *Neurotoxicity research*
+Published in: *ACS chemical biology*
 
-DOI: [10.1007/s12640-022-00475-w](https://doi.org/10.1007/s12640-022-00475-w)
+DOI: [10.1021/acschembio.2c00378](https://doi.org/10.1021/acschembio.2c00378)
 
 This article is not available in Open Access
 

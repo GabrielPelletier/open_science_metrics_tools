@@ -1,15 +1,13 @@
 ---
-title: "Serum MOG-IgG in children meeting multiple sclerosis diagnostic criteria."
-date: 2022-05-19
+title: "DEPhosphorylation TArgeting Chimaera (DEPTAC): Targeting Tau Proteins in Tauopathies."
+date: 2022-05-23
 enddate:
 ---
 
-Published in: *Multiple sclerosis (Houndmills[comma] Basingstoke[comma] England)*
+Published in: *Current protein & peptide science*
 
-DOI: [10.1177/13524585221093789](https://doi.org/10.1177/13524585221093789)
+DOI: [10.2174/1389203723666220519154229](https://doi.org/10.2174/1389203723666220519154229)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://journals.sagepub.com/doi/pdf/10.1177/13524585221093789
-)
 

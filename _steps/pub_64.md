@@ -1,12 +1,12 @@
 ---
-title: "Neuropsychiatry's Role in the Postacute Sequelae of COVID-19: Report From the American Neuropsychiatric Association Committee on Research."
-date: 2022-05-18
+title: "An overview of the active clinical trials for Parkinson's disease psychosis."
+date: 2022-05-21
 enddate:
 ---
 
-Published in: *The Journal of neuropsychiatry and clinical neurosciences*
+Published in: *Neurodegenerative disease management*
 
-DOI: [10.1176/appi.neuropsych.21080209](https://doi.org/10.1176/appi.neuropsych.21080209)
+DOI: [10.2217/nmt-2022-0020](https://doi.org/10.2217/nmt-2022-0020)
 
 This article is not available in Open Access
 

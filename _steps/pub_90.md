@@ -1,15 +1,13 @@
 ---
-title: "Population heterogeneity in clinical cohorts affects the predictive accuracy of brain imaging."
-date: 2022-04-30
+title: "Training allows switching from limited-capacity manipulations to large-capacity perceptual processing."
+date: 2022-05-06
 enddate:
 ---
 
-Published in: *PLoS biology*
+Published in: *Cerebral cortex (New York[comma] N.Y. : 1991)*
 
-DOI: [10.1371/journal.pbio.3001627](https://doi.org/10.1371/journal.pbio.3001627)
+DOI: [10.1093/cercor/bhac175](https://doi.org/10.1093/cercor/bhac175)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001627&type=printable
-)
 

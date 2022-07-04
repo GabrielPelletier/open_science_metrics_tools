@@ -1,13 +1,15 @@
 ---
-title: "Population variation in social brain morphology: links to socioeconomic status and health disparity."
-date: 2022-06-07
+title: "The Role of MRI in the Treatment of Drug-Resistant Focal Epilepsy."
+date: 2022-06-16
 enddate:
 ---
 
-Published in: *Social neuroscience*
+Published in: *European neurology*
 
-DOI: [10.1080/17470919.2022.2083230](https://doi.org/10.1080/17470919.2022.2083230)
+DOI: [10.1159/000525262](https://doi.org/10.1159/000525262)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.karger.com/Article/Pdf/525262
+)
 

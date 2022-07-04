@@ -1,12 +1,12 @@
 ---
-title: "Meta-matching as a simple framework to translate phenotypic predictive models from big to small data."
-date: 2022-05-17
+title: "Glutamate modulation for the treatment of levodopa induced dyskinesia: a brief review of the drugs tested in the clinic."
+date: 2022-05-20
 enddate:
 ---
 
-Published in: *Nature neuroscience*
+Published in: *Neurodegenerative disease management*
 
-DOI: [10.1038/s41593-022-01059-9](https://doi.org/10.1038/s41593-022-01059-9)
+DOI: [10.2217/nmt-2021-0055](https://doi.org/10.2217/nmt-2021-0055)
 
 This article is not available in Open Access
 

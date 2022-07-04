@@ -1,15 +1,13 @@
 ---
-title: "Genetic and phylogenetic uncoupling of structure and function in human transmodal cortex."
-date: 2022-05-10
+title: "The time has come for living systematic reviews in autism research."
+date: 2022-05-17
 enddate:
 ---
 
-Published in: *Nature communications*
+Published in: *Autism research : official journal of the International Society for Autism Research*
 
-DOI: [10.1038/s41467-022-29886-1](https://doi.org/10.1038/s41467-022-29886-1)
+DOI: [10.1002/aur.2739](https://doi.org/10.1002/aur.2739)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.nature.com/articles/s41467-022-29886-1.pdf
-)
 

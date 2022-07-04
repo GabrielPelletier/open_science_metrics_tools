@@ -1,15 +1,13 @@
 ---
-title: "Editorial: Shedding Light on the Nervous System: Progress in Neurophotonics Research."
-date: 2022-06-07
+title: "The Role of PTEN-L in Modulating PINK1-Parkin-Mediated Mitophagy."
+date: 2022-06-15
 enddate:
 ---
 
-Published in: *Frontiers in neural circuits*
+Published in: *Neurotoxicity research*
 
-DOI: [10.3389/fncir.2022.901376](https://doi.org/10.3389/fncir.2022.901376)
+DOI: [10.1007/s12640-022-00475-w](https://doi.org/10.1007/s12640-022-00475-w)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.frontiersin.org/articles/10.3389/fncir.2022.901376/pdf
-)
 

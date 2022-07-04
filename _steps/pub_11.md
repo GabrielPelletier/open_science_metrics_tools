@@ -1,13 +1,15 @@
 ---
-title: "Artificial Neural Network Approach to Competency-Based Training Using a Virtual Reality Neurosurgical Simulation."
-date: 2022-06-22
+title: "White matter lesions may be an early marker for age-related cognitive decline."
+date: 2022-06-29
 enddate:
 ---
 
-Published in: *Operative neurosurgery (Hagerstown[comma] Md.)*
+Published in: *NeuroImage. Clinical*
 
-DOI: [10.1227/ons.0000000000000173](https://doi.org/10.1227/ons.0000000000000173)
+DOI: [10.1016/j.nicl.2022.103096](https://doi.org/10.1016/j.nicl.2022.103096)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1016/j.nicl.2022.103096
+)
 

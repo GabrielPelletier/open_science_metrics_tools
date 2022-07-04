@@ -1,15 +1,13 @@
 ---
-title: "Differentiating amyloid beta spread in autosomal dominant and sporadic Alzheimer's disease."
-date: 2022-05-24
+title: "Null models in network neuroscience."
+date: 2022-06-01
 enddate:
 ---
 
-Published in: *Brain communications*
+Published in: *Nature reviews. Neuroscience*
 
-DOI: [10.1093/braincomms/fcac085](https://doi.org/10.1093/braincomms/fcac085)
+DOI: [10.1038/s41583-022-00601-9](https://doi.org/10.1038/s41583-022-00601-9)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://academic.oup.com/braincomms/article-pdf/4/3/fcac085/43752424/fcac085.pdf
-)
 

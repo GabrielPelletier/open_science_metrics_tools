@@ -1,13 +1,15 @@
 ---
-title: "Host Kinase CSNK2 is a Target for Inhibition of Pathogenic SARS-like β-Coronaviruses."
-date: 2022-06-21
+title: "Multimodal connectome biomarkers of cognitive and affective dysfunction in the common epilepsies."
+date: 2022-06-24
 enddate:
 ---
 
-Published in: *ACS chemical biology*
+Published in: *Network neuroscience (Cambridge[comma] Mass.)*
 
-DOI: [10.1021/acschembio.2c00378](https://doi.org/10.1021/acschembio.2c00378)
+DOI: [10.1162/netn_a_00237](https://doi.org/10.1162/netn_a_00237)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://direct.mit.edu/netn/article-pdf/6/2/320/2028100/netn_a_00237.pdf
+)
 

@@ -1,12 +1,12 @@
 ---
-title: "Event-based modelling in temporal lobe epilepsy demonstrates progressive atrophy from cross-sectional data."
-date: 2022-06-04
+title: "Developmental Exposure to Bisphenol a Degrades Auditory Cortical Processing in Rats."
+date: 2022-06-08
 enddate:
 ---
 
-Published in: *Epilepsia*
+Published in: *Neuroscience bulletin*
 
-DOI: [10.1111/epi.17316](https://doi.org/10.1111/epi.17316)
+DOI: [10.1007/s12264-022-00891-0](https://doi.org/10.1007/s12264-022-00891-0)
 
 This article is not available in Open Access
 

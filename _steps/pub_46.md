@@ -1,12 +1,12 @@
 ---
-title: "Null models in network neuroscience."
-date: 2022-06-01
+title: "Event-based modelling in temporal lobe epilepsy demonstrates progressive atrophy from cross-sectional data."
+date: 2022-06-04
 enddate:
 ---
 
-Published in: *Nature reviews. Neuroscience*
+Published in: *Epilepsia*
 
-DOI: [10.1038/s41583-022-00601-9](https://doi.org/10.1038/s41583-022-00601-9)
+DOI: [10.1111/epi.17316](https://doi.org/10.1111/epi.17316)
 
 This article is not available in Open Access
 

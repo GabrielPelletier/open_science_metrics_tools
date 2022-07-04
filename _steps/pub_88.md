@@ -1,15 +1,13 @@
 ---
-title: "Sleep and epilepsy: A snapshot of knowledge and future research lines."
-date: 2022-04-30
+title: "Disorganization of language and working memory systems in frontal versus temporal lobe epilepsy."
+date: 2022-05-06
 enddate:
 ---
 
-Published in: *Journal of sleep research*
+Published in: *Brain : a journal of neurology*
 
-DOI: [10.1111/jsr.13622](https://doi.org/10.1111/jsr.13622)
+DOI: [10.1093/brain/awac150](https://doi.org/10.1093/brain/awac150)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jsr.13622
-)
 

@@ -1,12 +1,12 @@
 ---
-title: "Training allows switching from limited-capacity manipulations to large-capacity perceptual processing."
-date: 2022-05-06
+title: "Transsynaptic cerebellin 4-neogenin 1 signaling mediates LTP in the mouse dentate gyrus."
+date: 2022-05-12
 enddate:
 ---
 
-Published in: *Cerebral cortex (New York[comma] N.Y. : 1991)*
+Published in: *Proceedings of the National Academy of Sciences of the United States of America*
 
-DOI: [10.1093/cercor/bhac175](https://doi.org/10.1093/cercor/bhac175)
+DOI: [10.1073/pnas.2123421119](https://doi.org/10.1073/pnas.2123421119)
 
 This article is not available in Open Access
 
