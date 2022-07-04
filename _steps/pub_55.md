@@ -1,12 +1,12 @@
 ---
-title: "Sex-specific associations in verbal memory brain circuitry in early psychosis."
-date: 2022-05-21
+title: "Automated Detection of Brain Metastases on T1-Weighted MRI Using a Convolutional Neural Network: Impact of Volume Aware Loss and Sampling Strategy."
+date: 2022-05-29
 enddate:
 ---
 
-Published in: *Journal of psychiatric research*
+Published in: *Journal of magnetic resonance imaging : JMRI*
 
-DOI: [10.1016/j.jpsychires.2022.05.006](https://doi.org/10.1016/j.jpsychires.2022.05.006)
+DOI: [10.1002/jmri.28274](https://doi.org/10.1002/jmri.28274)
 
 This article is not available in Open Access
 

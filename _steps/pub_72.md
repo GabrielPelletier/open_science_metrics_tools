@@ -1,13 +1,15 @@
 ---
-title: "A convergent structure-function substrate of cognitive imbalances in autism."
-date: 2022-05-14
+title: "Multi-tract multi-symptom relationships in pediatric concussion."
+date: 2022-05-18
 enddate:
 ---
 
-Published in: *Cerebral cortex (New York[comma] N.Y. : 1991)*
+Published in: *eLife*
 
-DOI: [10.1093/cercor/bhac156](https://doi.org/10.1093/cercor/bhac156)
+DOI: [10.7554/eLife.70450](https://doi.org/10.7554/eLife.70450)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.7554/elife.70450
+)
 

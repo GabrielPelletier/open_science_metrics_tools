@@ -1,15 +1,13 @@
 ---
-title: "Self-delivering RNAi compounds as therapeutic agents in the central nervous system to enhance axonal regeneration after injury."
-date: 2022-05-28
+title: "RABENOSYN separation-of-function mutations uncouple endosomal recycling from lysosomal degradation[comma] causing a distinct Mendelian Disorder."
+date: 2022-06-03
 enddate:
 ---
 
-Published in: *iScience*
+Published in: *Human molecular genetics*
 
-DOI: [10.1016/j.isci.2022.104379](https://doi.org/10.1016/j.isci.2022.104379)
+DOI: [10.1093/hmg/ddac120](https://doi.org/10.1093/hmg/ddac120)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127586
-)
 

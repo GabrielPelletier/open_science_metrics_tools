@@ -1,13 +1,15 @@
 ---
-title: "Comparison of switching to 6-week dosing of natalizumab versus continuing with 4-week dosing in patients with relapsing-remitting multiple sclerosis (NOVA): a randomised[comma] controlled[comma] open-label[comma] phase 3b trial."
-date: 2022-04-29
+title: "caliPER: A software for blood-free parametric Patlak mapping using PET/MRI input function."
+date: 2022-05-03
 enddate:
 ---
 
-Published in: *The Lancet. Neurology*
+Published in: *NeuroImage*
 
-DOI: [10.1016/S1474-4422(22)00143-0](https://doi.org/10.1016/S1474-4422(22)00143-0)
+DOI: [10.1016/j.neuroimage.2022.119261](https://doi.org/10.1016/j.neuroimage.2022.119261)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1016/j.neuroimage.2022.119261
+)
 

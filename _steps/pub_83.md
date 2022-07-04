@@ -1,12 +1,12 @@
 ---
-title: "Lack of association of TP73 with amyotrophic lateral sclerosis in a large cohort of cases."
-date: 2022-05-06
+title: "CARE frailty e-health scale: Association with incident adverse health outcomes and comparison with the Cardiovascular Health Study frailty scale in the NuAge cohort."
+date: 2022-05-11
 enddate:
 ---
 
-Published in: *Neurobiology of aging*
+Published in: *Maturitas*
 
-DOI: [10.1016/j.neurobiolaging.2022.04.004](https://doi.org/10.1016/j.neurobiolaging.2022.04.004)
+DOI: [10.1016/j.maturitas.2022.04.006](https://doi.org/10.1016/j.maturitas.2022.04.006)
 
 This article is not available in Open Access
 

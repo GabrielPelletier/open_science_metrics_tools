@@ -1,15 +1,15 @@
 ---
-title: "Dopaminergic medication increases motivation to exert cognitive control by reducing subjective effort costs in Parkinson's patients."
-date: 2022-06-21
+title: "Modulation Spectral Signal Representation for Quality Measurement and Enhancement of Wearable Device Data: A Technical Note."
+date: 2022-06-25
 enddate:
 ---
 
-Published in: *Neurobiology of learning and memory*
+Published in: *Sensors (Basel[comma] Switzerland)*
 
-DOI: [10.1016/j.nlm.2022.107652](https://doi.org/10.1016/j.nlm.2022.107652)
+DOI: [10.3390/s22124579](https://doi.org/10.3390/s22124579)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1101/2022.02.07.22270623
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.mdpi.com/1424-8220/22/12/4579/pdf?version=1655458157
 )
 

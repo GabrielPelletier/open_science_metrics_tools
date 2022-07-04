@@ -1,15 +1,13 @@
 ---
-title: "Interacting brains revisited: A cross-brain network neuroscience perspective."
-date: 2022-06-07
+title: "Quantitative determination of LY-404[comma]039[comma] a metabotropic glutamate 2/3 receptor agonist[comma] in rat plasma using chemical derivatization and HPLC-MRM/MS."
+date: 2022-06-11
 enddate:
 ---
 
-Published in: *Human brain mapping*
+Published in: *Biomedical chromatography : BMC*
 
-DOI: [10.1002/hbm.25966](https://doi.org/10.1002/hbm.25966)
+DOI: [10.1002/bmc.5423](https://doi.org/10.1002/bmc.5423)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.25966
-)
 

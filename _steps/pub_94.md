@@ -1,15 +1,15 @@
 ---
-title: "Genetic Generalized Epilepsy and Intrafamilial Phenotypic Variability with Distal 7q11.23 Deletion."
-date: 2022-04-29
+title: "Structural basis for feedforward control in the PINK1/Parkin pathway."
+date: 2022-05-03
 enddate:
 ---
 
-Published in: *Child neurology open*
+Published in: *The EMBO journal*
 
-DOI: [10.1177/2329048X221093173](https://doi.org/10.1177/2329048X221093173)
+DOI: [10.15252/embj.2021109460](https://doi.org/10.15252/embj.2021109460)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://journals.sagepub.com/doi/pdf/10.1177/2329048X221093173
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1101/2021.08.16.456440
 )
 

@@ -1,13 +1,15 @@
 ---
-title: "Long-range functional connections mirror and link microarchitectural and cognitive hierarchies in the human brain."
-date: 2022-05-22
+title: "Siponimod vs placebo in active secondary progressive multiple sclerosis: a post hoc analysis from the phase 3 EXPAND study."
+date: 2022-06-01
 enddate:
 ---
 
-Published in: *Cerebral cortex (New York[comma] N.Y. : 1991)*
+Published in: *Journal of neurology*
 
-DOI: [10.1093/cercor/bhac172](https://doi.org/10.1093/cercor/bhac172)
+DOI: [10.1007/s00415-022-11166-z](https://doi.org/10.1007/s00415-022-11166-z)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://link.springer.com/content/pdf/10.1007/s00415-022-11166-z.pdf
+)
 

@@ -1,13 +1,15 @@
 ---
-title: "RABENOSYN separation-of-function mutations uncouple endosomal recycling from lysosomal degradation[comma] causing a distinct Mendelian Disorder."
-date: 2022-06-03
+title: "Novel homozygous nonsense mutation of MLIP and compensatory alternative splicing."
+date: 2022-06-08
 enddate:
 ---
 
-Published in: *Human molecular genetics*
+Published in: *NPJ genomic medicine*
 
-DOI: [10.1093/hmg/ddac120](https://doi.org/10.1093/hmg/ddac120)
+DOI: [10.1038/s41525-022-00307-y](https://doi.org/10.1038/s41525-022-00307-y)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.nature.com/articles/s41525-022-00307-y.pdf
+)
 

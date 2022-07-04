@@ -1,15 +1,13 @@
 ---
-title: "Altered amygdala shape trajectories and emotion recognition in youth at familial high risk of schizophrenia who develop psychosis."
-date: 2022-05-14
+title: "Development of an endogenously myc-tagged TARDBP (TDP-43) zebrafish model using the CRISPR/Cas9 system and homology directed repair."
+date: 2022-05-18
 enddate:
 ---
 
-Published in: *Translational psychiatry*
+Published in: *Comparative biochemistry and physiology. Part B[comma] Biochemistry & molecular biology*
 
-DOI: [10.1038/s41398-022-01957-3](https://doi.org/10.1038/s41398-022-01957-3)
+DOI: [10.1016/j.cbpb.2022.110756](https://doi.org/10.1016/j.cbpb.2022.110756)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.nature.com/articles/s41398-022-01957-3.pdf
-)
 

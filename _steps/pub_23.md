@@ -1,13 +1,15 @@
 ---
-title: "Regenerative and restorative medicine for eye disease."
-date: 2022-06-18
+title: "Dopaminergic medication increases motivation to exert cognitive control by reducing subjective effort costs in Parkinson's patients."
+date: 2022-06-21
 enddate:
 ---
 
-Published in: *Nature medicine*
+Published in: *Neurobiology of learning and memory*
 
-DOI: [10.1038/s41591-022-01862-8](https://doi.org/10.1038/s41591-022-01862-8)
+DOI: [10.1016/j.nlm.2022.107652](https://doi.org/10.1016/j.nlm.2022.107652)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1101/2022.02.07.22270623
+)
 

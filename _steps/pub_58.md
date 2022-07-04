@@ -1,13 +1,15 @@
 ---
-title: "Glutamate modulation for the treatment of levodopa induced dyskinesia: a brief review of the drugs tested in the clinic."
-date: 2022-05-20
+title: "Brain stimulation competes with ongoing oscillations for control of spike timing in the primate brain."
+date: 2022-05-26
 enddate:
 ---
 
-Published in: *Neurodegenerative disease management*
+Published in: *PLoS biology*
 
-DOI: [10.2217/nmt-2021-0055](https://doi.org/10.2217/nmt-2021-0055)
+DOI: [10.1371/journal.pbio.3001650](https://doi.org/10.1371/journal.pbio.3001650)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001650&type=printable
+)
 

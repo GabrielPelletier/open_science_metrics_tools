@@ -1,15 +1,13 @@
 ---
-title: "Fast Streamline Search: An Exact Technique for Diffusion MRI Tractography."
-date: 2022-06-19
+title: "Artificial Neural Network Approach to Competency-Based Training Using a Virtual Reality Neurosurgical Simulation."
+date: 2022-06-22
 enddate:
 ---
 
-Published in: *Neuroinformatics*
+Published in: *Operative neurosurgery (Hagerstown[comma] Md.)*
 
-DOI: [10.1007/s12021-022-09590-7](https://doi.org/10.1007/s12021-022-09590-7)
+DOI: [10.1227/ons.0000000000000173](https://doi.org/10.1227/ons.0000000000000173)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+This article is not available in Open Access
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://link.springer.com/content/pdf/10.1007/s12021-022-09590-7.pdf
-)
 
