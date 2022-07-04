@@ -1,13 +1,15 @@
 ---
-title: "Neuropsychiatry's Role in the Postacute Sequelae of COVID-19: Report From the American Neuropsychiatric Association Committee on Research."
+title: "Multi-tract multi-symptom relationships in pediatric concussion."
 date: 2022-05-18
 enddate:
 ---
 
-Published in: *The Journal of neuropsychiatry and clinical neurosciences*
+Published in: *eLife*
 
-DOI: [10.1176/appi.neuropsych.21080209](https://doi.org/10.1176/appi.neuropsych.21080209)
+DOI: [10.7554/eLife.70450](https://doi.org/10.7554/eLife.70450)
 
-This article is not available in Open Access
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.7554/elife.70450
+)
 

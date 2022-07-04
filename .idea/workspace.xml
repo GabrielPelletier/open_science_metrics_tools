@@ -2,72 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cd493dc-e4ec-48b9-bfc9-66055c92d846" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_steps/pub_104.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_104.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_105.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_105.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_107.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_107.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_108.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_108.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_122.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_122.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_123.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_123.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_124.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_124.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_137.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_137.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_138.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_138.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_139.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_139.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_140.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_140.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_141.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_141.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_142.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_142.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_143.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_143.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_144.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_144.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_145.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_145.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_15.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_15.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_109.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_109.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_110.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_110.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_111.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_111.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_125.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_125.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_126.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_126.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_127.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_127.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_13.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_13.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_151.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_151.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_152.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_152.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_153.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_153.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_154.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_154.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_156.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_156.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_157.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_157.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_16.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_16.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_17.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_17.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_171.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_171.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_172.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_172.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_173.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_173.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_174.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_174.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_175.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_175.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_18.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_18.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_182.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_182.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_183.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_183.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_190.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_190.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_191.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_191.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_161.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_161.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_179.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_179.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_180.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_180.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_181.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_181.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_19.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_19.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_192.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_192.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_193.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_193.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_207.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_207.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_208.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_208.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_217.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_217.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_218.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_218.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_219.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_219.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_225.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_225.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_194.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_194.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_195.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_195.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_196.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_196.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_197.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_197.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_20.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_20.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_209.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_209.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_21.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_210.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_210.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_211.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_211.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_212.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_212.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_213.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_213.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_214.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_214.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_22.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_22.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_226.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_226.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_242.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_242.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_243.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_243.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_244.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_244.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_245.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_245.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_251.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_251.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_252.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_252.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_253.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_253.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_254.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_254.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_32.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_32.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_33.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_33.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_34.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_34.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_35.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_35.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_36.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_36.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_37.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_37.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_228.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_228.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_229.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_229.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_230.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_230.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_239.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_239.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_240.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_240.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_241.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_241.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_264.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_264.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_265.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_265.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_266.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_266.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_267.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_267.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_47.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_47.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_48.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_48.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_49.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_49.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_50.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_50.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_7.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_7.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_71.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_71.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_72.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_72.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_steps/pub_73.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_73.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_89.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_89.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_steps/pub_90.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_90.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_83.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_83.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_9.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_96.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_96.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_97.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_97.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_steps/pub_98.md" beforeDir="false" afterPath="$PROJECT_DIR$/_steps/pub_98.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/archive/2022_07_04_master_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/archive/2022_07_04_master_list.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/master_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/master_list.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/master_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/master_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,28 +114,6 @@
     <option name="myDropIntoDebuggerOnFailedTests" value="true" />
   </component>
   <component name="RunManager" selected="Python.open_access_publication_tracker">
-    <configuration name="open_access_info_from_doi_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="oa_publication_tracker" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/open_access_info_from_doi_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="open_access_plot_trends" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,20 +202,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.open_access_info_from_doi_list" />
       <item itemvalue="Python.open_access_plot_trends" />
       <item itemvalue="Python.open_access_publication_ponctual_search_tool" />
       <item itemvalue="Python.test_markdown" />
       <item itemvalue="Python.open_access_publication_tracker" />
+      <item itemvalue="Python.utils" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.open_access_publication_tracker" />
+        <item itemvalue="Python.utils" />
         <item itemvalue="Python.test_markdown" />
         <item itemvalue="Python.open_access_publication_ponctual_search_tool" />
         <item itemvalue="Python.open_access_plot_trends" />
-        <item itemvalue="Python.open_access_info_from_doi_list" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +322,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/oa_publication_tracker$models.coverage" NAME="models Coverage Results" MODIFIED="1654530038074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/RL_model_interpreter/oa_publication_tracker/Lib/site-packages/requests" />
     <SUITE FILE_PATH="coverage/open_science_metrics_tools$test_markdown.coverage" NAME="test_markdown Coverage Results" MODIFIED="1656530402328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/open_science_metrics_tools$open_access_publication_tracker.coverage" NAME="open_access_publication_tracker Coverage Results" MODIFIED="1656605823502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/open_science_metrics_tools$open_access_publication_tracker.coverage" NAME="open_access_publication_tracker Coverage Results" MODIFIED="1656949519351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/open_science_metrics_tools$open_access_plot_one_year_summary.coverage" NAME="open_access_plot_one_year_summary Coverage Results" MODIFIED="1655942071679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/open_science_metrics_tools$open_access_info_from_doi_list.coverage" NAME="open_access_info_from_doi_list Coverage Results" MODIFIED="1656444945933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/oa_publication_tracker$main.coverage" NAME="main Coverage Results" MODIFIED="1654694855245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

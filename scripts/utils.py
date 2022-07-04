@@ -140,6 +140,8 @@ def create_md_files(csv_file, out_dir):
         elif row[7] == 'bronze':
             oa_text = '<img src=' + oa_logo_link + ' alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Bronze OA)\n\n' + \
                       '&nbsp;&nbsp;&nbsp;[Access it freely here](' + row[9] + ')\n'
+        else:
+            oa_text = 'The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.\n\n'
 
         my_md_file = "---\n"
         my_md_file += 'title: ' + '"' + row[1] + '"' + '\n'

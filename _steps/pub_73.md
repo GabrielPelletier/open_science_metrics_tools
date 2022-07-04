@@ -1,12 +1,12 @@
 ---
-title: "Development of an endogenously myc-tagged TARDBP (TDP-43) zebrafish model using the CRISPR/Cas9 system and homology directed repair."
+title: "Neuropsychiatry's Role in the Postacute Sequelae of COVID-19: Report From the American Neuropsychiatric Association Committee on Research."
 date: 2022-05-18
 enddate:
 ---
 
-Published in: *Comparative biochemistry and physiology. Part B[comma] Biochemistry & molecular biology*
+Published in: *The Journal of neuropsychiatry and clinical neurosciences*
 
-DOI: [10.1016/j.cbpb.2022.110756](https://doi.org/10.1016/j.cbpb.2022.110756)
+DOI: [10.1176/appi.neuropsych.21080209](https://doi.org/10.1176/appi.neuropsych.21080209)
 
 This article is not available in Open Access
 
