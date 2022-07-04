@@ -1,12 +1,12 @@
 ---
-title: "Normal-range verbal memory in the first-episode of psychosis: Clinical and functional outcomes across 24 months and impact of estimated verbal memory decrement."
+title: "Artificial Neural Network Approach to Competency-Based Training Using a Virtual Reality Neurosurgical Simulation."
 date: 2022-06-22
 enddate:
 ---
 
-Published in: *Schizophrenia research*
+Published in: *Operative neurosurgery (Hagerstown[comma] Md.)*
 
-DOI: [10.1016/j.schres.2022.06.007](https://doi.org/10.1016/j.schres.2022.06.007)
+DOI: [10.1227/ons.0000000000000173](https://doi.org/10.1227/ons.0000000000000173)
 
 This article is not available in Open Access
 
