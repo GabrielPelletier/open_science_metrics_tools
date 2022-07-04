@@ -125,7 +125,7 @@ def create_md_files(csv_file, out_dir):
             date_text = row[5]
         oa_logo_link = '"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png"'
         green_oa_logo_link = '"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png"'
-        closed_logo_link = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png'
+        closed_logo_link = '"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png"'
         # Define text and formatting based on Open Access Status
         if row[7] == 'closed':
             oa_text = '<img src=' + closed_logo_link + ' alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.\n\n'
