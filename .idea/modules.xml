@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/oa_publication_tracker.iml" filepath="$PROJECT_DIR$/.idea/oa_publication_tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/open_science_metrics_tools.iml" filepath="$PROJECT_DIR$/.idea/open_science_metrics_tools.iml" />
     </modules>
   </component>
 </project>
