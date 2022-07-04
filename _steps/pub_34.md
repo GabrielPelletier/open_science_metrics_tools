@@ -8,6 +8,6 @@ Published in: *Neurotoxicity research*
 
 DOI: [10.1007/s12640-022-00475-w](https://doi.org/10.1007/s12640-022-00475-w)
 
-This article is not available in Open Access
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
 
