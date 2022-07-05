@@ -4,6 +4,7 @@
 
 from datetime import datetime
 
+
 def create_html_table(csv_file):
     # Writes a CSV table into a (rough) formatted HTML TABLE
     # The function requires 1 argument: the input file name.
@@ -37,6 +38,7 @@ def create_html_table(csv_file):
     fileout.writelines(table)
     fileout.close()
     filein.close()
+
 
 def create_html_file(csv_file):
     # Writes a CSV table into a formatted HTML file
