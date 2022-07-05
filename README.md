@@ -24,3 +24,4 @@ Set of tools to track Open Science metrics at an institutional level
   * pandas
   * datetime
   * re
+  * requests
