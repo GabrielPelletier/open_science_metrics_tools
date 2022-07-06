@@ -140,6 +140,8 @@ def create_md_files(csv_file, out_dir):
         elif row[7] == 'green':
             oa_text = '<img src=' + green_oa_logo_link + ' alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)\n\n' + \
                       '&nbsp;&nbsp;&nbsp;<a href="' + row[9].strip() + '" download>Access it freely here</a>\n'
+            # if the url have http instead of https, change it so the file download is not blocked
+            oa_text = oa_text.replace("http://", "https://")
         elif row[7] == 'bronze':
             oa_text = '<img src=' + oa_logo_link + ' alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Bronze OA)\n\n' + \
                       '&nbsp;&nbsp;&nbsp;<a href="' + row[9].strip() + '">Access it freely here</a>\n'
