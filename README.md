@@ -1,5 +1,11 @@
 # Open Science Metrics Tools
-Set of tools to track Open Science metrics at an institutional level
+Set of tools to track Open Science practices at an institutional level
+
+The goal is to eventually have tools to track:
+* Open Access Publications
+* Open Datasets
+* Open Code and Software
+* Open Protocols
 
 # Contributors
 * **Gabriel Pelletier**
