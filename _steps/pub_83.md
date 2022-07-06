@@ -1,13 +1,15 @@
 ---
-title: "CARE frailty e-health scale: Association with incident adverse health outcomes and comparison with the Cardiovascular Health Study frailty scale in the NuAge cohort."
-date: 2022-05-11
+title: "Generation of homozygous PRKN[comma] PINK1 and double PINK1/PRKN knockout cell lines from healthy induced pluripotent stem cells using CRISPR/Cas9 editing."
+date: 2022-05-14
 enddate:
 ---
 
-Published in: *Maturitas*
+Published in: *Stem cell research*
 
-DOI: [10.1016/j.maturitas.2022.04.006](https://doi.org/10.1016/j.maturitas.2022.04.006)
+DOI: [10.1016/j.scr.2022.102806](https://doi.org/10.1016/j.scr.2022.102806)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1016/j.scr.2022.102806
+)
 

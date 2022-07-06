@@ -1,13 +1,15 @@
 ---
-title: "Modeling the Hemodynamic Response Function Using EEG-fMRI Data During Eyes-Open Resting-State Conditions and Motor Task Execution."
-date: 2022-05-01
+title: "caliPER: A software for blood-free parametric Patlak mapping using PET/MRI input function."
+date: 2022-05-03
 enddate:
 ---
 
-Published in: *Brain topography*
+Published in: *NeuroImage*
 
-DOI: [10.1007/s10548-022-00898-w](https://doi.org/10.1007/s10548-022-00898-w)
+DOI: [10.1016/j.neuroimage.2022.119261](https://doi.org/10.1016/j.neuroimage.2022.119261)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1016/j.neuroimage.2022.119261
+)
 

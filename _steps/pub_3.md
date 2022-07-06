@@ -1,15 +1,15 @@
 ---
-title: "From YouTube to the brain: Transfer learning can improve brain-imaging predictions with deep learning."
+title: "Focal epilepsy disrupts spindle structure and function."
 date: 2022-07-02
 enddate:
 ---
 
-Published in: *Neural networks : the official journal of the International Neural Network Society*
+Published in: *Scientific reports*
 
-DOI: [10.1016/j.neunet.2022.06.014](https://doi.org/10.1016/j.neunet.2022.06.014)
+DOI: [10.1038/s41598-022-15147-0](https://doi.org/10.1038/s41598-022-15147-0)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](http://escholarship.mcgill.ca/downloads/f1881s061
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.nature.com/articles/s41598-022-15147-0.pdf
 )
 

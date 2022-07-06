@@ -1,13 +1,15 @@
 ---
-title: "Host Kinase CSNK2 is a Target for Inhibition of Pathogenic SARS-like β-Coronaviruses."
+title: "Analysis of the US Safety Data for Edaravone (Radicava"
 date: 2022-06-21
 enddate:
 ---
 
-Published in: *ACS chemical biology*
+Published in: *Drugs in R&D*
 
-DOI: [10.1021/acschembio.2c00378](https://doi.org/10.1021/acschembio.2c00378)
+DOI: [10.1007/s40268-022-00391-6](https://doi.org/10.1007/s40268-022-00391-6)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://link.springer.com/content/pdf/10.1007/s40268-022-00391-6.pdf
+)
 

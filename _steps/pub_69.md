@@ -1,15 +1,13 @@
 ---
-title: "Serum MOG-IgG in children meeting multiple sclerosis diagnostic criteria."
-date: 2022-05-19
+title: "Glutamate modulation for the treatment of levodopa induced dyskinesia: a brief review of the drugs tested in the clinic."
+date: 2022-05-20
 enddate:
 ---
 
-Published in: *Multiple sclerosis (Houndmills[comma] Basingstoke[comma] England)*
+Published in: *Neurodegenerative disease management*
 
-DOI: [10.1177/13524585221093789](https://doi.org/10.1177/13524585221093789)
+DOI: [10.2217/nmt-2021-0055](https://doi.org/10.2217/nmt-2021-0055)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://journals.sagepub.com/doi/pdf/10.1177/13524585221093789
-)
 

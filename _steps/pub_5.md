@@ -1,15 +1,13 @@
 ---
-title: "Naming impairments evoked by focal cortical electrical stimulation in the ventral temporal cortex correlate with increased functional connectivity."
+title: "Autopsy Human Brain Dissection Protocol for Common Age-Related Neurodegenerative Disorders."
 date: 2022-07-02
 enddate:
 ---
 
-Published in: *Neurophysiologie clinique = Clinical neurophysiology*
+Published in: *Methods in molecular biology (Clifton[comma] N.J.)*
 
-DOI: [10.1016/j.neucli.2022.06.002](https://doi.org/10.1016/j.neucli.2022.06.002)
+DOI: [10.1007/978-1-0716-2409-8_16](https://doi.org/10.1007/978-1-0716-2409-8_16)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1016/j.neucli.2022.06.002
-)
 

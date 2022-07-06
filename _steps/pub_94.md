@@ -1,15 +1,15 @@
 ---
-title: "Structural basis for feedforward control in the PINK1/Parkin pathway."
+title: "DARQ: Deep learning of quality control for stereotaxic registration of human brain MRI to the T1w MNI-ICBM 152 template."
 date: 2022-05-03
 enddate:
 ---
 
-Published in: *The EMBO journal*
+Published in: *NeuroImage*
 
-DOI: [10.15252/embj.2021109460](https://doi.org/10.15252/embj.2021109460)
+DOI: [10.1016/j.neuroimage.2022.119266](https://doi.org/10.1016/j.neuroimage.2022.119266)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1101/2021.08.16.456440
+&nbsp;&nbsp;&nbsp;[Access it freely here](https://doi.org/10.1016/j.neuroimage.2022.119266
 )
 
