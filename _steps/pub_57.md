@@ -1,15 +1,13 @@
 ---
-title: "Self-delivering RNAi compounds as therapeutic agents in the central nervous system to enhance axonal regeneration after injury."
-date: 2022-05-28
+title: "Automated Detection of Brain Metastases on T1-Weighted MRI Using a Convolutional Neural Network: Impact of Volume Aware Loss and Sampling Strategy."
+date: 2022-05-29
 enddate:
 ---
 
-Published in: *iScience*
+Published in: *Journal of magnetic resonance imaging : JMRI*
 
-DOI: [10.1016/j.isci.2022.104379](https://doi.org/10.1016/j.isci.2022.104379)
+DOI: [10.1002/jmri.28274](https://doi.org/10.1002/jmri.28274)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127586
-)
 

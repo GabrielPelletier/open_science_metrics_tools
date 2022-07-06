@@ -1,12 +1,12 @@
 ---
-title: "Meta-matching as a simple framework to translate phenotypic predictive models from big to small data."
-date: 2022-05-17
+title: "Development of an endogenously myc-tagged TARDBP (TDP-43) zebrafish model using the CRISPR/Cas9 system and homology directed repair."
+date: 2022-05-18
 enddate:
 ---
 
-Published in: *Nature neuroscience*
+Published in: *Comparative biochemistry and physiology. Part B[comma] Biochemistry & molecular biology*
 
-DOI: [10.1038/s41593-022-01059-9](https://doi.org/10.1038/s41593-022-01059-9)
+DOI: [10.1016/j.cbpb.2022.110756](https://doi.org/10.1016/j.cbpb.2022.110756)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

@@ -1,15 +1,13 @@
 ---
-title: "Genetic and phylogenetic uncoupling of structure and function in human transmodal cortex."
-date: 2022-05-10
+title: "Transsynaptic cerebellin 4-neogenin 1 signaling mediates LTP in the mouse dentate gyrus."
+date: 2022-05-12
 enddate:
 ---
 
-Published in: *Nature communications*
+Published in: *Proceedings of the National Academy of Sciences of the United States of America*
 
-DOI: [10.1038/s41467-022-29886-1](https://doi.org/10.1038/s41467-022-29886-1)
+DOI: [10.1073/pnas.2123421119](https://doi.org/10.1073/pnas.2123421119)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;[Access it freely here](https://www.nature.com/articles/s41467-022-29886-1.pdf
-)
 
