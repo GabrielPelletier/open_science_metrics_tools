@@ -142,7 +142,7 @@ def create_md_files(csv_file, out_dir):
                       '&nbsp;&nbsp;&nbsp;<a href="' + row[9].strip() + '">Access it freely here</a>\n'
         elif row[7] == 'bronze':
             oa_text = '<img src=' + oa_logo_link + ' alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Bronze OA)\n\n' + \
-                      '&nbsp;&nbsp;&nbsp;<a href="' + row[9].strip() + '">Access it freely here</a>\n'
+                      '&nbsp;&nbsp;&nbsp;<a href="' + row[9].strip() + '" download>Access it freely here</a>\n'
         else:
             oa_text = 'The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.\n\n'
 
