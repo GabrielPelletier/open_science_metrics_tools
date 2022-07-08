@@ -1,14 +1,14 @@
 ---
-title: "Differentiating amyloid beta spread in autosomal dominant and sporadic Alzheimer's disease."
-date: 2022-05-24
+title: "Brain stimulation competes with ongoing oscillations for control of spike timing in the primate brain."
+date: 2022-05-26
 enddate:
 ---
 
-Published in: *Brain communications*
+Published in: *PLoS biology*
 
-DOI: [10.1093/braincomms/fcac085](https://doi.org/10.1093/braincomms/fcac085)
+DOI: [10.1371/journal.pbio.3001650](https://doi.org/10.1371/journal.pbio.3001650)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://academic.oup.com/braincomms/article-pdf/4/3/fcac085/43752424/fcac085.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001650&type=printable">Access it freely here</a>
 
