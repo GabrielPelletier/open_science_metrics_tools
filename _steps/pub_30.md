@@ -1,14 +1,13 @@
 ---
-title: "Fast Streamline Search: An Exact Technique for Diffusion MRI Tractography."
-date: 2022-06-19
+title: "Host Kinase CSNK2 is a Target for Inhibition of Pathogenic SARS-like β-Coronaviruses."
+date: 2022-06-21
 enddate:
 ---
 
-Published in: *Neuroinformatics*
+Published in: *ACS chemical biology*
 
-DOI: [10.1007/s12021-022-09590-7](https://doi.org/10.1007/s12021-022-09590-7)
+DOI: [10.1021/acschembio.2c00378](https://doi.org/10.1021/acschembio.2c00378)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s12021-022-09590-7.pdf">Access it freely here</a>
 

@@ -1,14 +1,14 @@
 ---
-title: "Dopaminergic medication increases motivation to exert cognitive control by reducing subjective effort costs in Parkinson's patients."
-date: 2022-06-21
+title: "Cerebellar and cortico-striatal-midbrain contributions to reward-cognition processes and apathy within the psychosis continuum."
+date: 2022-06-22
 enddate:
 ---
 
-Published in: *Neurobiology of learning and memory*
+Published in: *Schizophrenia research*
 
-DOI: [10.1016/j.nlm.2022.107652](https://doi.org/10.1016/j.nlm.2022.107652)
+DOI: [10.1016/j.schres.2022.06.010](https://doi.org/10.1016/j.schres.2022.06.010)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.02.07.22270623" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.schres.2022.06.010">Access it freely here</a>
 

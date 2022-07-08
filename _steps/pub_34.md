@@ -1,14 +1,13 @@
 ---
-title: "The Role of MRI in the Treatment of Drug-Resistant Focal Epilepsy."
-date: 2022-06-16
+title: "Regenerative and restorative medicine for eye disease."
+date: 2022-06-18
 enddate:
 ---
 
-Published in: *European neurology*
+Published in: *Nature medicine*
 
-DOI: [10.1159/000525262](https://doi.org/10.1159/000525262)
+DOI: [10.1038/s41591-022-01862-8](https://doi.org/10.1038/s41591-022-01862-8)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.karger.com/Article/Pdf/525262">Access it freely here</a>
 
