@@ -1,14 +1,13 @@
 ---
-title: "Siponimod vs placebo in active secondary progressive multiple sclerosis: a post hoc analysis from the phase 3 EXPAND study."
+title: "Null models in network neuroscience."
 date: 2022-06-01
 enddate:
 ---
 
-Published in: *Journal of neurology*
+Published in: *Nature reviews. Neuroscience*
 
-DOI: [10.1007/s00415-022-11166-z](https://doi.org/10.1007/s00415-022-11166-z)
+DOI: [10.1038/s41583-022-00601-9](https://doi.org/10.1038/s41583-022-00601-9)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s00415-022-11166-z.pdf">Access it freely here</a>
 
