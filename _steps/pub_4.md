@@ -1,12 +1,12 @@
 ---
-title: "Adolescent development of multiscale structural wiring and functional interactions in the human connectome."
-date: 2022-07-02
+title: "Effect of glycine transporter 1 inhibition with bitopertin on parkinsonism and L-DOPA induced dyskinesia in the 6-OHDA-lesioned rat."
+date: 2022-07-06
 enddate:
 ---
 
-Published in: *Proceedings of the National Academy of Sciences of the United States of America*
+Published in: *European journal of pharmacology*
 
-DOI: [10.1073/pnas.2116673119](https://doi.org/10.1073/pnas.2116673119)
+DOI: [10.1016/j.ejphar.2022.175090](https://doi.org/10.1016/j.ejphar.2022.175090)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

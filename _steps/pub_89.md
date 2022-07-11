@@ -1,13 +1,13 @@
 ---
-title: "Ultrasound-based navigated pedicle screw insertion without intraoperative radiation: feasibility study on porcine cadavers."
-date: 2022-05-07
+title: "CARE frailty e-health scale: Association with incident adverse health outcomes and comparison with the Cardiovascular Health Study frailty scale in the NuAge cohort."
+date: 2022-05-11
 enddate:
 ---
 
-Published in: *The spine journal : official journal of the North American Spine Society*
+Published in: *Maturitas*
 
-DOI: [10.1016/j.spinee.2022.04.014](https://doi.org/10.1016/j.spinee.2022.04.014)
+DOI: [10.1016/j.maturitas.2022.04.006](https://doi.org/10.1016/j.maturitas.2022.04.006)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 

@@ -1,14 +1,13 @@
 ---
-title: "Genetic[comma] structural and clinical analysis of spastic paraplegia 4."
-date: 2022-04-30
+title: "Modeling the Hemodynamic Response Function Using EEG-fMRI Data During Eyes-Open Resting-State Conditions and Motor Task Execution."
+date: 2022-05-01
 enddate:
 ---
 
-Published in: *Parkinsonism & related disorders*
+Published in: *Brain topography*
 
-DOI: [10.1016/j.parkreldis.2022.03.019](https://doi.org/10.1016/j.parkreldis.2022.03.019)
+DOI: [10.1007/s10548-022-00898-w](https://doi.org/10.1007/s10548-022-00898-w)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2021.07.20.21259482" download>Access it freely here</a>
 
