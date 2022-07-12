@@ -1,14 +1,14 @@
 ---
-title: "Interacting brains revisited: A cross-brain network neuroscience perspective."
-date: 2022-06-07
+title: "Novel homozygous nonsense mutation of MLIP and compensatory alternative splicing."
+date: 2022-06-08
 enddate:
 ---
 
-Published in: *Human brain mapping*
+Published in: *NPJ genomic medicine*
 
-DOI: [10.1002/hbm.25966](https://doi.org/10.1002/hbm.25966)
+DOI: [10.1038/s41525-022-00307-y](https://doi.org/10.1038/s41525-022-00307-y)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.25966">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41525-022-00307-y.pdf">Access it freely here</a>
 
