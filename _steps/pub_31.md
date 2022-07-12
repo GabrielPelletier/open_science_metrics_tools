@@ -1,14 +1,13 @@
 ---
-title: "Allometry in the corpus callosum in neonates: Sexual dimorphism."
+title: "Host Kinase CSNK2 is a Target for Inhibition of Pathogenic SARS-like β-Coronaviruses."
 date: 2022-06-21
 enddate:
 ---
 
-Published in: *Human brain mapping*
+Published in: *ACS chemical biology*
 
-DOI: [10.1002/hbm.25977](https://doi.org/10.1002/hbm.25977)
+DOI: [10.1021/acschembio.2c00378](https://doi.org/10.1021/acschembio.2c00378)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.25977">Access it freely here</a>
 

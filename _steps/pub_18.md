@@ -1,13 +1,14 @@
 ---
-title: "Evaluation of the effects of the mGlu"
-date: 2022-06-28
+title: "White matter lesions may be an early marker for age-related cognitive decline."
+date: 2022-06-29
 enddate:
 ---
 
-Published in: *Pharmacological reports : PR*
+Published in: *NeuroImage. Clinical*
 
-DOI: [10.1007/s43440-022-00378-9](https://doi.org/10.1007/s43440-022-00378-9)
+DOI: [10.1016/j.nicl.2022.103096](https://doi.org/10.1016/j.nicl.2022.103096)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.nicl.2022.103096">Access it freely here</a>
 

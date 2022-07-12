@@ -1,13 +1,14 @@
 ---
-title: "An Exploratory Survey on the Care for Ataxic Patients in the American Continents and the Caribbean."
-date: 2022-07-08
+title: "Hallmarks and Molecular Tools for the Study of Mitophagy in Parkinson's Disease."
+date: 2022-07-10
 enddate:
 ---
 
-Published in: *Cerebellum (London[comma] England)*
+Published in: *Cells*
 
-DOI: [10.1007/s12311-022-01442-z](https://doi.org/10.1007/s12311-022-01442-z)
+DOI: [10.3390/cells11132097](https://doi.org/10.3390/cells11132097)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2073-4409/11/13/2097/pdf?version=1656753745">Access it freely here</a>
 

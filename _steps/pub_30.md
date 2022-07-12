@@ -1,14 +1,13 @@
 ---
-title: "Dopaminergic medication increases motivation to exert cognitive control by reducing subjective effort costs in Parkinson's patients."
-date: 2022-06-21
+title: "Nondominant Hand Skills Spatial and Psychomotor Analysis During a Complex Virtual Reality Neurosurgical Task-A Case Series Study."
+date: 2022-06-22
 enddate:
 ---
 
-Published in: *Neurobiology of learning and memory*
+Published in: *Operative neurosurgery (Hagerstown[comma] Md.)*
 
-DOI: [10.1016/j.nlm.2022.107652](https://doi.org/10.1016/j.nlm.2022.107652)
+DOI: [10.1227/ons.0000000000000232](https://doi.org/10.1227/ons.0000000000000232)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.02.07.22270623" download>Access it freely here</a>
 

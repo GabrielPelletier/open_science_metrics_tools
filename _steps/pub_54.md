@@ -1,14 +1,13 @@
 ---
-title: "Time-resolved structure-function coupling in brain networks."
-date: 2022-06-03
+title: "Event-based modelling in temporal lobe epilepsy demonstrates progressive atrophy from cross-sectional data."
+date: 2022-06-04
 enddate:
 ---
 
-Published in: *Communications biology*
+Published in: *Epilepsia*
 
-DOI: [10.1038/s42003-022-03466-x](https://doi.org/10.1038/s42003-022-03466-x)
+DOI: [10.1111/epi.17316](https://doi.org/10.1111/epi.17316)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s42003-022-03466-x.pdf">Access it freely here</a>
 
