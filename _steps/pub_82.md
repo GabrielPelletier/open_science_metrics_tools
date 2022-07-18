@@ -1,14 +1,13 @@
 ---
-title: "Recommendations for repositories and scientific gateways from a neuroscience perspective."
-date: 2022-05-17
+title: "Blood phospho-tau in Alzheimer disease: analysis[comma] interpretation[comma] and clinical utility."
+date: 2022-05-19
 enddate:
 ---
 
-Published in: *Scientific data*
+Published in: *Nature reviews. Neurology*
 
-DOI: [10.1038/s41597-022-01334-1](https://doi.org/10.1038/s41597-022-01334-1)
+DOI: [10.1038/s41582-022-00665-2](https://doi.org/10.1038/s41582-022-00665-2)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41597-022-01334-1.pdf">Access it freely here</a>
 

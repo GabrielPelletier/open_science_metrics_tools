@@ -1,13 +1,14 @@
 ---
-title: "Ultrasound-based navigated pedicle screw insertion without intraoperative radiation: feasibility study on porcine cadavers."
-date: 2022-05-07
+title: "Generation of homozygous PRKN[comma] PINK1 and double PINK1/PRKN knockout cell lines from healthy induced pluripotent stem cells using CRISPR/Cas9 editing."
+date: 2022-05-14
 enddate:
 ---
 
-Published in: *The spine journal : official journal of the North American Spine Society*
+Published in: *Stem cell research*
 
-DOI: [10.1016/j.spinee.2022.04.014](https://doi.org/10.1016/j.spinee.2022.04.014)
+DOI: [10.1016/j.scr.2022.102806](https://doi.org/10.1016/j.scr.2022.102806)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.scr.2022.102806">Access it freely here</a>
 

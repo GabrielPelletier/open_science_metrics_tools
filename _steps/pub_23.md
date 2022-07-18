@@ -1,13 +1,13 @@
 ---
-title: "Regional and age-related diversity of human mature oligodendrocytes."
-date: 2022-06-24
+title: "Evaluation of the effects of the mGlu"
+date: 2022-06-28
 enddate:
 ---
 
-Published in: *Glia*
+Published in: *Pharmacological reports : PR*
 
-DOI: [10.1002/glia.24230](https://doi.org/10.1002/glia.24230)
+DOI: [10.1007/s43440-022-00378-9](https://doi.org/10.1007/s43440-022-00378-9)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 
