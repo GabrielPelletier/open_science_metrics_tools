@@ -1,14 +1,13 @@
 ---
-title: "The Genetic and Molecular Analyses of "
-date: 2022-05-15
+title: "Neuropsychiatry's Role in the Postacute Sequelae of COVID-19: Report From the American Neuropsychiatric Association Committee on Research."
+date: 2022-05-18
 enddate:
 ---
 
-Published in: *Cancers*
+Published in: *The Journal of neuropsychiatry and clinical neurosciences*
 
-DOI: [10.3390/cancers14092251](https://doi.org/10.3390/cancers14092251)
+DOI: [10.1176/appi.neuropsych.21080209](https://doi.org/10.1176/appi.neuropsych.21080209)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2072-6694/14/9/2251/pdf?version=1652235679">Access it freely here</a>
 
