@@ -12,7 +12,7 @@
       <title>First article</title>
       <link>http://www.example.com/articles/1</link>
       <description>Open access!</description>
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" height="75" width="75" />
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" length="150" type="image/png" />
       <author>Santiago L. Valdarrama</author>
       <pubDate>Mon, 29 Dec 2014 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">http://www.example.com/articles/1</guid>
