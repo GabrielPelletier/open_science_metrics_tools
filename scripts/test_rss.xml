@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Sample RSS Feed</title>
     <link>http://www.example.com/rss</link>
@@ -11,8 +11,8 @@
     <item>
       <title>First article</title>
       <link>http://www.example.com/articles/1</link>
-      <description><![CDATA[<img align="left" hspace="5" src="http://www.whitegrass.com/June 2011/IMGP9201LG.jpg"/>
- Work a little, play a little, dream into summer, celebrate a great winter gone by, keep movin'... <br />]]></description>
+      <description>Open access!</description>
+      <media:thumbnail url='http://www.thatawesomeshirt.com/images/get/252/shirt_thumbnail' height='75' width='75' />
       <author>Santiago L. Valdarrama</author>
       <pubDate>Mon, 29 Dec 2014 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">http://www.example.com/articles/1</guid>
