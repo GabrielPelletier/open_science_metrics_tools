@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sample RSS Feed</title><link>http://www.example.com/rss</link><description>This is an example of how to use rfeed to generate an RSS 2.0 feed</description><language>en-US</language><lastBuildDate>Wed, 20 Jul 2022 16:56:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First article</title><link>http://www.example.com/articles/1</link><description><![CDATA[<div style="display:inline-block;vertical-align:top;">
-<img src="https://loremflickr.com/320/240" alt="img"/>
+<img src="https://loremflickr.com/320/240" alt="img" width="50"/>
 </div>
 <div style="display:inline-block;">
 <p>
