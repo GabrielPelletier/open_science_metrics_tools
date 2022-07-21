@@ -11,9 +11,8 @@
     <item>
       <title>First article</title>
       <link>http://www.example.com/articles/1</link>
-      <description>Open Access!</description>
-      <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" type="image/jpeg" medium="image" width="75" height="75">
-      </media:content>
+      <description><![CDATA[<img align="left" hspace="5" src="http://www.whitegrass.com/June 2011/IMGP9201LG.jpg"/>
+ Work a little, play a little, dream into summer, celebrate a great winter gone by, keep movin'... <br />]]></description>
       <author>Santiago L. Valdarrama</author>
       <pubDate>Mon, 29 Dec 2014 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">http://www.example.com/articles/1</guid>
