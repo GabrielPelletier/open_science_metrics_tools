@@ -1,4 +1,7 @@
-# Open Science Metrics Tools ~ Ongoing Work, no stable release yet ~
+# Open Science Metrics Tools
+
+ ~ **Ongoing Work, no stable release yet** ~
+
 Set of tools to track Open Science practices at an institutional level
 
 The goal is to eventually have tools to track:
