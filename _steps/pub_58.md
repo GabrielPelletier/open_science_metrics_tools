@@ -1,13 +1,14 @@
 ---
-title: "Event-based modelling in temporal lobe epilepsy demonstrates progressive atrophy from cross-sectional data."
-date: 2022-06-04
+title: "The Role of MRI in the Treatment of Drug-Resistant Focal Epilepsy."
+date: 2022-06-16
 enddate:
 ---
 
-Published in: *Epilepsia*
+Published in: *European neurology*
 
-DOI: [10.1111/epi.17316](https://doi.org/10.1111/epi.17316)
+DOI: [10.1159/000525262](https://doi.org/10.1159/000525262)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.karger.com/Article/Pdf/525262">Access it freely here</a>
 

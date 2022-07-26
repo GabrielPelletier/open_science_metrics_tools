@@ -1,12 +1,12 @@
 ---
-title: "Glutamate modulation for the treatment of levodopa induced dyskinesia: a brief review of the drugs tested in the clinic."
-date: 2022-05-20
+title: "Null models in network neuroscience."
+date: 2022-06-01
 enddate:
 ---
 
-Published in: *Neurodegenerative disease management*
+Published in: *Nature reviews. Neuroscience*
 
-DOI: [10.2217/nmt-2021-0055](https://doi.org/10.2217/nmt-2021-0055)
+DOI: [10.1038/s41583-022-00601-9](https://doi.org/10.1038/s41583-022-00601-9)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

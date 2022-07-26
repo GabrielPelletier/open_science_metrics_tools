@@ -1,13 +1,14 @@
 ---
-title: "Development and Validation of a Prediction Model for Perinatal Arterial Ischemic Stroke in Term Neonates."
-date: 2022-06-30
+title: "Hallmarks and Molecular Tools for the Study of Mitophagy in Parkinson's Disease."
+date: 2022-07-10
 enddate:
 ---
 
-Published in: *JAMA network open*
+Published in: *Cells*
 
-DOI: [10.1001/jamanetworkopen.2022.19203](https://doi.org/10.1001/jamanetworkopen.2022.19203)
+DOI: [10.3390/cells11132097](https://doi.org/10.3390/cells11132097)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2073-4409/11/13/2097/pdf?version=1656753745">Access it freely here</a>
 
