@@ -1,12 +1,12 @@
 ---
-title: "An overview of the active clinical trials for Parkinson's disease psychosis."
-date: 2022-05-21
+title: "Tau PET Imaging in Neurodegenerative Disorders."
+date: 2022-06-02
 enddate:
 ---
 
-Published in: *Neurodegenerative disease management*
+Published in: *Journal of nuclear medicine : official publication[comma] Society of Nuclear Medicine*
 
-DOI: [10.2217/nmt-2022-0020](https://doi.org/10.2217/nmt-2022-0020)
+DOI: [10.2967/jnumed.121.263196](https://doi.org/10.2967/jnumed.121.263196)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

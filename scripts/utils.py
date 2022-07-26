@@ -90,6 +90,12 @@ def create_html_file(csv_file):
             date_text = '<p>&emsp;Publication Date: ' + row[5] + '</p>\n'
             oa_text = '<p><strong>&emsp;This publication is available in Open Access! <span style="color:green">(Green OA)</span></strong></p>\n<p>&emsp;<a href=' + \
                       row[9] + ' target="_blank">Access it freely here.</a></p>\n'
+        elif row[7] == 'bronze':
+            title_text = '<h3>' + row[1] + '</h3>\n'
+            date_text = '<p>&emsp;Publication Date: ' + row[5] + '</p>\n'
+            oa_text = '<p><strong>&emsp;This publication is available in Open Access! <span style="color:brown">(Bronze OA)</span></strong></p>\n<p>&emsp;<a href=' + \
+                      row[9] + ' target="_blank">Access it freely here.</a></p>\n'
+
         # Write to file
         my_html_file += title_text
         my_html_file += date_text

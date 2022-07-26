@@ -1,12 +1,12 @@
 ---
-title: "Ultrasound-based navigated pedicle screw insertion without intraoperative radiation: feasibility study on porcine cadavers."
-date: 2022-05-07
+title: "Development of an endogenously myc-tagged TARDBP (TDP-43) zebrafish model using the CRISPR/Cas9 system and homology directed repair."
+date: 2022-05-18
 enddate:
 ---
 
-Published in: *The spine journal : official journal of the North American Spine Society*
+Published in: *Comparative biochemistry and physiology. Part B[comma] Biochemistry & molecular biology*
 
-DOI: [10.1016/j.spinee.2022.04.014](https://doi.org/10.1016/j.spinee.2022.04.014)
+DOI: [10.1016/j.cbpb.2022.110756](https://doi.org/10.1016/j.cbpb.2022.110756)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

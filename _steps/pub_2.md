@@ -1,14 +1,14 @@
 ---
-title: "17q21.31 sub-haplotypes underlying H1-associated risk for Parkinson's disease are associated with LRRC37A/2 expression in astrocytes."
-date: 2022-07-16
+title: "Relation of Brain Perfusion Patterns to Sudden Unexpected Death Risk Stratification: A Study in Drug Resistant Focal Epilepsy."
+date: 2022-07-26
 enddate:
 ---
 
-Published in: *Molecular neurodegeneration*
+Published in: *Behavioral sciences (Basel[comma] Switzerland)*
 
-DOI: [10.1186/s13024-022-00551-x](https://doi.org/10.1186/s13024-022-00551-x)
+DOI: [10.3390/bs12070207](https://doi.org/10.3390/bs12070207)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://molecularneurodegeneration.biomedcentral.com/track/pdf/10.1186/s13024-022-00551-x">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2076-328X/12/7/207/pdf?version=1657173910">Access it freely here</a>
 

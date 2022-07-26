@@ -1,14 +1,13 @@
 ---
-title: "Modulation Spectral Signal Representation for Quality Measurement and Enhancement of Wearable Device Data: A Technical Note."
-date: 2022-06-25
+title: "Modulation of DNA methylation and protein expression in the prefrontal cortex by repeated administration of D-lysergic acid diethylamide (LSD): Impact on neurotropic[comma] neurotrophic[comma] and neuroplasticity signaling."
+date: 2022-07-02
 enddate:
 ---
 
-Published in: *Sensors (Basel[comma] Switzerland)*
+Published in: *Progress in neuro-psychopharmacology & biological psychiatry*
 
-DOI: [10.3390/s22124579](https://doi.org/10.3390/s22124579)
+DOI: [10.1016/j.pnpbp.2022.110594](https://doi.org/10.1016/j.pnpbp.2022.110594)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/1424-8220/22/12/4579/pdf?version=1655458157">Access it freely here</a>
 

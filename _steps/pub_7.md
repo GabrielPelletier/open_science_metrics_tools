@@ -1,14 +1,14 @@
 ---
-title: "Hallmarks and Molecular Tools for the Study of Mitophagy in Parkinson's Disease."
-date: 2022-07-10
+title: "The value of testing for ATXN2 intermediate repeat expansions in routine clinical practice for amyotrophic lateral sclerosis."
+date: 2022-07-22
 enddate:
 ---
 
-Published in: *Cells*
+Published in: *European journal of human genetics : EJHG*
 
-DOI: [10.3390/cells11132097](https://doi.org/10.3390/cells11132097)
+DOI: [10.1038/s41431-022-01146-2](https://doi.org/10.1038/s41431-022-01146-2)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2073-4409/11/13/2097/pdf?version=1656753745">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41431-022-01146-2.pdf">Access it freely here</a>
 

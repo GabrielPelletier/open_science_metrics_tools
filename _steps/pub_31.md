@@ -1,12 +1,12 @@
 ---
-title: "Artificial Neural Network Approach to Competency-Based Training Using a Virtual Reality Neurosurgical Simulation."
-date: 2022-06-22
+title: "Prevalence and temporal trends of cerebral palsy in children born from 2002 to 2017 in Ontario[comma] Canada: Population-based cohort study."
+date: 2022-07-01
 enddate:
 ---
 
-Published in: *Operative neurosurgery (Hagerstown[comma] Md.)*
+Published in: *Developmental medicine and child neurology*
 
-DOI: [10.1227/ons.0000000000000173](https://doi.org/10.1227/ons.0000000000000173)
+DOI: [10.1111/dmcn.15324](https://doi.org/10.1111/dmcn.15324)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

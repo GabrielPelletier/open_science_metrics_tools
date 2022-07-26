@@ -1,14 +1,14 @@
 ---
-title: "Pattern learning reveals brain asymmetry to be linked to socioeconomic status."
-date: 2022-06-16
+title: "Cerebellar and cortico-striatal-midbrain contributions to reward-cognition processes and apathy within the psychosis continuum."
+date: 2022-06-22
 enddate:
 ---
 
-Published in: *Cerebral cortex communications*
+Published in: *Schizophrenia research*
 
-DOI: [10.1093/texcom/tgac020](https://doi.org/10.1093/texcom/tgac020)
+DOI: [10.1016/j.schres.2022.06.010](https://doi.org/10.1016/j.schres.2022.06.010)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://academic.oup.com/cercorcomms/article-pdf/3/2/tgac020/44024261/tgac020.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.schres.2022.06.010">Access it freely here</a>
 

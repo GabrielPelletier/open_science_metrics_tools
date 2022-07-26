@@ -1,14 +1,14 @@
 ---
-title: "Age of Acquisition Modulates Alpha Power During Bilingual Speech Comprehension in Noise."
-date: 2022-05-14
+title: "Unbiased proteomic analysis detects painful systemic inflammatory profile in the serum of nerve injured mice."
+date: 2022-05-20
 enddate:
 ---
 
-Published in: *Frontiers in psychology*
+Published in: *Pain*
 
-DOI: [10.3389/fpsyg.2022.865857](https://doi.org/10.3389/fpsyg.2022.865857)
+DOI: [10.1097/j.pain.0000000000002695](https://doi.org/10.1097/j.pain.0000000000002695)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.865857/pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://journals.lww.com/pain/Abstract/9900/Unbiased_proteomic_analysis_detects_painful.102.aspx">Access it freely here</a>
 
