@@ -1,13 +1,13 @@
 ---
-title: "Optimal blocking of the cerebral cortex for cytoarchitectonic examination: a neuronavigation-based approach."
-date: 2022-07-04
+title: "Estimating medical image registration error and confidence: A taxonomy and scoping review."
+date: 2022-07-21
 enddate:
 ---
 
-Published in: *Cerebral cortex (New York[comma] N.Y. : 1991)*
+Published in: *Medical image analysis*
 
-DOI: [10.1093/cercor/bhac236](https://doi.org/10.1093/cercor/bhac236)
+DOI: [10.1016/j.media.2022.102531](https://doi.org/10.1016/j.media.2022.102531)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 

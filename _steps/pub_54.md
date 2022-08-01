@@ -1,14 +1,14 @@
 ---
-title: "Onasemnogene abeparvovec for presymptomatic infants with three copies of SMN2 at risk for spinal muscular atrophy: the Phase III SPR1NT trial."
-date: 2022-06-18
+title: "Modulation Spectral Signal Representation for Quality Measurement and Enhancement of Wearable Device Data: A Technical Note."
+date: 2022-06-25
 enddate:
 ---
 
-Published in: *Nature medicine*
+Published in: *Sensors (Basel[comma] Switzerland)*
 
-DOI: [10.1038/s41591-022-01867-3](https://doi.org/10.1038/s41591-022-01867-3)
+DOI: [10.3390/s22124579](https://doi.org/10.3390/s22124579)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41591-022-01867-3.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/1424-8220/22/12/4579/pdf?version=1655458157">Access it freely here</a>
 

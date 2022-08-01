@@ -1,12 +1,12 @@
 ---
-title: "Emerging therapies for Duchenne muscular dystrophy."
-date: 2022-07-20
+title: "A parsimonious description of global functional brain organization in three spatiotemporal patterns."
+date: 2022-07-29
 enddate:
 ---
 
-Published in: *The Lancet. Neurology*
+Published in: *Nature neuroscience*
 
-DOI: [10.1016/S1474-4422(22)00125-9](https://doi.org/10.1016/S1474-4422(22)00125-9)
+DOI: [10.1038/s41593-022-01118-1](https://doi.org/10.1038/s41593-022-01118-1)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
