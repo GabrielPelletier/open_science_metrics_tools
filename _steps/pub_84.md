@@ -1,14 +1,13 @@
 ---
-title: "Intensity matters: protocol for a randomized controlled trial exercise intervention for individuals with chronic stroke."
-date: 2022-05-25
+title: "Population variation in social brain morphology: links to socioeconomic status and health disparity."
+date: 2022-06-07
 enddate:
 ---
 
-Published in: *Trials*
+Published in: *Social neuroscience*
 
-DOI: [10.1186/s13063-022-06359-w](https://doi.org/10.1186/s13063-022-06359-w)
+DOI: [10.1080/17470919.2022.2083230](https://doi.org/10.1080/17470919.2022.2083230)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://trialsjournal.biomedcentral.com/track/pdf/10.1186/s13063-022-06359-w">Access it freely here</a>
 

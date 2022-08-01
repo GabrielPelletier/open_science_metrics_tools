@@ -1,14 +1,14 @@
 ---
-title: "Multimodal connectome biomarkers of cognitive and affective dysfunction in the common epilepsies."
-date: 2022-06-24
+title: "Naming impairments evoked by focal cortical electrical stimulation in the ventral temporal cortex correlate with increased functional connectivity."
+date: 2022-07-02
 enddate:
 ---
 
-Published in: *Network neuroscience (Cambridge[comma] Mass.)*
+Published in: *Neurophysiologie clinique = Clinical neurophysiology*
 
-DOI: [10.1162/netn_a_00237](https://doi.org/10.1162/netn_a_00237)
+DOI: [10.1016/j.neucli.2022.06.002](https://doi.org/10.1016/j.neucli.2022.06.002)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://direct.mit.edu/netn/article-pdf/6/2/320/2028100/netn_a_00237.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neucli.2022.06.002">Access it freely here</a>
 

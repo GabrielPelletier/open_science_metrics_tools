@@ -1,13 +1,13 @@
 ---
-title: "Evaluation of the effects of the mGlu"
-date: 2022-06-28
+title: "An Exploratory Survey on the Care for Ataxic Patients in the American Continents and the Caribbean."
+date: 2022-07-08
 enddate:
 ---
 
-Published in: *Pharmacological reports : PR*
+Published in: *Cerebellum (London[comma] England)*
 
-DOI: [10.1007/s43440-022-00378-9](https://doi.org/10.1007/s43440-022-00378-9)
+DOI: [10.1007/s12311-022-01442-z](https://doi.org/10.1007/s12311-022-01442-z)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
 

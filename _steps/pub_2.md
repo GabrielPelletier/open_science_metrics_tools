@@ -1,14 +1,13 @@
 ---
-title: "Relation of Brain Perfusion Patterns to Sudden Unexpected Death Risk Stratification: A Study in Drug Resistant Focal Epilepsy."
-date: 2022-07-26
+title: "Association of Elevated Amyloid and Tau Positron Emission Tomography Signal With Near-Term Development of Alzheimer Disease Symptoms in Older Adults Without Cognitive Impairment."
+date: 2022-07-31
 enddate:
 ---
 
-Published in: *Behavioral sciences (Basel[comma] Switzerland)*
+Published in: *JAMA neurology*
 
-DOI: [10.3390/bs12070207](https://doi.org/10.3390/bs12070207)
+DOI: [10.1001/jamaneurol.2022.2379](https://doi.org/10.1001/jamaneurol.2022.2379)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2076-328X/12/7/207/pdf?version=1657173910">Access it freely here</a>
 
