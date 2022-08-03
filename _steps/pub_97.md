@@ -1,14 +1,13 @@
 ---
-title: "Self-delivering RNAi compounds as therapeutic agents in the central nervous system to enhance axonal regeneration after injury."
-date: 2022-05-28
+title: "Tau PET Imaging in Neurodegenerative Disorders."
+date: 2022-06-02
 enddate:
 ---
 
-Published in: *iScience*
+Published in: *Journal of nuclear medicine : official publication[comma] Society of Nuclear Medicine*
 
-DOI: [10.1016/j.isci.2022.104379](https://doi.org/10.1016/j.isci.2022.104379)
+DOI: [10.2967/jnumed.121.263196](https://doi.org/10.2967/jnumed.121.263196)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127586" download>Access it freely here</a>
 

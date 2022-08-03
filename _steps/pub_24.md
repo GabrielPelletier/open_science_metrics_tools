@@ -1,13 +1,13 @@
 ---
-title: "Estimating medical image registration error and confidence: A taxonomy and scoping review."
-date: 2022-07-21
+title: "Developmental cascades between insistence on sameness behaviour and anxiety symptoms in autism spectrum disorder."
+date: 2022-07-25
 enddate:
 ---
 
-Published in: *Medical image analysis*
+Published in: *European child & adolescent psychiatry*
 
-DOI: [10.1016/j.media.2022.102531](https://doi.org/10.1016/j.media.2022.102531)
+DOI: [10.1007/s00787-022-02049-9](https://doi.org/10.1007/s00787-022-02049-9)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
 

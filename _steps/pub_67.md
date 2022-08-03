@@ -1,14 +1,13 @@
 ---
-title: "Bilateral optogenetic activation of inhibitory cells favors ictogenesis."
-date: 2022-06-20
+title: "Nondominant Hand Skills Spatial and Psychomotor Analysis During a Complex Virtual Reality Neurosurgical Task-A Case Series Study."
+date: 2022-06-22
 enddate:
 ---
 
-Published in: *Neurobiology of disease*
+Published in: *Operative neurosurgery (Hagerstown[comma] Md.)*
 
-DOI: [10.1016/j.nbd.2022.105794](https://doi.org/10.1016/j.nbd.2022.105794)
+DOI: [10.1227/ons.0000000000000232](https://doi.org/10.1227/ons.0000000000000232)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.nbd.2022.105794">Access it freely here</a>
 

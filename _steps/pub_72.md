@@ -1,14 +1,14 @@
 ---
-title: "Pattern learning reveals brain asymmetry to be linked to socioeconomic status."
-date: 2022-06-16
+title: "Dopaminergic medication increases motivation to exert cognitive control by reducing subjective effort costs in Parkinson's patients."
+date: 2022-06-21
 enddate:
 ---
 
-Published in: *Cerebral cortex communications*
+Published in: *Neurobiology of learning and memory*
 
-DOI: [10.1093/texcom/tgac020](https://doi.org/10.1093/texcom/tgac020)
+DOI: [10.1016/j.nlm.2022.107652](https://doi.org/10.1016/j.nlm.2022.107652)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://academic.oup.com/cercorcomms/article-pdf/3/2/tgac020/44024261/tgac020.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.02.07.22270623" download>Access it freely here</a>
 

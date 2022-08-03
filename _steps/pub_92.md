@@ -1,14 +1,13 @@
 ---
-title: "A Riemannian approach to predicting brain function from the structural connectome."
-date: 2022-06-01
+title: "Event-based modelling in temporal lobe epilepsy demonstrates progressive atrophy from cross-sectional data."
+date: 2022-06-04
 enddate:
 ---
 
-Published in: *NeuroImage*
+Published in: *Epilepsia*
 
-DOI: [10.1016/j.neuroimage.2022.119299](https://doi.org/10.1016/j.neuroimage.2022.119299)
+DOI: [10.1111/epi.17316](https://doi.org/10.1111/epi.17316)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119299">Access it freely here</a>
 
