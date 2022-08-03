@@ -1,13 +1,14 @@
 ---
-title: "Prevalence and temporal trends of cerebral palsy in children born from 2002 to 2017 in Ontario[comma] Canada: Population-based cohort study."
-date: 2022-07-01
+title: "From YouTube to the brain: Transfer learning can improve brain-imaging predictions with deep learning."
+date: 2022-07-02
 enddate:
 ---
 
-Published in: *Developmental medicine and child neurology*
+Published in: *Neural networks : the official journal of the International Neural Network Society*
 
-DOI: [10.1111/dmcn.15324](https://doi.org/10.1111/dmcn.15324)
+DOI: [10.1016/j.neunet.2022.06.014](https://doi.org/10.1016/j.neunet.2022.06.014)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://escholarship.mcgill.ca/downloads/f1881s061" download>Access it freely here</a>
 

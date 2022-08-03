@@ -1,13 +1,14 @@
 ---
-title: "The Role of PTEN-L in Modulating PINK1-Parkin-Mediated Mitophagy."
-date: 2022-06-15
+title: "Fast Streamline Search: An Exact Technique for Diffusion MRI Tractography."
+date: 2022-06-19
 enddate:
 ---
 
-Published in: *Neurotoxicity research*
+Published in: *Neuroinformatics*
 
-DOI: [10.1007/s12640-022-00475-w](https://doi.org/10.1007/s12640-022-00475-w)
+DOI: [10.1007/s12021-022-09590-7](https://doi.org/10.1007/s12021-022-09590-7)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s12021-022-09590-7.pdf">Access it freely here</a>
 

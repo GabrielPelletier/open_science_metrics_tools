@@ -1,14 +1,14 @@
 ---
-title: "Intensity matters: protocol for a randomized controlled trial exercise intervention for individuals with chronic stroke."
-date: 2022-05-25
+title: "A Riemannian approach to predicting brain function from the structural connectome."
+date: 2022-06-01
 enddate:
 ---
 
-Published in: *Trials*
+Published in: *NeuroImage*
 
-DOI: [10.1186/s13063-022-06359-w](https://doi.org/10.1186/s13063-022-06359-w)
+DOI: [10.1016/j.neuroimage.2022.119299](https://doi.org/10.1016/j.neuroimage.2022.119299)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://trialsjournal.biomedcentral.com/track/pdf/10.1186/s13063-022-06359-w">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119299">Access it freely here</a>
 

@@ -1,14 +1,13 @@
 ---
-title: "Analysis of the US Safety Data for Edaravone (Radicava"
-date: 2022-06-21
+title: "Artificial Neural Network Approach to Competency-Based Training Using a Virtual Reality Neurosurgical Simulation."
+date: 2022-06-22
 enddate:
 ---
 
-Published in: *Drugs in R&D*
+Published in: *Operative neurosurgery (Hagerstown[comma] Md.)*
 
-DOI: [10.1007/s40268-022-00391-6](https://doi.org/10.1007/s40268-022-00391-6)
+DOI: [10.1227/ons.0000000000000173](https://doi.org/10.1227/ons.0000000000000173)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s40268-022-00391-6.pdf">Access it freely here</a>
 

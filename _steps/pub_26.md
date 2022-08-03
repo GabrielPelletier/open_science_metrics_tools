@@ -1,14 +1,13 @@
 ---
-title: "["
-date: 2022-07-20
+title: "Does epileptic activity impair sleep-related memory consolidation in epilepsy? A critical and systematic review."
+date: 2022-07-23
 enddate:
 ---
 
-Published in: *Nature communications*
+Published in: *Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine*
 
-DOI: [10.1038/s41467-022-30653-5](https://doi.org/10.1038/s41467-022-30653-5)
+DOI: [10.5664/jcsm.10166](https://doi.org/10.5664/jcsm.10166)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-30653-5.pdf">Access it freely here</a>
 

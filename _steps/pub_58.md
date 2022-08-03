@@ -1,13 +1,13 @@
 ---
-title: "Normal-range verbal memory in the first-episode of psychosis: Clinical and functional outcomes across 24 months and impact of estimated verbal memory decrement."
-date: 2022-06-22
+title: "Evaluation of the effects of the mGlu"
+date: 2022-06-28
 enddate:
 ---
 
-Published in: *Schizophrenia research*
+Published in: *Pharmacological reports : PR*
 
-DOI: [10.1016/j.schres.2022.06.007](https://doi.org/10.1016/j.schres.2022.06.007)
+DOI: [10.1007/s43440-022-00378-9](https://doi.org/10.1007/s43440-022-00378-9)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 
