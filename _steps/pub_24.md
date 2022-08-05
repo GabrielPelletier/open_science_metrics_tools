@@ -1,13 +1,14 @@
 ---
-title: "Developmental cascades between insistence on sameness behaviour and anxiety symptoms in autism spectrum disorder."
-date: 2022-07-25
+title: "Educational attainment polygenic scores[comma] socioeconomic factors[comma] and cortical structure in children and adolescents."
+date: 2022-07-28
 enddate:
 ---
 
-Published in: *European child & adolescent psychiatry*
+Published in: *Human brain mapping*
 
-DOI: [10.1007/s00787-022-02049-9](https://doi.org/10.1007/s00787-022-02049-9)
+DOI: [10.1002/hbm.26034](https://doi.org/10.1002/hbm.26034)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.26034">Access it freely here</a>
 

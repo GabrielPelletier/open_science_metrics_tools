@@ -1,13 +1,14 @@
 ---
-title: ""Letter to the Editor: ""Selection of Neurosurgical Applicants in High-Income Developing Countries: A Pilot Study from the Gulf Cooperation Council Countries"".""
-date: 2022-06-23
+title: "Modulation Spectral Signal Representation for Quality Measurement and Enhancement of Wearable Device Data: A Technical Note."
+date: 2022-06-25
 enddate:
 ---
 
-Published in: *World neurosurgery*
+Published in: *Sensors (Basel[comma] Switzerland)*
 
-DOI: [10.1016/j.wneu.2022.04.069](https://doi.org/10.1016/j.wneu.2022.04.069)
+DOI: [10.3390/s22124579](https://doi.org/10.3390/s22124579)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/1424-8220/22/12/4579/pdf?version=1655458157">Access it freely here</a>
 

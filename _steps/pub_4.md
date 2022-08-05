@@ -1,14 +1,13 @@
 ---
-title: "Novel "
+title: "Effect modification between genes and environment[comma] and Parkinson's disease risk."
 date: 2022-08-02
 enddate:
 ---
 
-Published in: *Life science alliance*
+Published in: *Annals of neurology*
 
-DOI: [10.26508/lsa.202101284](https://doi.org/10.26508/lsa.202101284)
+DOI: [10.1002/ana.26467](https://doi.org/10.1002/ana.26467)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.life-science-alliance.org/content/lsa/5/12/e202101284.full.pdf">Access it freely here</a>
 

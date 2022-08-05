@@ -1,14 +1,13 @@
 ---
-title: "["
-date: 2022-07-20
+title: "Estimating medical image registration error and confidence: A taxonomy and scoping review."
+date: 2022-07-21
 enddate:
 ---
 
-Published in: *Nature communications*
+Published in: *Medical image analysis*
 
-DOI: [10.1038/s41467-022-30653-5](https://doi.org/10.1038/s41467-022-30653-5)
+DOI: [10.1016/j.media.2022.102531](https://doi.org/10.1016/j.media.2022.102531)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-30653-5.pdf">Access it freely here</a>
 
