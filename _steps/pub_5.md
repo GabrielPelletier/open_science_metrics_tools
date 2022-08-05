@@ -1,13 +1,14 @@
 ---
-title: "Brain health as a global priority[comma] view from WHO: Editorial from the World Federation of Neurology."
-date: 2022-08-01
+title: "Anti-Epileptic Drugs in Geriatric Neurosurgery: A Review of 669 Neurosurgical Cases."
+date: 2022-08-02
 enddate:
 ---
 
-Published in: *Journal of the neurological sciences*
+Published in: *Journal of epilepsy research*
 
-DOI: [10.1016/j.jns.2022.120337](https://doi.org/10.1016/j.jns.2022.120337)
+DOI: [10.14581/jer.22005](https://doi.org/10.14581/jer.22005)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.j-epilepsy.org/upload/jer-22005.pdf">Access it freely here</a>
 
