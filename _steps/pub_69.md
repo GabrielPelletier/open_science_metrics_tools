@@ -1,14 +1,13 @@
 ---
-title: "Multimodal connectome biomarkers of cognitive and affective dysfunction in the common epilepsies."
-date: 2022-06-24
+title: ""Comparison of switching to 6-week dosing of natalizumab versus continuing with 4-week dosing in patients with relapsing-remitting multiple sclerosis (NOVA): a randomised"
+date: The Lancet Neurology
 enddate:
 ---
 
-Published in: *Network neuroscience (Cambridge[comma] Mass.)*
+Published in: * controlled*
 
-DOI: [10.1162/netn_a_00237](https://doi.org/10.1162/netn_a_00237)
+DOI: [ open-label](https://doi.org/ open-label)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://direct.mit.edu/netn/article-pdf/6/2/320/2028100/netn_a_00237.pdf">Access it freely here</a>
 

@@ -1,12 +1,12 @@
 ---
-title: "The evolution of synaptic and cognitive capacity: Insights from the nervous system transcriptome of "
-date: 2022-07-23
+title: "A parsimonious description of global functional brain organization in three spatiotemporal patterns"
+date: 2022-07-28
 enddate:
 ---
 
-Published in: *Proceedings of the National Academy of Sciences of the United States of America*
+Published in: *Nature Neuroscience*
 
-DOI: [10.1073/pnas.2122301119](https://doi.org/10.1073/pnas.2122301119)
+DOI: [10.1038/s41593-022-01118-1](https://doi.org/10.1038/s41593-022-01118-1)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

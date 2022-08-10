@@ -1,12 +1,12 @@
 ---
-title: "Association of Stroke Lesion Pattern and White Matter Hyperintensity Burden With Stroke Severity and Outcome."
-date: 2022-07-09
+title: "<scp>EEG‐fMRI</scp> of epileptiform discharges: non‐invasive investigation of the whole brain"
+date: 2022-07-13
 enddate:
 ---
 
-Published in: *Neurology*
+Published in: *Epilepsia*
 
-DOI: [10.1212/WNL.0000000000200926](https://doi.org/10.1212/WNL.0000000000200926)
+DOI: [10.1111/epi.17364](https://doi.org/10.1111/epi.17364)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

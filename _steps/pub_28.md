@@ -1,13 +1,13 @@
 ---
-title: "Silastic Electrode Positioner Extrusion as a Late Complication of Cochlear Implantation Surgery."
-date: 2022-07-28
+title: ""Subcortical Brain Development in Autism and Fragile X Syndrome: Evidence for Dynamic"
+date: 35331012
 enddate:
 ---
 
-Published in: *The journal of international advanced otology*
+Published in: * Age- and Disorder-Specific Trajectories in Infancy"*
 
-DOI: [10.5152/iao.2022.21391](https://doi.org/10.5152/iao.2022.21391)
+DOI: [American Journal of Psychiatry](https://doi.org/American Journal of Psychiatry)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 

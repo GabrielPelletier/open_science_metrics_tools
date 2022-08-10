@@ -1,13 +1,14 @@
 ---
-title: "Evaluation of the effects of the mGlu"
-date: 2022-06-28
+title: "Brain health for all on World Brain Day 2022"
+date: 2022-07-01
 enddate:
 ---
 
-Published in: *Pharmacological reports : PR*
+Published in: *The Lancet Neurology*
 
-DOI: [10.1007/s43440-022-00378-9](https://doi.org/10.1007/s43440-022-00378-9)
+DOI: [10.1016/S1474-4422(22)00295-2](https://doi.org/10.1016/S1474-4422(22)00295-2)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Bronze OA)
 
+&nbsp;&nbsp;&nbsp;<a href="http://www.thelancet.com/article/S1474442222002952/pdf">Access it freely here</a>
 

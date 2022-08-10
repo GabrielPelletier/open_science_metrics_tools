@@ -1,14 +1,14 @@
 ---
-title: "Transcriptomic effects of propranolol and primidone converge on molecular pathways relevant to essential tremor."
-date: 2022-08-05
+title: "From YouTube to the brain: Transfer learning can improve brain-imaging predictions with deep learning"
+date: 2022-09-01
 enddate:
 ---
 
-Published in: *NPJ genomic medicine*
+Published in: *Neural Networks*
 
-DOI: [10.1038/s41525-022-00318-9](https://doi.org/10.1038/s41525-022-00318-9)
+DOI: [10.1016/j.neunet.2022.06.014](https://doi.org/10.1016/j.neunet.2022.06.014)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41525-022-00318-9.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://escholarship.mcgill.ca/downloads/f1881s061" download>Access it freely here</a>
 
