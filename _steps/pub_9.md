@@ -1,13 +1,14 @@
 ---
-title: "Brain health as a global priority[comma] view from WHO: Editorial from the World Federation of Neurology."
-date: 2022-08-01
+title: "Novel "
+date: 2022-08-02
 enddate:
 ---
 
-Published in: *Journal of the neurological sciences*
+Published in: *Life science alliance*
 
-DOI: [10.1016/j.jns.2022.120337](https://doi.org/10.1016/j.jns.2022.120337)
+DOI: [10.26508/lsa.202101284](https://doi.org/10.26508/lsa.202101284)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.life-science-alliance.org/content/lsa/5/12/e202101284.full.pdf">Access it freely here</a>
 

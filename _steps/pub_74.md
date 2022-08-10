@@ -1,14 +1,14 @@
 ---
-title: "Dopaminergic medication increases motivation to exert cognitive control by reducing subjective effort costs in Parkinson's patients."
-date: 2022-06-21
+title: "Sigma oscillations protect or reinstate motor memory depending on their temporal coordination with slow waves."
+date: 2022-06-22
 enddate:
 ---
 
-Published in: *Neurobiology of learning and memory*
+Published in: *eLife*
 
-DOI: [10.1016/j.nlm.2022.107652](https://doi.org/10.1016/j.nlm.2022.107652)
+DOI: [10.7554/eLife.73930](https://doi.org/10.7554/eLife.73930)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.02.07.22270623" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.7554/elife.73930">Access it freely here</a>
 

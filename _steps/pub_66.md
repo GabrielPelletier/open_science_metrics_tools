@@ -1,13 +1,13 @@
 ---
-title: ""Letter to the Editor: ""Selection of Neurosurgical Applicants in High-Income Developing Countries: A Pilot Study from the Gulf Cooperation Council Countries"".""
-date: 2022-06-23
+title: "Evaluation of the effects of the mGlu"
+date: 2022-06-28
 enddate:
 ---
 
-Published in: *World neurosurgery*
+Published in: *Pharmacological reports : PR*
 
-DOI: [10.1016/j.wneu.2022.04.069](https://doi.org/10.1016/j.wneu.2022.04.069)
+DOI: [10.1007/s43440-022-00378-9](https://doi.org/10.1007/s43440-022-00378-9)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 

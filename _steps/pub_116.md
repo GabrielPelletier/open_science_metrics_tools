@@ -1,14 +1,13 @@
 ---
-title: "Unbiased proteomic analysis detects painful systemic inflammatory profile in the serum of nerve injured mice."
-date: 2022-05-20
+title: "Long-range functional connections mirror and link microarchitectural and cognitive hierarchies in the human brain."
+date: 2022-05-22
 enddate:
 ---
 
-Published in: *Pain*
+Published in: *Cerebral cortex (New York[comma] N.Y. : 1991)*
 
-DOI: [10.1097/j.pain.0000000000002695](https://doi.org/10.1097/j.pain.0000000000002695)
+DOI: [10.1093/cercor/bhac172](https://doi.org/10.1093/cercor/bhac172)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://journals.lww.com/pain/Abstract/9900/Unbiased_proteomic_analysis_detects_painful.102.aspx">Access it freely here</a>
 
