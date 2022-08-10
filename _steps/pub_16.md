@@ -1,13 +1,14 @@
 ---
-title: ""Effect modification between genes and environment"
-date: 35913124
+title: "A Riemannian approach to predicting brain function from the structural connectome"
+date: 2022-08-01
 enddate:
 ---
 
-Published in: * and Parkinson's disease risk"*
+Published in: *NeuroImage*
 
-DOI: [Annals of Neurology](https://doi.org/Annals of Neurology)
+DOI: [10.1016/j.neuroimage.2022.119299](https://doi.org/10.1016/j.neuroimage.2022.119299)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119299">Access it freely here</a>
 

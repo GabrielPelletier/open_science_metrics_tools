@@ -1,14 +1,13 @@
 ---
-title: "The ARSACS disease protein sacsin controls lysosomal positioning and reformation by regulating microtubule dynamics"
+title: "Subcortical Brain Development in Autism and Fragile X Syndrome: Evidence for Dynamic, Age- and Disorder-Specific Trajectories in Infancy"
 date: 2022-08-01
 enddate:
 ---
 
-Published in: *Journal of Biological Chemistry*
+Published in: *American Journal of Psychiatry*
 
-DOI: [10.1016/j.jbc.2022.102320](https://doi.org/10.1016/j.jbc.2022.102320)
+DOI: [10.1176/appi.ajp.21090896](https://doi.org/10.1176/appi.ajp.21090896)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="http://www.jbc.org/article/S0021925822007621/pdf">Access it freely here</a>
 

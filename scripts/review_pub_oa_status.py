@@ -68,7 +68,11 @@ for index, row in master_df.iterrows():
         is_oa = oa_info.at[0, 'is_oa']
         oa_type = oa_info.at[0, 'oa_status']
         my_title = oa_info.at[0, 'title']
+        if "," in my_title:
+            my_title = my_title.replace(",", "[comma]")
         my_journal = oa_info.at[0, 'journal_name']
+        if "," in my_journal:
+            my_journal = my_journal.replace(",", "[comma]")
         my_date_not_actual = oa_info.at[0, 'published_date']
         if oa_info.at[0, 'is_oa'] == True:
             oa_version = oa_info.at[0, 'best_oa_location.version']
