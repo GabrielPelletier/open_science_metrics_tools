@@ -1,12 +1,12 @@
 ---
-title: "The Role of PTEN-L in Modulating PINK1-Parkin-Mediated Mitophagy."
-date: 2022-06-15
+title: "Regenerative and restorative medicine for eye disease."
+date: 2022-06-18
 enddate:
 ---
 
-Published in: *Neurotoxicity research*
+Published in: *Nature medicine*
 
-DOI: [10.1007/s12640-022-00475-w](https://doi.org/10.1007/s12640-022-00475-w)
+DOI: [10.1038/s41591-022-01862-8](https://doi.org/10.1038/s41591-022-01862-8)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

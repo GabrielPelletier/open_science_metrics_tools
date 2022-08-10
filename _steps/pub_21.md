@@ -1,14 +1,13 @@
 ---
-title: "Structural network alterations in focal and generalized epilepsy assessed in a worldwide ENIGMA study follow axes of epilepsy risk gene expression."
-date: 2022-07-28
+title: "methoidNeurofilament light levels predict clinical progression and death in multiple system atrophy."
+date: 2022-07-30
 enddate:
 ---
 
-Published in: *Nature communications*
+Published in: *Brain : a journal of neurology*
 
-DOI: [10.1038/s41467-022-31730-5](https://doi.org/10.1038/s41467-022-31730-5)
+DOI: [10.1093/brain/awac253](https://doi.org/10.1093/brain/awac253)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-31730-5.pdf">Access it freely here</a>
 

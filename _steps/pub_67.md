@@ -1,13 +1,14 @@
 ---
-title: "Artificial Neural Network Approach to Competency-Based Training Using a Virtual Reality Neurosurgical Simulation."
-date: 2022-06-22
+title: "Increased brain volumetric measurement precision from multi-site 3D T1-weighted 3 T magnetic resonance imaging by correcting geometric distortions."
+date: 2022-06-27
 enddate:
 ---
 
-Published in: *Operative neurosurgery (Hagerstown[comma] Md.)*
+Published in: *Magnetic resonance imaging*
 
-DOI: [10.1227/ons.0000000000000173](https://doi.org/10.1227/ons.0000000000000173)
+DOI: [10.1016/j.mri.2022.06.005](https://doi.org/10.1016/j.mri.2022.06.005)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2021.11.29.469919" download>Access it freely here</a>
 
