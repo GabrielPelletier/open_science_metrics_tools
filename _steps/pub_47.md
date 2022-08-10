@@ -1,14 +1,13 @@
 ---
-title: "[11C]Martinostat PET analysis reveals reduced HDAC I availability in Alzheimer’s disease"
+title: "Silastic Electrode Positioner Extrusion as a Late Complication of Cochlear Implantation Surgery"
 date: 2022-07-19
 enddate:
 ---
 
-Published in: *Nature Communications*
+Published in: *The Journal of International Advanced Otology*
 
-DOI: [10.1038/s41467-022-30653-5](https://doi.org/10.1038/s41467-022-30653-5)
+DOI: [10.5152/iao.2022.21391](https://doi.org/10.5152/iao.2022.21391)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-30653-5.pdf">Access it freely here</a>
 

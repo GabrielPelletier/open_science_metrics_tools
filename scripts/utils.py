@@ -131,6 +131,14 @@ def create_md_files(csv_file, out_dir):
             date_text = datetime.strptime(row[5], '%m/%d/%Y').strftime('%Y-%m-%d') + " 00:00:00 -0700"
         except:
             date_text = row[5]
+        # Replace back [comma] placeholder by real ','
+        title_text = row[1]
+        if "[comma]" in title_text:
+            title_text = title_text.replace("[comma]", ",")
+        journal_text = row[2]
+        if "[comma]" in journal_text:
+            journal_text = journal_text.replace("[comma]", ",")
+
         oa_logo_link = '"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png"'
         green_oa_logo_link = '"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png"'
         closed_logo_link = '"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png"'
@@ -155,12 +163,12 @@ def create_md_files(csv_file, out_dir):
             oa_text = 'The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.\n\n'
 
         my_md_file = "---\n"
-        my_md_file += 'title: ' + '"' + row[1] + '"' + '\n'
+        my_md_file += 'title: ' + '"' + title_text + '"' + '\n'
         my_md_file += "date: " + date_text + "\n"
         my_md_file += "enddate:\n"
         my_md_file += "---\n"
         my_md_file += "\n"
-        my_md_file += 'Published in: *' + row[2] + '*\n\n'
+        my_md_file += 'Published in: *' + journal_text + '*\n\n'
         my_md_file += 'DOI: [' + row[3] +'](https://doi.org/' + row[3] + ')\n\n'
         my_md_file += oa_text + "\n"
 

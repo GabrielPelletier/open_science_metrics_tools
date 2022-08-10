@@ -1,13 +1,14 @@
 ---
-title: ""Educational attainment polygenic scores"
-date: 10.1002/hbm.26034
+title: "Educational attainment polygenic scores, socioeconomic factors, and cortical structure in children and adolescents"
+date: 2022-07-27
 enddate:
 ---
 
-Published in: * socioeconomic factors*
+Published in: *Human Brain Mapping*
 
-DOI: [ and cortical structure in children and adolescents"](https://doi.org/ and cortical structure in children and adolescents")
+DOI: [10.1002/hbm.26034](https://doi.org/10.1002/hbm.26034)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.26034">Access it freely here</a>
 
