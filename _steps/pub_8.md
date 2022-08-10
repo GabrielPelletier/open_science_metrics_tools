@@ -1,13 +1,13 @@
 ---
-title: "Trial of Prasinezumab in Early-Stage Parkinson's Disease."
-date: 2022-08-04
+title: ""Brain health as a global priority"
+date: 35908303
 enddate:
 ---
 
-Published in: *The New England journal of medicine*
+Published in: * view from WHO: Editorial from the World Federation of Neurology"*
 
-DOI: [10.1056/NEJMoa2202867](https://doi.org/10.1056/NEJMoa2202867)
+DOI: [Journal of the Neurological Sciences](https://doi.org/Journal of the Neurological Sciences)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 

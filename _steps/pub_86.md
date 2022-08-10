@@ -1,14 +1,14 @@
 ---
-title: "Pattern learning reveals brain asymmetry to be linked to socioeconomic status."
-date: 2022-06-16
+title: "Modulation Spectral Signal Representation for Quality Measurement and Enhancement of Wearable Device Data: A Technical Note"
+date: 2022-06-17
 enddate:
 ---
 
-Published in: *Cerebral cortex communications*
+Published in: *Sensors*
 
-DOI: [10.1093/texcom/tgac020](https://doi.org/10.1093/texcom/tgac020)
+DOI: [10.3390/s22124579](https://doi.org/10.3390/s22124579)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://academic.oup.com/cercorcomms/article-pdf/3/2/tgac020/44024261/tgac020.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/1424-8220/22/12/4579/pdf?version=1655458157">Access it freely here</a>
 

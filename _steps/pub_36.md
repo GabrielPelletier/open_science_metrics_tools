@@ -1,14 +1,13 @@
 ---
-title: "The value of testing for ATXN2 intermediate repeat expansions in routine clinical practice for amyotrophic lateral sclerosis."
-date: 2022-07-22
+title: "Permanent tissue damage in multiple sclerosis lesions is associated with reduced pre-lesion myelin and axon volume fractions"
+date: 2022-07-28
 enddate:
 ---
 
-Published in: *European journal of human genetics : EJHG*
+Published in: *Multiple Sclerosis Journal*
 
-DOI: [10.1038/s41431-022-01146-2](https://doi.org/10.1038/s41431-022-01146-2)
+DOI: [10.1177/13524585221110585](https://doi.org/10.1177/13524585221110585)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41431-022-01146-2.pdf">Access it freely here</a>
 

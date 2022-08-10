@@ -116,7 +116,7 @@ def create_md_files(csv_file, out_dir):
     # for each of them, in preparation for the website display in a neat timeline.
 
     # input file
-    filein = open(csv_file, "r")
+    filein = open(csv_file, "r", encoding='utf-8')
     data = filein.readlines()
 
     pub_num = 0
@@ -126,7 +126,7 @@ def create_md_files(csv_file, out_dir):
         pub_num += 1
         # create separate output md file for each publication
         md_file_name = out_dir + 'pub_' + str(pub_num) + '.md'
-        fileout = open(md_file_name, "w")
+        fileout = open(md_file_name, "w", encoding='utf-8')
         try:
             date_text = datetime.strptime(row[5], '%m/%d/%Y').strftime('%Y-%m-%d') + " 00:00:00 -0700"
         except:

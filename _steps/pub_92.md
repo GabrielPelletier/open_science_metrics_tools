@@ -1,13 +1,14 @@
 ---
-title: "Developmental Exposure to Bisphenol a Degrades Auditory Cortical Processing in Rats."
-date: 2022-06-08
+title: "Novel homozygous nonsense mutation of MLIP and compensatory alternative splicing"
+date: 2022-06-07
 enddate:
 ---
 
-Published in: *Neuroscience bulletin*
+Published in: *npj Genomic Medicine*
 
-DOI: [10.1007/s12264-022-00891-0](https://doi.org/10.1007/s12264-022-00891-0)
+DOI: [10.1038/s41525-022-00307-y](https://doi.org/10.1038/s41525-022-00307-y)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41525-022-00307-y.pdf">Access it freely here</a>
 

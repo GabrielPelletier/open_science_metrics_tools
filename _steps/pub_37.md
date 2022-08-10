@@ -1,13 +1,13 @@
 ---
-title: "Estimating medical image registration error and confidence: A taxonomy and scoping review."
-date: 2022-07-21
+title: "A molecular dialogue between local translation and mitochondria: powering mitophagy in axons"
+date: 2022-07-28
 enddate:
 ---
 
-Published in: *Medical image analysis*
+Published in: *Molecular Biology Reports*
 
-DOI: [10.1016/j.media.2022.102531](https://doi.org/10.1016/j.media.2022.102531)
+DOI: [10.1007/s11033-022-07708-3](https://doi.org/10.1007/s11033-022-07708-3)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
 

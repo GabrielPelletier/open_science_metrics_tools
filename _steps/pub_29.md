@@ -1,14 +1,14 @@
 ---
-title: "Educational attainment polygenic scores[comma] socioeconomic factors[comma] and cortical structure in children and adolescents."
-date: 2022-07-28
+title: "Toward in vivo proof of binding of 18F-labeled inhibitor [18F]TRACK to peripheral tropomyosin receptor kinases"
+date: 2022-07-30
 enddate:
 ---
 
-Published in: *Human brain mapping*
+Published in: *EJNMMI Research*
 
-DOI: [10.1002/hbm.26034](https://doi.org/10.1002/hbm.26034)
+DOI: [10.1186/s13550-022-00915-w](https://doi.org/10.1186/s13550-022-00915-w)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.26034">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://ejnmmires.springeropen.com/track/pdf/10.1186/s13550-022-00915-w">Access it freely here</a>
 

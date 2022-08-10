@@ -1,13 +1,13 @@
 ---
-title: "Brain health as a global priority[comma] view from WHO: Editorial from the World Federation of Neurology."
-date: 2022-08-01
+title: ""Postsurgical seizure outcome in temporal lobe epilepsy patients with normal or subtle"
+date: 34972090
 enddate:
 ---
 
-Published in: *Journal of the neurological sciences*
+Published in: * nonspecific MRI findings"*
 
-DOI: [10.1016/j.jns.2022.120337](https://doi.org/10.1016/j.jns.2022.120337)
+DOI: [Journal of Neurosurgery](https://doi.org/Journal of Neurosurgery)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 
