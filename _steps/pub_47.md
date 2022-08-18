@@ -1,13 +1,14 @@
 ---
-title: "Silastic Electrode Positioner Extrusion as a Late Complication of Cochlear Implantation Surgery"
-date: 2022-07-19
+title: "Factors associated with resilience among children and youths with disability during the COVID-19 pandemic"
+date: 2022-07-29
 enddate:
 ---
 
-Published in: *The Journal of International Advanced Otology*
+Published in: *PLOS ONE*
 
-DOI: [10.5152/iao.2022.21391](https://doi.org/10.5152/iao.2022.21391)
+DOI: [10.1371/journal.pone.0271229](https://doi.org/10.1371/journal.pone.0271229)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0271229&type=printable">Access it freely here</a>
 

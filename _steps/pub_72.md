@@ -1,13 +1,13 @@
 ---
-title: "Anti-Epileptic Drugs in Geriatric Neurosurgery: A Review of 669 Neurosurgical Cases"
-date: 2022-06-30
+title: "Adolescent development of multiscale structural wiring and functional interactions in the human connectome"
+date: 2022-07-01
 enddate:
 ---
 
-Published in: *Journal of Epilepsy Research*
+Published in: *Proceedings of the National Academy of Sciences*
 
-DOI: [10.1093/braincomms/fcac151](https://doi.org/10.1093/braincomms/fcac151)
+DOI: [10.1073/pnas.2116673119](https://doi.org/10.1073/pnas.2116673119)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
 
