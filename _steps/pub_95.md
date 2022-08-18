@@ -1,14 +1,14 @@
 ---
-title: "Interacting brains revisited: A cross‐brain network neuroscience perspective"
-date: 2022-06-06
+title: "Analysis of the US Safety Data for Edaravone (Radicava®) From the Third Year After Launch"
+date: 2022-06-20
 enddate:
 ---
 
-Published in: *Human Brain Mapping*
+Published in: *Drugs in R&amp;D*
 
-DOI: [10.1002/hbm.25966](https://doi.org/10.1002/hbm.25966)
+DOI: [10.1007/s40268-022-00391-6](https://doi.org/10.1007/s40268-022-00391-6)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2021.02.20.432051" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s40268-022-00391-6.pdf">Access it freely here</a>
 

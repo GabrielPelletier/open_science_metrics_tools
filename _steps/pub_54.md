@@ -1,13 +1,14 @@
 ---
-title: "Association of Stroke Lesion Pattern and White Matter Hyperintensity Burden With Stroke Severity and Outcome"
-date: 2022-07-08
+title: "Educational attainment polygenic scores, socioeconomic factors, and cortical structure in children and adolescents"
+date: 2022-07-27
 enddate:
 ---
 
-Published in: *Neurology*
+Published in: *Human Brain Mapping*
 
-DOI: [10.1212/WNL.0000000000200926](https://doi.org/10.1212/WNL.0000000000200926)
+DOI: [10.1002/hbm.26034](https://doi.org/10.1002/hbm.26034)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.26034">Access it freely here</a>
 
