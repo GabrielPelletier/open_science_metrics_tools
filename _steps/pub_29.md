@@ -1,14 +1,13 @@
 ---
-title: "Human electromagnetic and haemodynamic networks systematically converge in unimodal cortex and diverge in transmodal cortex"
-date: 2022-08-01
+title: "Trial of Cinpanemab in Early Parkinson’s Disease"
+date: 2022-08-04
 enddate:
 ---
 
-Published in: *PLOS Biology*
+Published in: *New England Journal of Medicine*
 
-DOI: [10.1371/journal.pbio.3001735](https://doi.org/10.1371/journal.pbio.3001735)
+DOI: [10.1056/NEJMoa2203395](https://doi.org/10.1056/NEJMoa2203395)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001735&type=printable">Access it freely here</a>
 

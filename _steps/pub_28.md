@@ -1,12 +1,12 @@
 ---
-title: "Effect modification between genes and environment, and Parkinson's disease risk"
-date: 2022-08-01
+title: "Trial of Prasinezumab in Early-Stage Parkinson’s Disease"
+date: 2022-08-04
 enddate:
 ---
 
-Published in: *Annals of Neurology*
+Published in: *New England Journal of Medicine*
 
-DOI: [10.1002/ana.26467](https://doi.org/10.1002/ana.26467)
+DOI: [10.1056/NEJMoa2202867](https://doi.org/10.1056/NEJMoa2202867)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

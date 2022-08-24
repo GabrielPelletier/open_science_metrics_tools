@@ -1,14 +1,13 @@
 ---
-title: "Signatures of somatosensory cortical dysfunction in Alzheimer’s disease and HIV-associated neurocognitive disorder"
-date: 2022-06-23
+title: "Anti-Epileptic Drugs in Geriatric Neurosurgery: A Review of 669 Neurosurgical Cases"
+date: 2022-06-30
 enddate:
 ---
 
-Published in: *Brain Communications*
+Published in: *Journal of Epilepsy Research*
 
-DOI: [10.1093/braincomms/fcac169](https://doi.org/10.1093/braincomms/fcac169)
+DOI: [10.1001/jamanetworkopen.2022.19203](https://doi.org/10.1001/jamanetworkopen.2022.19203)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://academic.oup.com/braincomms/advance-article-pdf/doi/10.1093/braincomms/fcac169/44226037/fcac169.pdf">Access it freely here</a>
 

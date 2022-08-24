@@ -1,12 +1,12 @@
 ---
-title: "Comparing neural activity during autobiographical memory retrieval between younger and older adults: An ALE meta-analysis."
-date: 2022-08-15
+title: ""Reply to: ""Could Blood Hexosylsphingosine Be a Marker for Parkinson's Disease Linked with GBA1 Mutations""?""
+date: 2022-08-19
 enddate:
 ---
 
-Published in: *Neurobiology of aging*
+Published in: *Movement disorders : official journal of the Movement Disorder Society*
 
-DOI: [10.1016/j.neurobiolaging.2022.06.009](https://doi.org/10.1016/j.neurobiolaging.2022.06.009)
+DOI: [10.1002/mds.29136](https://doi.org/10.1002/mds.29136)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
