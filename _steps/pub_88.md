@@ -1,14 +1,13 @@
 ---
-title: "Long-term safety and efficacy of ozanimod in relapsing multiple sclerosis: Up to 5 years of follow-up in the DAYBREAK open-label extension trial"
-date: 2022-06-28
+title: "Prevalence and temporal trends of cerebral palsy in children born from 2002 to 2017 in Ontario, Canada: Population‐based cohort study"
+date: 2022-06-30
 enddate:
 ---
 
-Published in: *Multiple Sclerosis Journal*
+Published in: *Developmental Medicine &amp; Child Neurology*
 
-DOI: [10.1177/13524585221102584](https://doi.org/10.1177/13524585221102584)
+DOI: [10.1111/dmcn.15324](https://doi.org/10.1111/dmcn.15324)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://journals.sagepub.com/doi/pdf/10.1177/13524585221102584">Access it freely here</a>
 

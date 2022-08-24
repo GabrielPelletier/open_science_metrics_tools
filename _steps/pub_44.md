@@ -1,14 +1,14 @@
 ---
-title: "Toward in vivo proof of binding of 18F-labeled inhibitor [18F]TRACK to peripheral tropomyosin receptor kinases"
-date: 2022-07-30
+title: "caliPER: A software for blood-free parametric Patlak mapping using PET/MRI input function"
+date: 2022-08-01
 enddate:
 ---
 
-Published in: *EJNMMI Research*
+Published in: *NeuroImage*
 
-DOI: [10.1186/s13550-022-00915-w](https://doi.org/10.1186/s13550-022-00915-w)
+DOI: [10.1016/j.neuroimage.2022.119261](https://doi.org/10.1016/j.neuroimage.2022.119261)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://ejnmmires.springeropen.com/track/pdf/10.1186/s13550-022-00915-w">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119261">Access it freely here</a>
 

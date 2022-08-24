@@ -1,13 +1,14 @@
 ---
-title: "The Association Between Somatic Symptom Disorders and Neurocognitive Disorders: A Systematic Review."
-date: 2022-08-16
+title: "Age-related changes of deep-brain neurophysiological activity."
+date: 2022-08-22
 enddate:
 ---
 
-Published in: *The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry*
+Published in: *Cerebral cortex (New York, N.Y. : 1991)*
 
-DOI: [10.1016/j.jagp.2022.07.007](https://doi.org/10.1016/j.jagp.2022.07.007)
+DOI: [10.1093/cercor/bhac319](https://doi.org/10.1093/cercor/bhac319)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.04.27.489652" download>Access it freely here</a>
 

@@ -1,14 +1,13 @@
 ---
-title: "Early protein energy malnutrition impacts life-long developmental trajectories of the sources of EEG rhythmic activity"
+title: "Emerging therapies for Duchenne muscular dystrophy"
 date: 2022-07-01
 enddate:
 ---
 
-Published in: *NeuroImage*
+Published in: *The Lancet Neurology*
 
-DOI: [10.1016/j.neuroimage.2022.119144](https://doi.org/10.1016/j.neuroimage.2022.119144)
+DOI: [10.1016/S1474-4422(22)00125-9](https://doi.org/10.1016/S1474-4422(22)00125-9)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119144">Access it freely here</a>
 
