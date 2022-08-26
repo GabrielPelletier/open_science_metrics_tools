@@ -1,14 +1,14 @@
 ---
-title: "17q21.31 sub-haplotypes underlying H1-associated risk for Parkinson’s disease are associated with LRRC37A/2 expression in astrocytes"
-date: 2022-07-15
+title: "The value of testing for ATXN2 intermediate repeat expansions in routine clinical practice for amyotrophic lateral sclerosis"
+date: 2022-07-21
 enddate:
 ---
 
-Published in: *Molecular Neurodegeneration*
+Published in: *European Journal of Human Genetics*
 
-DOI: [10.1186/s13024-022-00551-x](https://doi.org/10.1186/s13024-022-00551-x)
+DOI: [10.1038/s41431-022-01146-2](https://doi.org/10.1038/s41431-022-01146-2)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://molecularneurodegeneration.biomedcentral.com/track/pdf/10.1186/s13024-022-00551-x">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41431-022-01146-2.pdf">Access it freely here</a>
 

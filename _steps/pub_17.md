@@ -1,12 +1,12 @@
 ---
-title: "A Data-Driven Approach in an Unbiased Sample Reveals Equivalent Sex Ratio of Autism Spectrum Disorder-Associated Impairment in Early Childhood."
-date: 2022-08-15
+title: "Do variants in the coding regions of FOXP2, a gene implicated in speech disorder, confer a risk for congenital amusia?"
+date: 2022-08-19
 enddate:
 ---
 
-Published in: *Biological psychiatry*
+Published in: *Annals of the New York Academy of Sciences*
 
-DOI: [10.1016/j.biopsych.2022.05.027](https://doi.org/10.1016/j.biopsych.2022.05.027)
+DOI: [10.1111/nyas.14883](https://doi.org/10.1111/nyas.14883)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
