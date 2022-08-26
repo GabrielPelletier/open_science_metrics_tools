@@ -1,12 +1,12 @@
 ---
-title: "The Association Between Somatic Symptom Disorders and Neurocognitive Disorders: A Systematic Review."
-date: 2022-08-16
+title: ""Reply to: ""Could Blood Hexosylsphingosine Be a Marker for Parkinson's Disease Linked with GBA1 Mutations""?""
+date: 2022-08-19
 enddate:
 ---
 
-Published in: *The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry*
+Published in: *Movement disorders : official journal of the Movement Disorder Society*
 
-DOI: [10.1016/j.jagp.2022.07.007](https://doi.org/10.1016/j.jagp.2022.07.007)
+DOI: [10.1002/mds.29136](https://doi.org/10.1002/mds.29136)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
