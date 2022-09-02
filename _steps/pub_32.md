@@ -1,14 +1,13 @@
 ---
-title: "Transcriptomic effects of propranolol and primidone converge on molecular pathways relevant to essential tremor"
-date: 2022-08-04
+title: "Distinct and sex-specific expression of mu opioid receptors in anterior cingulate and somatosensory S1 cortical areas."
+date: 2022-08-17
 enddate:
 ---
 
-Published in: *npj Genomic Medicine*
+Published in: *Pain*
 
-DOI: [10.1038/s41525-022-00318-9](https://doi.org/10.1038/s41525-022-00318-9)
+DOI: [10.1097/j.pain.0000000000002751](https://doi.org/10.1097/j.pain.0000000000002751)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41525-022-00318-9.pdf">Access it freely here</a>
 

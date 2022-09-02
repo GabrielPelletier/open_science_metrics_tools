@@ -1,13 +1,14 @@
 ---
-title: "Anti-Epileptic Drugs in Geriatric Neurosurgery: A Review of 669 Neurosurgical Cases"
-date: 2022-06-30
+title: "Rapid macropinocytic transfer of α-synuclein to lysosomes"
+date: 2022-07-01
 enddate:
 ---
 
-Published in: *Journal of Epilepsy Research*
+Published in: *Cell Reports*
 
-DOI: [10.1093/braincomms/fcac151](https://doi.org/10.1093/braincomms/fcac151)
+DOI: [10.1016/j.celrep.2022.111102](https://doi.org/10.1016/j.celrep.2022.111102)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="http://www.cell.com/article/S2211124722009044/pdf">Access it freely here</a>
 

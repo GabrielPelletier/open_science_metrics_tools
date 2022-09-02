@@ -1,12 +1,12 @@
 ---
-title: "Trial of Prasinezumab in Early-Stage Parkinson’s Disease"
-date: 2022-08-04
+title: "The Association Between Somatic Symptom Disorders and Neurocognitive Disorders: A Systematic Review."
+date: 2022-08-16
 enddate:
 ---
 
-Published in: *New England Journal of Medicine*
+Published in: *The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry*
 
-DOI: [10.1056/NEJMoa2202867](https://doi.org/10.1056/NEJMoa2202867)
+DOI: [10.1016/j.jagp.2022.07.007](https://doi.org/10.1016/j.jagp.2022.07.007)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

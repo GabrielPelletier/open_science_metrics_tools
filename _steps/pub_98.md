@@ -1,12 +1,12 @@
 ---
-title: "Evaluation of the effects of the mGlu2/3 antagonist LY341495 on dyskinesia and psychosis-like behaviours in the MPTP-lesioned marmoset"
-date: 2022-06-27
+title: "Comparison of switching to 6-week dosing of natalizumab versus continuing with 4-week dosing in patients with relapsing-remitting multiple sclerosis (NOVA): a randomised, controlled, open-label, phase 3b trial"
+date: 2022-07-01
 enddate:
 ---
 
-Published in: *Pharmacological Reports*
+Published in: *The Lancet Neurology*
 
-DOI: [10.1007/s43440-022-00378-9](https://doi.org/10.1007/s43440-022-00378-9)
+DOI: [10.1016/S1474-4422(22)00143-0](https://doi.org/10.1016/S1474-4422(22)00143-0)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

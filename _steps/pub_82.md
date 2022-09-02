@@ -1,12 +1,12 @@
 ---
-title: "Adolescent development of multiscale structural wiring and functional interactions in the human connectome"
-date: 2022-07-01
+title: "Convergent and divergent oscillatory aberrations during visuospatial processing in HIV-related cognitive impairment and Alzheimer’s disease"
+date: 2022-07-19
 enddate:
 ---
 
-Published in: *Proceedings of the National Academy of Sciences*
+Published in: *Cerebral Cortex*
 
-DOI: [10.1073/pnas.2116673119](https://doi.org/10.1073/pnas.2116673119)
+DOI: [10.1093/cercor/bhac268](https://doi.org/10.1093/cercor/bhac268)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
