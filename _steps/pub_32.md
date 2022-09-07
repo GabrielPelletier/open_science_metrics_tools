@@ -1,12 +1,12 @@
 ---
-title: "Distinct and sex-specific expression of mu opioid receptors in anterior cingulate and somatosensory S1 cortical areas."
-date: 2022-08-17
+title: "Clinical studies in amyotrophic lateral sclerosis"
+date: 2022-08-05
 enddate:
 ---
 
-Published in: *Pain*
+Published in: *Current Opinion in Neurology*
 
-DOI: [10.1097/j.pain.0000000000002751](https://doi.org/10.1097/j.pain.0000000000002751)
+DOI: [10.1097/WCO.0000000000001099](https://doi.org/10.1097/WCO.0000000000001099)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

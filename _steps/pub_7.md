@@ -1,13 +1,14 @@
 ---
-title: "Brain health as a global priority, view from WHO: Editorial from the World Federation of Neurology"
+title: "Vascular burden and cognition: Mediating roles of neurodegeneration and amyloid PET"
 date: 2022-09-01
 enddate:
 ---
 
-Published in: *Journal of the Neurological Sciences*
+Published in: *Alzheimer's &amp; Dementia*
 
-DOI: [10.1016/j.jns.2022.120337](https://doi.org/10.1016/j.jns.2022.120337)
+DOI: [10.1002/alz.12750](https://doi.org/10.1002/alz.12750)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2021.12.24.21267786" download>Access it freely here</a>
 

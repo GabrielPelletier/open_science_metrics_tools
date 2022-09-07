@@ -1,14 +1,13 @@
 ---
-title: "Neuroscout, a unified platform for generalizable and reproducible fMRI research."
+title: "Modulation of in vitro epileptiform activity by optogenetic stimulation of parvalbumin-positive interneurons"
 date: 2022-08-31
 enddate:
 ---
 
-Published in: *eLife*
+Published in: *Journal of Neurophysiology*
 
-DOI: [10.7554/eLife.79277](https://doi.org/10.7554/eLife.79277)
+DOI: [10.1152/jn.00192.2022](https://doi.org/10.1152/jn.00192.2022)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.7554/elife.79277">Access it freely here</a>
 
