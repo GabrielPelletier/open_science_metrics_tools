@@ -1,14 +1,14 @@
 ---
-title: "From Precision Medicine to Precision Convergence for Multilevel Resilience—The Aging Brain and Its Social Isolation"
-date: 2022-07-05
+title: "Early protein energy malnutrition impacts life-long developmental trajectories of the sources of EEG rhythmic activity"
+date: 2022-07-01
 enddate:
 ---
 
-Published in: *Frontiers in Public Health*
+Published in: *NeuroImage*
 
-DOI: [10.3389/fpubh.2022.720117](https://doi.org/10.3389/fpubh.2022.720117)
+DOI: [10.1016/j.neuroimage.2022.119144](https://doi.org/10.1016/j.neuroimage.2022.119144)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpubh.2022.720117/pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119144">Access it freely here</a>
 

@@ -1,12 +1,12 @@
 ---
-title: "Convergent and divergent oscillatory aberrations during visuospatial processing in HIV-related cognitive impairment and Alzheimer’s disease"
-date: 2022-07-19
+title: "<scp>EEG‐fMRI</scp> of epileptiform discharges: non‐invasive investigation of the whole brain"
+date: 2022-07-13
 enddate:
 ---
 
-Published in: *Cerebral Cortex*
+Published in: *Epilepsia*
 
-DOI: [10.1093/cercor/bhac268](https://doi.org/10.1093/cercor/bhac268)
+DOI: [10.1111/epi.17364](https://doi.org/10.1111/epi.17364)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

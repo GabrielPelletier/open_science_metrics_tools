@@ -1,14 +1,13 @@
 ---
-title: "Local molecular and global connectomic contributions to cross-disorder cortical abnormalities."
-date: 2022-08-11
+title: "Postsurgical seizure outcome in temporal lobe epilepsy patients with normal or subtle, nonspecific MRI findings"
+date: 2022-08-01
 enddate:
 ---
 
-Published in: *Nature communications*
+Published in: *Journal of Neurosurgery*
 
-DOI: [10.1038/s41467-022-32420-y](https://doi.org/10.1038/s41467-022-32420-y)
+DOI: [10.3171/2021.10.JNS2127](https://doi.org/10.3171/2021.10.JNS2127)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-32420-y.pdf">Access it freely here</a>
 

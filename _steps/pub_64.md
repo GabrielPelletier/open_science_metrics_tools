@@ -1,6 +1,6 @@
 ---
-title: "Heritability and cross-species comparisons of human cortical functional organization asymmetry."
-date: 2022-07-30
+title: "Heritability and cross-species comparisons of human cortical functional organization asymmetry"
+date: 2022-07-29
 enddate:
 ---
 

@@ -1,13 +1,14 @@
 ---
-title: "Do variants in the coding regions of FOXP2, a gene implicated in speech disorder, confer a risk for congenital amusia?"
-date: 2022-08-19
+title: "Frequency and Longitudinal Course of Motor Signs In Genetic Frontotemporal Dementia"
+date: 2022-08-10
 enddate:
 ---
 
-Published in: *Annals of the New York Academy of Sciences*
+Published in: *Neurology*
 
-DOI: [10.1111/nyas.14883](https://doi.org/10.1111/nyas.14883)
+DOI: [10.1212/WNL.0000000000200828](https://doi.org/10.1212/WNL.0000000000200828)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://n.neurology.org/content/neurology/early/2022/08/10/WNL.0000000000200828.full.pdf">Access it freely here</a>
 

@@ -1,14 +1,13 @@
 ---
-title: "The CBI-R detects early behavioural impairment in genetic frontotemporal dementia."
-date: 2022-08-12
+title: "Normal-range verbal memory in the first-episode of psychosis: Clinical and functional outcomes across 24 months and impact of estimated verbal memory decrement"
+date: 2022-08-01
 enddate:
 ---
 
-Published in: *Annals of clinical and translational neurology*
+Published in: *Schizophrenia Research*
 
-DOI: [10.1002/acn3.51544](https://doi.org/10.1002/acn3.51544)
+DOI: [10.1016/j.schres.2022.06.007](https://doi.org/10.1016/j.schres.2022.06.007)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://lirias.kuleuven.be/bitstream/20.500.12942/696276/2/Ann%20Clin%20Transl%20Neurol%20-%202022%20-%20Nelson%20-%20The%20CBI%e2%80%90R%20detects%20early%20behavioural%20impairment%20in%20genetic%20frontotemporal%20dementia.pdf" download>Access it freely here</a>
 
