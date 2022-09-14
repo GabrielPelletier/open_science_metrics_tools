@@ -1,12 +1,12 @@
 ---
-title: "Association of Stroke Lesion Pattern and White Matter Hyperintensity Burden With Stroke Severity and Outcome"
-date: 2022-07-08
+title: "Developmental cascades between insistence on sameness behaviour and anxiety symptoms in autism spectrum disorder"
+date: 2022-07-24
 enddate:
 ---
 
-Published in: *Neurology*
+Published in: *European Child &amp; Adolescent Psychiatry*
 
-DOI: [10.1212/WNL.0000000000200926](https://doi.org/10.1212/WNL.0000000000200926)
+DOI: [10.1007/s00787-022-02049-9](https://doi.org/10.1007/s00787-022-02049-9)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

@@ -1,14 +1,13 @@
 ---
-title: "Educational attainment polygenic scores, socioeconomic factors, and cortical structure in children and adolescents"
-date: 2022-07-27
+title: "Association of Elevated Amyloid and Tau Positron Emission Tomography Signal With Near-Term Development of Alzheimer Disease Symptoms in Older Adults Without Cognitive Impairment"
+date: 2022-07-30
 enddate:
 ---
 
-Published in: *Human Brain Mapping*
+Published in: *JAMA Neurology*
 
-DOI: [10.1002/hbm.26034](https://doi.org/10.1002/hbm.26034)
+DOI: [10.1001/jamaneurol.2022.2379](https://doi.org/10.1001/jamaneurol.2022.2379)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.26034">Access it freely here</a>
 

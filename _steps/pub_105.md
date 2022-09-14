@@ -1,13 +1,14 @@
 ---
-title: "Prevalence and temporal trends of cerebral palsy in children born from 2002 to 2017 in Ontario, Canada: Population‐based cohort study"
-date: 2022-06-30
+title: "Evidence suggesting common mechanisms underlie contralateral and ipsilateral negative BOLD responses in human visual cortex"
+date: 2022-07-01
 enddate:
 ---
 
-Published in: *Developmental Medicine &amp; Child Neurology*
+Published in: *NeuroImage*
 
-DOI: [10.1111/dmcn.15324](https://doi.org/10.1111/dmcn.15324)
+DOI: [10.1016/j.neuroimage.2022.119440](https://doi.org/10.1016/j.neuroimage.2022.119440)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119440">Access it freely here</a>
 

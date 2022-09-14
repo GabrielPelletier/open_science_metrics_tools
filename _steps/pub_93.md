@@ -1,13 +1,14 @@
 ---
-title: "Comparison of switching to 6-week dosing of natalizumab versus continuing with 4-week dosing in patients with relapsing-remitting multiple sclerosis (NOVA): a randomised, controlled, open-label, phase 3b trial"
-date: 2022-07-01
+title: "Questioning the Association of the <i>STMN2</i> Dinucleotide Repeat With Amyotrophic Lateral Sclerosis"
+date: 2022-07-13
 enddate:
 ---
 
-Published in: *The Lancet Neurology*
+Published in: *Neurology Genetics*
 
-DOI: [10.1016/S1474-4422(22)00143-0](https://doi.org/10.1016/S1474-4422(22)00143-0)
+DOI: [10.1212/NXG.0000000000000678](https://doi.org/10.1212/NXG.0000000000000678)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://ng.neurology.org/content/nng/8/4/e678.full.pdf">Access it freely here</a>
 

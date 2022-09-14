@@ -1,13 +1,14 @@
 ---
-title: "Spatial Extent of Amyloid-β Levels and Associations With Tau-PET and Cognition"
-date: 2022-08-22
+title: "Vascular burden and cognition: Mediating roles of neurodegeneration and amyloid PET"
+date: 2022-09-01
 enddate:
 ---
 
-Published in: *JAMA Neurology*
+Published in: *Alzheimer's &amp; Dementia*
 
-DOI: [10.1001/jamaneurol.2022.2442](https://doi.org/10.1001/jamaneurol.2022.2442)
+DOI: [10.1002/alz.12750](https://doi.org/10.1002/alz.12750)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2021.12.24.21267786" download>Access it freely here</a>
 

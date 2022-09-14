@@ -1,14 +1,13 @@
 ---
-title: "Reduced Metabotropic Glutamate Receptor Type 5 Availability in the Epileptogenic Hippocampus: An in vitro Study"
-date: 2022-07-22
+title: "methoidNeurofilament light levels predict clinical progression and death in multiple system atrophy"
+date: 2022-07-29
 enddate:
 ---
 
-Published in: *Frontiers in Neurology*
+Published in: *Brain*
 
-DOI: [10.3389/fneur.2022.888479](https://doi.org/10.3389/fneur.2022.888479)
+DOI: [10.1093/brain/awac253](https://doi.org/10.1093/brain/awac253)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fneur.2022.888479/pdf">Access it freely here</a>
 

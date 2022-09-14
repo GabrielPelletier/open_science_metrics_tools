@@ -1,14 +1,14 @@
 ---
-title: "Human electromagnetic and haemodynamic networks systematically converge in unimodal cortex and diverge in transmodal cortex"
-date: 2022-08-01
+title: "Neuroprotection in neurodegenerations of the brain and eye: Lessons from the past and directions for the future"
+date: 2022-08-12
 enddate:
 ---
 
-Published in: *PLOS Biology*
+Published in: *Frontiers in Neurology*
 
-DOI: [10.1371/journal.pbio.3001735](https://doi.org/10.1371/journal.pbio.3001735)
+DOI: [10.3389/fneur.2022.964197](https://doi.org/10.3389/fneur.2022.964197)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001735&type=printable">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fneur.2022.964197/pdf">Access it freely here</a>
 
