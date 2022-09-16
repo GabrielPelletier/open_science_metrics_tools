@@ -1,14 +1,13 @@
 ---
-title: "Age-related changes of deep-brain neurophysiological activity"
-date: 2022-08-20
+title: "Spatial Extent of Amyloid-β Levels and Associations With Tau-PET and Cognition"
+date: 2022-08-22
 enddate:
 ---
 
-Published in: *Cerebral Cortex*
+Published in: *JAMA Neurology*
 
-DOI: [10.1093/cercor/bhac319](https://doi.org/10.1093/cercor/bhac319)
+DOI: [10.1001/jamaneurol.2022.2442](https://doi.org/10.1001/jamaneurol.2022.2442)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.04.27.489652" download>Access it freely here</a>
 

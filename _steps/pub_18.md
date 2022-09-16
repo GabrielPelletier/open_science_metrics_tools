@@ -1,13 +1,14 @@
 ---
-title: "The buried gems of disease tolerance in animals: Evolutionary and interspecies comparative approaches: Interspecies comparative approaches are valuable tools for exploring potential new mechanisms of disease tolerance in animals: Interspecies comparative approaches are valuable tools for exploring potential new mechanisms of disease tolerance in animals."
+title: "Stage-dependent differential influence of metabolic and structural networks on memory across Alzheimer's disease continuum."
 date: 2022-09-03
 enddate:
 ---
 
-Published in: *BioEssays : news and reviews in molecular, cellular and developmental biology*
+Published in: *eLife*
 
-DOI: [10.1002/bies.202200080](https://doi.org/10.1002/bies.202200080)
+DOI: [10.7554/eLife.77745](https://doi.org/10.7554/eLife.77745)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.7554/elife.77745">Access it freely here</a>
 

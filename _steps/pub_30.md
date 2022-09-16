@@ -1,12 +1,12 @@
 ---
-title: "Analysis of sleep, daytime sleepiness and autonomic function and multiple system atrophy and Parkinson disease: a prospective study"
-date: 2022-08-25
+title: "Somatotopy of mouse spinothalamic innervation and the localisation of a noxious stimulus requires DCC expression by Phox2a neurons"
+date: 2022-08-26
 enddate:
 ---
 
-Published in: *Journal of Clinical Sleep Medicine*
+Published in: *The Journal of Neuroscience*
 
-DOI: [10.5664/jcsm.10268](https://doi.org/10.5664/jcsm.10268)
+DOI: [10.1523/JNEUROSCI.1164-22.2022](https://doi.org/10.1523/JNEUROSCI.1164-22.2022)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

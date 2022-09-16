@@ -1,13 +1,14 @@
 ---
-title: "Reply to: “Could Blood Hexosylsphingosine Be a Marker for Parkinson's Disease Linked with <scp> <i>GBA1</i> </scp> Mutations”?"
+title: "Cerebellar and cortico-striatal-midbrain contributions to reward-cognition processes and apathy within the psychosis continuum"
 date: 2022-08-01
 enddate:
 ---
 
-Published in: *Movement Disorders*
+Published in: *Schizophrenia Research*
 
-DOI: [10.1002/mds.29136](https://doi.org/10.1002/mds.29136)
+DOI: [10.1016/j.schres.2022.06.010](https://doi.org/10.1016/j.schres.2022.06.010)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.schres.2022.06.010">Access it freely here</a>
 
