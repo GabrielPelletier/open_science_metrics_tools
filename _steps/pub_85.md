@@ -1,14 +1,13 @@
 ---
-title: "The White Matter Rounds experience: The importance of a multidisciplinary network to accelerate the diagnostic process for adult patients with rare white matter disorders"
-date: 2022-07-25
+title: "Ultrasound-based navigated pedicle screw insertion without intraoperative radiation: feasibility study on porcine cadavers"
+date: 2022-08-01
 enddate:
 ---
 
-Published in: *Frontiers in Neurology*
+Published in: *The Spine Journal*
 
-DOI: [10.3389/fneur.2022.928493](https://doi.org/10.3389/fneur.2022.928493)
+DOI: [10.1016/j.spinee.2022.04.014](https://doi.org/10.1016/j.spinee.2022.04.014)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fneur.2022.928493/pdf">Access it freely here</a>
 

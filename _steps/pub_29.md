@@ -1,13 +1,14 @@
 ---
-title: "Macrodosing to microdosing with psychedelics: Clinical, social, and cultural perspectives"
-date: 2022-08-29
+title: "Flexible cue anchoring strategies enable stable head direction coding in both sighted and blind animals."
+date: 2022-09-20
 enddate:
 ---
 
-Published in: *Transcultural Psychiatry*
+Published in: *Nature communications*
 
-DOI: [10.1177/13634615221119386](https://doi.org/10.1177/13634615221119386)
+DOI: [10.1038/s41467-022-33204-0](https://doi.org/10.1038/s41467-022-33204-0)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-33204-0.pdf">Access it freely here</a>
 

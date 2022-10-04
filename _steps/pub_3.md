@@ -1,13 +1,13 @@
 ---
-title: "Mitochondrial quality control in health and in Parkinson’s disease"
-date: 2022-10-01
+title: """"Generalized-to-focal"" epilepsy: stereotactic EEG and high-frequency oscillation patterns""
+date: 2022-10-04
 enddate:
 ---
 
-Published in: *Physiological Reviews*
+Published in: *Epileptic disorders : international epilepsy journal with videotape*
 
-DOI: [10.1152/physrev.00041.2021](https://doi.org/10.1152/physrev.00041.2021)
+DOI: [10.1684/epd.2022.1489](https://doi.org/10.1684/epd.2022.1489)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 

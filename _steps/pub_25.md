@@ -1,12 +1,12 @@
 ---
-title: "Modulation of in vitro epileptiform activity by optogenetic stimulation of parvalbumin-positive interneurons"
-date: 2022-08-31
+title: "Trial of Antisense Oligonucleotide Tofersen for "
+date: 2022-09-22
 enddate:
 ---
 
-Published in: *Journal of Neurophysiology*
+Published in: *The New England journal of medicine*
 
-DOI: [10.1152/jn.00192.2022](https://doi.org/10.1152/jn.00192.2022)
+DOI: [10.1056/NEJMoa2204705](https://doi.org/10.1056/NEJMoa2204705)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

@@ -1,14 +1,14 @@
 ---
-title: "Author Correction: Regenerative and restorative medicine for eye disease"
-date: 2022-08-09
+title: "Barriers to access and utilization of healthcare services for minority-language speakers with neurodevelopmental disorders: A scoping review."
+date: 2022-09-13
 enddate:
 ---
 
-Published in: *Nature Medicine*
+Published in: *Frontiers in psychiatry*
 
-DOI: [10.1038/s41591-022-01996-9](https://doi.org/10.1038/s41591-022-01996-9)
+DOI: [10.3389/fpsyt.2022.915999](https://doi.org/10.3389/fpsyt.2022.915999)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Bronze OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41591-022-01996-9.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2022.915999/pdf">Access it freely here</a>
 

@@ -1,14 +1,13 @@
 ---
-title: "Barriers to access and utilization of healthcare services for minority-language speakers with neurodevelopmental disorders: A scoping review."
-date: 2022-09-13
+title: "Mitochondrial quality control in health and in Parkinson’s disease"
+date: 2022-10-01
 enddate:
 ---
 
-Published in: *Frontiers in psychiatry*
+Published in: *Physiological Reviews*
 
-DOI: [10.3389/fpsyt.2022.915999](https://doi.org/10.3389/fpsyt.2022.915999)
+DOI: [10.1152/physrev.00041.2021](https://doi.org/10.1152/physrev.00041.2021)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2022.915999/pdf">Access it freely here</a>
 

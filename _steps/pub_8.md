@@ -1,14 +1,13 @@
 ---
-title: "Open and reproducible neuroimaging: from study inception to publication."
-date: 2022-09-14
+title: "Reversibility and Therapeutic Development for Neurodevelopmental Disorders, Insights from Genetic Animal Models."
+date: 2022-10-03
 enddate:
 ---
 
-Published in: *NeuroImage*
+Published in: *Advanced drug delivery reviews*
 
-DOI: [10.1016/j.neuroimage.2022.119623](https://doi.org/10.1016/j.neuroimage.2022.119623)
+DOI: [10.1016/j.addr.2022.114562](https://doi.org/10.1016/j.addr.2022.114562)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119623">Access it freely here</a>
 

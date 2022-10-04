@@ -1,13 +1,14 @@
 ---
-title: "Do variants in the coding regions of <i>FOXP2</i> , a gene implicated in speech disorder, confer a risk for congenital amusia?"
-date: 2022-08-18
+title: "An Open MRI Dataset For Multiscale Neuroscience."
+date: 2022-09-16
 enddate:
 ---
 
-Published in: *Annals of the New York Academy of Sciences*
+Published in: *Scientific data*
 
-DOI: [10.1111/nyas.14883](https://doi.org/10.1111/nyas.14883)
+DOI: [10.1038/s41597-022-01682-y](https://doi.org/10.1038/s41597-022-01682-y)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41597-022-01682-y.pdf">Access it freely here</a>
 

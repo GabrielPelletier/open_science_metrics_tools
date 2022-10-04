@@ -1,14 +1,14 @@
 ---
-title: "GBA1 and The Immune System: A Potential Role in Parkinson's Disease?"
-date: 2022-09-05
+title: "Multimodal resting-state connectivity predicts affective neurofeedback performance."
+date: 2022-09-27
 enddate:
 ---
 
-Published in: *Journal of Parkinson's disease*
+Published in: *Frontiers in human neuroscience*
 
-DOI: [10.3233/JPD-223423](https://doi.org/10.3233/JPD-223423)
+DOI: [10.3389/fnhum.2022.977776](https://doi.org/10.3389/fnhum.2022.977776)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://content.iospress.com:443/download/journal-of-parkinsons-disease/jpd223423?id=journal-of-parkinsons-disease%2Fjpd223423">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnhum.2022.977776/pdf">Access it freely here</a>
 
