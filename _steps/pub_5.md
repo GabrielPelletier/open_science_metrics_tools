@@ -1,13 +1,14 @@
 ---
-title: "Surgically Remediable Secondary Network Epileptic Encephalopathies With Continuous Spike Wave in Sleep: Lesions May Not Be Visible on Brain Magnetic Resonance Imaging (MRI)."
-date: 2022-10-04
+title: "Radiomics as an emerging tool in the management of brain metastases."
+date: 2022-10-27
 enddate:
 ---
 
-Published in: *Journal of child neurology*
+Published in: *Neuro-oncology advances*
 
-DOI: [10.1177/08830738221129919](https://doi.org/10.1177/08830738221129919)
+DOI: [10.1093/noajnl/vdac141](https://doi.org/10.1093/noajnl/vdac141)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1093/noajnl/vdac141">Access it freely here</a>
 

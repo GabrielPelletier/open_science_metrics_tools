@@ -1,13 +1,14 @@
 ---
-title: "Spatial Extent of Amyloid-β Levels and Associations With Tau-PET and Cognition"
-date: 2022-08-22
+title: "A whole-brain 3D myeloarchitectonic atlas: mapping the Vogt-Vogt legacy to the cortical surface."
+date: 2022-09-10
 enddate:
 ---
 
-Published in: *JAMA Neurology*
+Published in: *NeuroImage*
 
-DOI: [10.1001/jamaneurol.2022.2442](https://doi.org/10.1001/jamaneurol.2022.2442)
+DOI: [10.1016/j.neuroimage.2022.119617](https://doi.org/10.1016/j.neuroimage.2022.119617)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119617">Access it freely here</a>
 

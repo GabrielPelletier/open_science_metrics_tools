@@ -1,14 +1,13 @@
 ---
-title: "Increased brain volumetric measurement precision from multi-site 3D T1-weighted 3 T magnetic resonance imaging by correcting geometric distortions"
-date: 2022-10-01
+title: "GM-CSF-stimulated human macrophages demonstrate enhanced functions contributing to T cell activation."
+date: 2022-10-20
 enddate:
 ---
 
-Published in: *Magnetic Resonance Imaging*
+Published in: *Immunology and cell biology*
 
-DOI: [10.1016/j.mri.2022.06.005](https://doi.org/10.1016/j.mri.2022.06.005)
+DOI: [10.1111/imcb.12600](https://doi.org/10.1111/imcb.12600)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2021.11.29.469919" download>Access it freely here</a>
 

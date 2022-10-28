@@ -1,13 +1,14 @@
 ---
-title: "Validation of STOP, STOP-BANG, STOP-BAG, STOP-B28 and GOAL screening tools for identification of obstructive sleep apnea in patients with Parkinson disease"
-date: 2022-08-25
+title: "Time-resolved parameterization of aperiodic and periodic brain activity."
+date: 2022-09-13
 enddate:
 ---
 
-Published in: *Journal of Clinical Sleep Medicine*
+Published in: *eLife*
 
-DOI: [10.5664/jcsm.10262](https://doi.org/10.5664/jcsm.10262)
+DOI: [10.7554/eLife.77348](https://doi.org/10.7554/eLife.77348)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9467511" download>Access it freely here</a>
 

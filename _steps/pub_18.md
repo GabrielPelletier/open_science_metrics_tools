@@ -1,14 +1,14 @@
 ---
-title: "Visually driven functional MRI techniques for characterization of optic neuropathy."
-date: 2022-09-27
+title: "The central autonomic system revisited - Convergent evidence for a regulatory role of the insular and midcingulate cortex from neuroimaging meta-analyses."
+date: 2022-10-17
 enddate:
 ---
 
-Published in: *Frontiers in human neuroscience*
+Published in: *Neuroscience and biobehavioral reviews*
 
-DOI: [10.3389/fnhum.2022.943603](https://doi.org/10.3389/fnhum.2022.943603)
+DOI: [10.1016/j.neubiorev.2022.104915](https://doi.org/10.1016/j.neubiorev.2022.104915)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnhum.2022.943603/pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.05.25.493371" download>Access it freely here</a>
 

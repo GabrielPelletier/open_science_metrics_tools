@@ -1,12 +1,12 @@
 ---
-title: "Mitochondrial quality control in health and in Parkinson’s disease"
-date: 2022-10-01
+title: "Herbert Jasper in Paris and the Origin of Electromyography."
+date: 2022-10-21
 enddate:
 ---
 
-Published in: *Physiological Reviews*
+Published in: *Neurology*
 
-DOI: [10.1152/physrev.00041.2021](https://doi.org/10.1152/physrev.00041.2021)
+DOI: [10.1212/WNL.0000000000201483](https://doi.org/10.1212/WNL.0000000000201483)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

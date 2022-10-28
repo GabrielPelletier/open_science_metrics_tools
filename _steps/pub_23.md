@@ -1,13 +1,14 @@
 ---
-title: "BiP inactivation due to loss of the deAMPylation function of FICD causes a motor neuron disease."
-date: 2022-09-23
+title: "Specific disruption of the ventral anterior temporo-frontal network reveals key implications for language comprehension and cognition."
+date: 2022-10-11
 enddate:
 ---
 
-Published in: *Genetics in medicine : official journal of the American College of Medical Genetics*
+Published in: *Communications biology*
 
-DOI: [10.1016/j.gim.2022.08.019](https://doi.org/10.1016/j.gim.2022.08.019)
+DOI: [10.1038/s42003-022-03983-9](https://doi.org/10.1038/s42003-022-03983-9)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s42003-022-03983-9.pdf">Access it freely here</a>
 

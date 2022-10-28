@@ -1,14 +1,13 @@
 ---
-title: "Estimating individual treatment effect on disability progression in multiple sclerosis using deep learning."
-date: 2022-09-27
+title: "Focal Epilepsy Impacts Rapid Eye Movement Sleep Microstructure."
+date: 2022-10-16
 enddate:
 ---
 
-Published in: *Nature communications*
+Published in: *Sleep*
 
-DOI: [10.1038/s41467-022-33269-x](https://doi.org/10.1038/s41467-022-33269-x)
+DOI: [10.1093/sleep/zsac250](https://doi.org/10.1093/sleep/zsac250)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-33269-x.pdf">Access it freely here</a>
 

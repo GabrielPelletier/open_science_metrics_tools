@@ -1,14 +1,13 @@
 ---
-title: "Serotonergic psychedelic drugs LSD and psilocybin reduce the hierarchical differentiation of unimodal and transmodal cortex"
-date: 2022-08-01
+title: "Validation of STOP, STOP-BANG, STOP-BAG, STOP-B28 and GOAL screening tools for identification of obstructive sleep apnea in patients with Parkinson disease"
+date: 2022-08-25
 enddate:
 ---
 
-Published in: *NeuroImage*
+Published in: *Journal of Clinical Sleep Medicine*
 
-DOI: [10.1016/j.neuroimage.2022.119220](https://doi.org/10.1016/j.neuroimage.2022.119220)
+DOI: [10.5664/jcsm.10262](https://doi.org/10.5664/jcsm.10262)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119220">Access it freely here</a>
 

@@ -1,12 +1,12 @@
 ---
-title: "Effect modification between genes and environment, and Parkinson's disease risk"
-date: 2022-08-01
+title: "Somatotopy of mouse spinothalamic innervation and the localisation of a noxious stimulus requires DCC expression by Phox2a neurons"
+date: 2022-08-26
 enddate:
 ---
 
-Published in: *Annals of Neurology*
+Published in: *The Journal of Neuroscience*
 
-DOI: [10.1002/ana.26467](https://doi.org/10.1002/ana.26467)
+DOI: [10.1523/JNEUROSCI.1164-22.2022](https://doi.org/10.1523/JNEUROSCI.1164-22.2022)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

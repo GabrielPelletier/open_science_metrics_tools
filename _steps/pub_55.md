@@ -1,14 +1,14 @@
 ---
-title: "Vascular burden and cognition: Mediating roles of neurodegeneration and amyloid PET"
-date: 2022-09-01
+title: "Relationship between reward-related evoked potentials and real-world motivation in older people living with human immunodeficiency virus."
+date: 2022-09-20
 enddate:
 ---
 
-Published in: *Alzheimer's &amp; Dementia*
+Published in: *Frontiers in aging neuroscience*
 
-DOI: [10.1002/alz.12750](https://doi.org/10.1002/alz.12750)
+DOI: [10.3389/fnagi.2022.927209](https://doi.org/10.3389/fnagi.2022.927209)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2021.12.24.21267786" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnagi.2022.927209/pdf">Access it freely here</a>
 

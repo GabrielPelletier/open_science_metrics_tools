@@ -1,12 +1,12 @@
 ---
-title: "Risk Factors for Term-Born Periventricular White Matter Injury in Children With Cerebral Palsy: A Case-Control Study"
-date: 2022-08-30
+title: "A 3D atlas of functional human brain energetic connectome based on neuropil distribution."
+date: 2022-09-16
 enddate:
 ---
 
-Published in: *Neurology*
+Published in: *Cerebral cortex (New York, N.Y. : 1991)*
 
-DOI: [10.1212/WNL.0000000000201274](https://doi.org/10.1212/WNL.0000000000201274)
+DOI: [10.1093/cercor/bhac322](https://doi.org/10.1093/cercor/bhac322)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
