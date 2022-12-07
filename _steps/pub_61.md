@@ -1,14 +1,13 @@
 ---
-title: "An Open MRI Dataset For Multiscale Neuroscience."
-date: 2022-09-16
+title: "Gene-based burden analysis of damaging private variants in PRKN, PARK7 and PINK1 in Parkinson's disease cohorts of European descent."
+date: 2022-10-29
 enddate:
 ---
 
-Published in: *Scientific data*
+Published in: *Neurobiology of aging*
 
-DOI: [10.1038/s41597-022-01682-y](https://doi.org/10.1038/s41597-022-01682-y)
+DOI: [10.1016/j.neurobiolaging.2022.07.012](https://doi.org/10.1016/j.neurobiolaging.2022.07.012)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41597-022-01682-y.pdf">Access it freely here</a>
 

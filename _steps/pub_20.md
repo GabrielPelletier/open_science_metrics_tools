@@ -1,14 +1,13 @@
 ---
-title: "Topographical differences in white matter hyperintensity burden and cognition in aging, MCI, and AD."
-date: 2022-10-14
+title: "Multiple sclerosis progression: time for a new mechanism-driven framework."
+date: 2022-11-22
 enddate:
 ---
 
-Published in: *GeroScience*
+Published in: *The Lancet. Neurology*
 
-DOI: [10.1007/s11357-022-00665-6](https://doi.org/10.1007/s11357-022-00665-6)
+DOI: [10.1016/S1474-4422(22)00289-7](https://doi.org/10.1016/S1474-4422(22)00289-7)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.04.20.22274087" download>Access it freely here</a>
 

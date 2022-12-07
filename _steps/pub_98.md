@@ -1,14 +1,14 @@
 ---
-title: "Neuroprotection in neurodegenerations of the brain and eye: Lessons from the past and directions for the future"
-date: 2022-08-12
+title: "Multiscale neural gradients reflect transdiagnostic effects of major psychiatric conditions on cortical morphology."
+date: 2022-09-29
 enddate:
 ---
 
-Published in: *Frontiers in Neurology*
+Published in: *Communications biology*
 
-DOI: [10.3389/fneur.2022.964197](https://doi.org/10.3389/fneur.2022.964197)
+DOI: [10.1038/s42003-022-03963-z](https://doi.org/10.1038/s42003-022-03963-z)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fneur.2022.964197/pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s42003-022-03963-z.pdf">Access it freely here</a>
 

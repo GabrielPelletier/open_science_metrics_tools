@@ -1,14 +1,13 @@
 ---
-title: "Neuroscout, a unified platform for generalizable andreproducible fMRI research"
-date: 2022-08-30
+title: "French Translation and Cross-cultural Adaptation of the Scale for the Assessment and Rating of Ataxia."
+date: 2022-10-09
 enddate:
 ---
 
-Published in: *eLife*
+Published in: *Cerebellum (London, England)*
 
-DOI: [10.7554/eLife.79277](https://doi.org/10.7554/eLife.79277)
+DOI: [10.1007/s12311-022-01484-3](https://doi.org/10.1007/s12311-022-01484-3)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.7554/elife.79277">Access it freely here</a>
 

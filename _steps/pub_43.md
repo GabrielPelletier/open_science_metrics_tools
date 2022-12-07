@@ -1,14 +1,13 @@
 ---
-title: "Multimodal resting-state connectivity predicts affective neurofeedback performance."
-date: 2022-09-27
+title: "A Three months Electrodiagnostic Follow-Up of Patients Suspected of having Ulnar Nerve Involvement at Elbow Level with Normal Conventional Electrodiagnostic Study at First Evaluation."
+date: 2022-11-11
 enddate:
 ---
 
-Published in: *Frontiers in human neuroscience*
+Published in: *Neurology India*
 
-DOI: [10.3389/fnhum.2022.977776](https://doi.org/10.3389/fnhum.2022.977776)
+DOI: [10.4103/0028-3886.359279](https://doi.org/10.4103/0028-3886.359279)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnhum.2022.977776/pdf">Access it freely here</a>
 

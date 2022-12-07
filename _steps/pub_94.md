@@ -1,12 +1,12 @@
 ---
-title: "Do variants in the coding regions of <i>FOXP2</i> , a gene implicated in speech disorder, confer a risk for congenital amusia?"
-date: 2022-08-18
+title: "Going down to go up: understanding human auditory cognition by investigating cortical-subcortical interactions."
+date: 2022-10-01
 enddate:
 ---
 
-Published in: *Annals of the New York Academy of Sciences*
+Published in: *Trends in cognitive sciences*
 
-DOI: [10.1111/nyas.14883](https://doi.org/10.1111/nyas.14883)
+DOI: [10.1016/j.tics.2022.08.011](https://doi.org/10.1016/j.tics.2022.08.011)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

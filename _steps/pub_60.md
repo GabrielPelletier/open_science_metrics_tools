@@ -1,12 +1,12 @@
 ---
-title: "A 3D atlas of functional human brain energetic connectome based on neuropil distribution."
-date: 2022-09-16
+title: "Comparing neural activity during autobiographical memory retrieval between younger and older adults: An ALE meta-analysis"
+date: 2022-11-01
 enddate:
 ---
 
-Published in: *Cerebral cortex (New York, N.Y. : 1991)*
+Published in: *Neurobiology of Aging*
 
-DOI: [10.1093/cercor/bhac322](https://doi.org/10.1093/cercor/bhac322)
+DOI: [10.1016/j.neurobiolaging.2022.06.009](https://doi.org/10.1016/j.neurobiolaging.2022.06.009)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

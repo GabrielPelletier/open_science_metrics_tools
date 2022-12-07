@@ -1,14 +1,14 @@
 ---
-title: "Combining NGN2 programming and dopaminergic patterning for a rapid and efficient generation of hiPSC-derived midbrain neurons."
-date: 2022-10-14
+title: "Association of Attention-Deficit/Hyperactivity Disorder and Depression Polygenic Scores with Lithium Response: A Consortium for Lithium Genetics Study."
+date: 2022-11-22
 enddate:
 ---
 
-Published in: *Scientific reports*
+Published in: *Complex psychiatry*
 
-DOI: [10.1038/s41598-022-22158-4](https://doi.org/10.1038/s41598-022-22158-4)
+DOI: [10.1159/000519707](https://doi.org/10.1159/000519707)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41598-022-22158-4.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8740189" download>Access it freely here</a>
 

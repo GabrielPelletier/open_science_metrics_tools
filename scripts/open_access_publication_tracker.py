@@ -29,9 +29,9 @@ if __name__ == '__main__':
     # Email for unpaywall authentification (you don't need to register or anything)
     UnpywallCredentials('gabriel.pelletier@mcgill.ca')
     # Number of days back for the start-date of the Pubmed Search
-    n_days_back = 20
+    n_days_back = 40
     # Max number of results returned by the PubMed search
-    n_max_results = 50
+    n_max_results = 100
     # Set directory(ies)
     data_dir = ROOT_DIR + '/data/'
     # Define data file name + Set path for output file

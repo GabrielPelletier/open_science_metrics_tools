@@ -1,14 +1,14 @@
 ---
-title: "Flexible cue anchoring strategies enable stable head direction coding in both sighted and blind animals."
-date: 2022-09-20
+title: "Querying hippocampal replay with subcortical inputs."
+date: 2022-11-07
 enddate:
 ---
 
-Published in: *Nature communications*
+Published in: *Current opinion in neurobiology*
 
-DOI: [10.1038/s41467-022-33204-0](https://doi.org/10.1038/s41467-022-33204-0)
+DOI: [10.1016/j.conb.2022.102645](https://doi.org/10.1016/j.conb.2022.102645)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-33204-0.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2205.02665" download>Access it freely here</a>
 

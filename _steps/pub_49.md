@@ -1,14 +1,13 @@
 ---
-title: "Generation of patient-derived pluripotent stem cell-lines and CRISPR modified isogenic controls with mutations in the Parkinson's associated GBA gene."
-date: 2022-09-22
+title: "Dissociable brain structural asymmetry patterns reveal unique phenome-wide profiles."
+date: 2022-11-08
 enddate:
 ---
 
-Published in: *Stem cell research*
+Published in: *Nature human behaviour*
 
-DOI: [10.1016/j.scr.2022.102919](https://doi.org/10.1016/j.scr.2022.102919)
+DOI: [10.1038/s41562-022-01461-0](https://doi.org/10.1038/s41562-022-01461-0)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.scr.2022.102919">Access it freely here</a>
 

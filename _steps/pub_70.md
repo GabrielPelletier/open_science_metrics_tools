@@ -1,14 +1,13 @@
 ---
-title: "Micapipe: a pipeline for multimodal neuroimaging and connectome analysis."
-date: 2022-09-08
+title: "Discordance and Concordance Between Cerebrospinal and [18F]FDG-PET Biomarkers in Assessing Atypical and Early-Onset AD Dementia Cases."
+date: 2022-10-21
 enddate:
 ---
 
-Published in: *NeuroImage*
+Published in: *Neurology*
 
-DOI: [10.1016/j.neuroimage.2022.119612](https://doi.org/10.1016/j.neuroimage.2022.119612)
+DOI: [10.1212/WNL.0000000000201198](https://doi.org/10.1212/WNL.0000000000201198)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119612">Access it freely here</a>
 

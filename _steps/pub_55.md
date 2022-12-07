@@ -1,14 +1,13 @@
 ---
-title: "Relationship between reward-related evoked potentials and real-world motivation in older people living with human immunodeficiency virus."
-date: 2022-09-20
+title: "Kundalini Yoga Intervention Increases Hippocampal Volume in Older Adults: A Pilot Randomized Controlled Trial."
+date: 2022-11-05
 enddate:
 ---
 
-Published in: *Frontiers in aging neuroscience*
+Published in: *International journal of yoga*
 
-DOI: [10.3389/fnagi.2022.927209](https://doi.org/10.3389/fnagi.2022.927209)
+DOI: [10.4103/ijoy.ijoy_25_22](https://doi.org/10.4103/ijoy.ijoy_25_22)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnagi.2022.927209/pdf">Access it freely here</a>
 

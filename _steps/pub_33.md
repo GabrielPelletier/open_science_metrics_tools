@@ -1,14 +1,14 @@
 ---
-title: "Impact of weight loss on brain age: Improved brain health following bariatric surgery"
-date: 2022-10-01
+title: "Temporal dynamics predict symptom onset and cognitive decline in familial frontotemporal dementia."
+date: 2022-11-16
 enddate:
 ---
 
-Published in: *NeuroImage*
+Published in: *Alzheimer's & dementia : the journal of the Alzheimer's Association*
 
-DOI: [10.1016/j.neuroimage.2022.119415](https://doi.org/10.1016/j.neuroimage.2022.119415)
+DOI: [10.1002/alz.12824](https://doi.org/10.1002/alz.12824)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119415">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://repositorio.ul.pt/bitstream/10451/55205/1/Temporal_predict.pdf" download>Access it freely here</a>
 
