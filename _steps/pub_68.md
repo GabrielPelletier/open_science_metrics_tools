@@ -1,14 +1,13 @@
 ---
-title: "Towards a definition of microglia heterogeneity."
-date: 2022-10-21
+title: "Dissociable brain structural asymmetry patterns reveal unique phenome-wide profiles."
+date: 2022-11-08
 enddate:
 ---
 
-Published in: *Communications biology*
+Published in: *Nature human behaviour*
 
-DOI: [10.1038/s42003-022-04081-6](https://doi.org/10.1038/s42003-022-04081-6)
+DOI: [10.1038/s41562-022-01461-0](https://doi.org/10.1038/s41562-022-01461-0)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s42003-022-04081-6.pdf">Access it freely here</a>
 

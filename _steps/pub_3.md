@@ -1,14 +1,13 @@
 ---
-title: "Identification of highly specific antibodies for Serine/threonine-protein kinase TBK1 for use in immunoblot, immunoprecipitation and immunofluorescence."
-date: 2022-12-07
+title: "Deep Intronic "
+date: 2022-12-15
 enddate:
 ---
 
-Published in: *F1000Research*
+Published in: *The New England journal of medicine*
 
-DOI: [10.12688/f1000research.124632.2](https://doi.org/10.12688/f1000research.124632.2)
+DOI: [10.1056/NEJMoa2207406](https://doi.org/10.1056/NEJMoa2207406)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://f1000research.com/articles/11-977/pdf">Access it freely here</a>
 

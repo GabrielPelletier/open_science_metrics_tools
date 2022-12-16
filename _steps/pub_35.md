@@ -1,13 +1,14 @@
 ---
-title: "Subjective cognitive decline is associated with lower baseline cognition and increased rate of cognitive decline."
-date: 2022-11-15
+title: "Application of pseudocontinuous arterial spin labeling perfusion imaging in children with autism spectrum disorders."
+date: 2022-11-26
 enddate:
 ---
 
-Published in: *The journals of gerontology. Series B, Psychological sciences and social sciences*
+Published in: *Frontiers in neuroscience*
 
-DOI: [10.1093/geronb/gbac178](https://doi.org/10.1093/geronb/gbac178)
+DOI: [10.3389/fnins.2022.1045585](https://doi.org/10.3389/fnins.2022.1045585)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.1045585/pdf">Access it freely here</a>
 

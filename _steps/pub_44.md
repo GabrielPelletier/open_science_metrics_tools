@@ -1,14 +1,14 @@
 ---
-title: "Disclosing political partisanship polarizes first impressions of faces."
-date: 2022-11-10
+title: "Unified epigenomic, transcriptomic, proteomic, and metabolomic taxonomy of Alzheimer's disease progression and heterogeneity."
+date: 2022-11-19
 enddate:
 ---
 
-Published in: *PloS one*
+Published in: *Science advances*
 
-DOI: [10.1371/journal.pone.0276400](https://doi.org/10.1371/journal.pone.0276400)
+DOI: [10.1126/sciadv.abo6764](https://doi.org/10.1126/sciadv.abo6764)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0276400&type=printable">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9674284" download>Access it freely here</a>
 

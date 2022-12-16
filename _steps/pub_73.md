@@ -1,14 +1,14 @@
 ---
-title: "A Framework for Advancing Sustainable MRI Access in Africa."
-date: 2022-10-20
+title: "Resting-state functional MRI of the visual system for characterization of optic neuropathy."
+date: 2022-11-05
 enddate:
 ---
 
-Published in: *NMR in biomedicine*
+Published in: *Frontiers in human neuroscience*
 
-DOI: [10.1002/nbm.4846](https://doi.org/10.1002/nbm.4846)
+DOI: [10.3389/fnhum.2022.943618](https://doi.org/10.3389/fnhum.2022.943618)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.05.02.22274588" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnhum.2022.943618/pdf">Access it freely here</a>
 

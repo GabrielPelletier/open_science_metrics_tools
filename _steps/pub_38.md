@@ -1,14 +1,13 @@
 ---
-title: "Coordinated cortical thickness alterations across six neurodevelopmental and psychiatric disorders."
-date: 2022-11-13
+title: "Multiple sclerosis progression: time for a new mechanism-driven framework."
+date: 2022-11-22
 enddate:
 ---
 
-Published in: *Nature communications*
+Published in: *The Lancet. Neurology*
 
-DOI: [10.1038/s41467-022-34367-6](https://doi.org/10.1038/s41467-022-34367-6)
+DOI: [10.1016/S1474-4422(22)00289-7](https://doi.org/10.1016/S1474-4422(22)00289-7)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-34367-6.pdf">Access it freely here</a>
 

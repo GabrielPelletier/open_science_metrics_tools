@@ -41,8 +41,8 @@ if __name__ == '__main__':
     affiliation_2 = '*neurology*neurosurgery*'
     affiliation_3 = '*mcgill*'
     # Set Date Range for query
-    date_from = '"2017/01/01"'
-    date_to = '"2017/12/31"'
+    date_from = '"2022/01/01"'
+    date_to = '"2022/12/31"'
     query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND((' + date_from + '[Date - Publication] : ' + date_to + '[Date - Publication]))'
     # OR, READ QUERY FROM FILE (if very long query, for instance).
     #text_file = open("data/ponctual_pubmed_queries/PubMed_Query_Neuro_2021_109_6.txt", "r", encoding='utf-8')

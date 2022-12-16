@@ -1,14 +1,13 @@
 ---
-title: "Neural substrates of spatial processing and navigation in blindness: An activation likelihood estimation meta-analysis."
-date: 2022-11-08
+title: "Integration of white matter architecture to stereo-EEG better describes epileptic spike propagation."
+date: 2022-11-16
 enddate:
 ---
 
-Published in: *Frontiers in neuroscience*
+Published in: *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*
 
-DOI: [10.3389/fnins.2022.1010354](https://doi.org/10.3389/fnins.2022.1010354)
+DOI: [10.1016/j.clinph.2022.10.012](https://doi.org/10.1016/j.clinph.2022.10.012)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.1010354/pdf">Access it freely here</a>
 

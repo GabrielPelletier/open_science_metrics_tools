@@ -1,14 +1,14 @@
 ---
-title: "Impact of weight loss on brain age: Improved brain health following bariatric surgery"
-date: 2022-10-01
+title: "A Framework for Advancing Sustainable MRI Access in Africa."
+date: 2022-10-20
 enddate:
 ---
 
-Published in: *NeuroImage*
+Published in: *NMR in biomedicine*
 
-DOI: [10.1016/j.neuroimage.2022.119415](https://doi.org/10.1016/j.neuroimage.2022.119415)
+DOI: [10.1002/nbm.4846](https://doi.org/10.1002/nbm.4846)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119415">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.05.02.22274588" download>Access it freely here</a>
 

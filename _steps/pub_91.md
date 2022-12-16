@@ -1,14 +1,14 @@
 ---
-title: "Documenting manifestations and impacts of autosomal recessive spastic ataxia of Charlevoix-Saguenay to develop patient-reported outcome."
-date: 2022-10-02
+title: "Evolution of immune genes is associated with the Black Death."
+date: 2022-10-20
 enddate:
 ---
 
-Published in: *Orphanet journal of rare diseases*
+Published in: *Nature*
 
-DOI: [10.1186/s13023-022-02497-1](https://doi.org/10.1186/s13023-022-02497-1)
+DOI: [10.1038/s41586-022-05349-x](https://doi.org/10.1038/s41586-022-05349-x)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://ojrd.biomedcentral.com/counter/pdf/10.1186/s13023-022-02497-1">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9580435" download>Access it freely here</a>
 

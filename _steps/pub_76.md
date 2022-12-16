@@ -1,14 +1,14 @@
 ---
-title: "CSF glial markers are elevated in a subset of patients with genetic frontotemporal dementia."
-date: 2022-10-18
+title: "Investigation of the causal relationship between ALS and autoimmune disorders: a Mendelian randomization study."
+date: 2022-11-03
 enddate:
 ---
 
-Published in: *Annals of clinical and translational neurology*
+Published in: *BMC medicine*
 
-DOI: [10.1002/acn3.51672](https://doi.org/10.1002/acn3.51672)
+DOI: [10.1186/s12916-022-02578-9](https://doi.org/10.1186/s12916-022-02578-9)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://repositorio.ul.pt/bitstream/10451/54838/1/CSF_markers.pdf" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://bmcmedicine.biomedcentral.com/counter/pdf/10.1186/s12916-022-02578-9">Access it freely here</a>
 

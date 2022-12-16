@@ -1,14 +1,13 @@
 ---
-title: "Resting-state functional MRI of the visual system for characterization of optic neuropathy."
-date: 2022-11-05
+title: "Normative Values of Neuromelanin-Sensitive MRI Signal in Older Adults Obtained Using a Turbo Spin Echo Sequence."
+date: 2022-11-15
 enddate:
 ---
 
-Published in: *Frontiers in human neuroscience*
+Published in: *Journal of magnetic resonance imaging : JMRI*
 
-DOI: [10.3389/fnhum.2022.943618](https://doi.org/10.3389/fnhum.2022.943618)
+DOI: [10.1002/jmri.28530](https://doi.org/10.1002/jmri.28530)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnhum.2022.943618/pdf">Access it freely here</a>
 

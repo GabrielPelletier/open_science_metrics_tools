@@ -1,13 +1,13 @@
 ---
-title: "Kundalini Yoga Intervention Increases Hippocampal Volume in Older Adults: A Pilot Randomized Controlled Trial."
-date: 2022-11-05
+title: "Genetic Heterogeneity Shapes Brain Connectivity in Psychiatry."
+date: 2022-11-14
 enddate:
 ---
 
-Published in: *International journal of yoga*
+Published in: *Biological psychiatry*
 
-DOI: [10.4103/ijoy.ijoy_25_22](https://doi.org/10.4103/ijoy.ijoy_25_22)
+DOI: [10.1016/j.biopsych.2022.08.024](https://doi.org/10.1016/j.biopsych.2022.08.024)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
 

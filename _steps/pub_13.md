@@ -1,14 +1,14 @@
 ---
-title: "Socio-demographic disparities in receipt of clinical health care services during the COVID-19 pandemic for Canadian children with disability."
-date: 2022-11-30
+title: "Ultra-high field neuroimaging in psychosis: A narrative review."
+date: 2022-12-13
 enddate:
 ---
 
-Published in: *BMC health services research*
+Published in: *Frontiers in psychiatry*
 
-DOI: [10.1186/s12913-022-08672-1](https://doi.org/10.1186/s12913-022-08672-1)
+DOI: [10.3389/fpsyt.2022.994372](https://doi.org/10.3389/fpsyt.2022.994372)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08672-1">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2022.994372/pdf">Access it freely here</a>
 

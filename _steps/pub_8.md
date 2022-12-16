@@ -1,14 +1,13 @@
 ---
-title: "NigraNet: An automatic framework to assess nigral neuromelanin content in early Parkinson's disease using convolutional neural network."
-date: 2022-12-02
+title: "Utilizing artificial intelligence and electroencephalography to assess expertise on a simulated neurosurgical task."
+date: 2022-12-13
 enddate:
 ---
 
-Published in: *NeuroImage. Clinical*
+Published in: *Computers in biology and medicine*
 
-DOI: [10.1016/j.nicl.2022.103250](https://doi.org/10.1016/j.nicl.2022.103250)
+DOI: [10.1016/j.compbiomed.2022.106286](https://doi.org/10.1016/j.compbiomed.2022.106286)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.nicl.2022.103250">Access it freely here</a>
 

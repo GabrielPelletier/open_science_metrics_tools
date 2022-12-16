@@ -1,13 +1,14 @@
 ---
-title: "The molecular diversity of plasticity mechanisms underlying memory: An evolutionary perspective."
-date: 2022-11-04
+title: "Coordinated cortical thickness alterations across six neurodevelopmental and psychiatric disorders."
+date: 2022-11-13
 enddate:
 ---
 
-Published in: *Journal of neurochemistry*
+Published in: *Nature communications*
 
-DOI: [10.1111/jnc.15717](https://doi.org/10.1111/jnc.15717)
+DOI: [10.1038/s41467-022-34367-6](https://doi.org/10.1038/s41467-022-34367-6)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41467-022-34367-6.pdf">Access it freely here</a>
 

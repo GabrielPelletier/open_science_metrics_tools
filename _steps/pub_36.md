@@ -1,13 +1,14 @@
 ---
-title: "A subpopulation of spikes predicts successful epilepsy surgery outcome."
-date: 2022-11-15
+title: "Myelitis features and outcomes in CNS demyelinating disorders: Comparison between multiple sclerosis, MOGAD, and AQP4-IgG-positive NMOSD."
+date: 2022-11-25
 enddate:
 ---
 
-Published in: *Annals of neurology*
+Published in: *Frontiers in neurology*
 
-DOI: [10.1002/ana.26548](https://doi.org/10.1002/ana.26548)
+DOI: [10.3389/fneur.2022.1011579](https://doi.org/10.3389/fneur.2022.1011579)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fneur.2022.1011579/pdf">Access it freely here</a>
 

@@ -1,14 +1,13 @@
 ---
-title: "The central autonomic system revisited - Convergent evidence for a regulatory role of the insular and midcingulate cortex from neuroimaging meta-analyses."
-date: 2022-10-17
+title: "Comparing neural activity during autobiographical memory retrieval between younger and older adults: An ALE meta-analysis"
+date: 2022-11-01
 enddate:
 ---
 
-Published in: *Neuroscience and biobehavioral reviews*
+Published in: *Neurobiology of Aging*
 
-DOI: [10.1016/j.neubiorev.2022.104915](https://doi.org/10.1016/j.neubiorev.2022.104915)
+DOI: [10.1016/j.neurobiolaging.2022.06.009](https://doi.org/10.1016/j.neurobiolaging.2022.06.009)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.05.25.493371" download>Access it freely here</a>
 
