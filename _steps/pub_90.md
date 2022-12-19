@@ -1,12 +1,12 @@
 ---
-title: "GM-CSF-stimulated human macrophages demonstrate enhanced functions contributing to T cell activation."
-date: 2022-10-20
+title: "Herbert Jasper in Paris and the Origin of Electromyography."
+date: 2022-10-21
 enddate:
 ---
 
-Published in: *Immunology and cell biology*
+Published in: *Neurology*
 
-DOI: [10.1111/imcb.12600](https://doi.org/10.1111/imcb.12600)
+DOI: [10.1212/WNL.0000000000201483](https://doi.org/10.1212/WNL.0000000000201483)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

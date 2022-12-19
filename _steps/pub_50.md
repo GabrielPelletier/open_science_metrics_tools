@@ -1,14 +1,14 @@
 ---
-title: "Motor cortex functional connectivity is associated with underlying neurochemistry in ALS."
+title: "Temporal dynamics predict symptom onset and cognitive decline in familial frontotemporal dementia."
 date: 2022-11-16
 enddate:
 ---
 
-Published in: *Journal of neurology, neurosurgery, and psychiatry*
+Published in: *Alzheimer's & dementia : the journal of the Alzheimer's Association*
 
-DOI: [10.1136/jnnp-2022-329993](https://doi.org/10.1136/jnnp-2022-329993)
+DOI: [10.1002/alz.12824](https://doi.org/10.1002/alz.12824)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://jnnp.bmj.com/content/jnnp/early/2022/11/15/jnnp-2022-329993.full.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://repositorio.ul.pt/bitstream/10451/55205/1/Temporal_predict.pdf" download>Access it freely here</a>
 

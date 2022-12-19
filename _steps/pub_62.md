@@ -1,13 +1,14 @@
 ---
-title: "A Three months Electrodiagnostic Follow-Up of Patients Suspected of having Ulnar Nerve Involvement at Elbow Level with Normal Conventional Electrodiagnostic Study at First Evaluation."
-date: 2022-11-11
+title: "Self-labelled encoder-decoder (SLED) for multi-echo gradient echo-based myelin water imaging."
+date: 2022-11-12
 enddate:
 ---
 
-Published in: *Neurology India*
+Published in: *NeuroImage*
 
-DOI: [10.4103/0028-3886.359279](https://doi.org/10.4103/0028-3886.359279)
+DOI: [10.1016/j.neuroimage.2022.119717](https://doi.org/10.1016/j.neuroimage.2022.119717)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.neuroimage.2022.119717">Access it freely here</a>
 

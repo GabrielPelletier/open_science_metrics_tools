@@ -1,13 +1,14 @@
 ---
-title: "Music and Brain Circuitry: Strategies for Strengthening Evidence-Based Research for Music-Based Interventions."
+title: "Complementary hemispheric lateralization of language and social processing in the human brain."
 date: 2022-11-10
 enddate:
 ---
 
-Published in: *The Journal of neuroscience : the official journal of the Society for Neuroscience*
+Published in: *Cell reports*
 
-DOI: [10.1523/JNEUROSCI.1135-22.2022](https://doi.org/10.1523/JNEUROSCI.1135-22.2022)
+DOI: [10.1016/j.celrep.2022.111617](https://doi.org/10.1016/j.celrep.2022.111617)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="http://www.cell.com/article/S2211124722014863/pdf">Access it freely here</a>
 

@@ -1,14 +1,13 @@
 ---
-title: "Elevated CSF and plasma complement proteins in genetic frontotemporal dementia: results from the GENFI study."
+title: "No Association Between Rare TWNK Variants and Parkinson's Disease in European Cohorts."
 date: 2022-09-06
 enddate:
 ---
 
-Published in: *Journal of neuroinflammation*
+Published in: *Movement disorders : official journal of the Movement Disorder Society*
 
-DOI: [10.1186/s12974-022-02573-0](https://doi.org/10.1186/s12974-022-02573-0)
+DOI: [10.1002/mds.29216](https://doi.org/10.1002/mds.29216)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://jneuroinflammation.biomedcentral.com/track/pdf/10.1186/s12974-022-02573-0">Access it freely here</a>
 

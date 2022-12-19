@@ -1,13 +1,14 @@
 ---
-title: "Deep Intronic "
-date: 2022-12-15
+title: "Consent Codes: Maintaining Consent in an Ever-expanding Open Science Ecosystem."
+date: 2022-12-16
 enddate:
 ---
 
-Published in: *The New England journal of medicine*
+Published in: *Neuroinformatics*
 
-DOI: [10.1056/NEJMoa2207406](https://doi.org/10.1056/NEJMoa2207406)
+DOI: [10.1007/s12021-022-09577-4](https://doi.org/10.1007/s12021-022-09577-4)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s12021-022-09577-4.pdf">Access it freely here</a>
 

@@ -1,14 +1,13 @@
 ---
-title: "Genome-wide contribution of common short-tandem repeats to Parkinson's disease genetic risk."
-date: 2022-11-09
+title: "Music and Brain Circuitry: Strategies for Strengthening Evidence-Based Research for Music-Based Interventions."
+date: 2022-11-10
 enddate:
 ---
 
-Published in: *Brain : a journal of neurology*
+Published in: *The Journal of neuroscience : the official journal of the Society for Neuroscience*
 
-DOI: [10.1093/brain/awac301](https://doi.org/10.1093/brain/awac301)
+DOI: [10.1523/JNEUROSCI.1135-22.2022](https://doi.org/10.1523/JNEUROSCI.1135-22.2022)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2021.07.01.21259645" download>Access it freely here</a>
 

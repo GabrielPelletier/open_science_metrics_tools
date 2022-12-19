@@ -1,14 +1,14 @@
 ---
-title: "A Framework for Advancing Sustainable MRI Access in Africa."
+title: "Evolution of immune genes is associated with the Black Death."
 date: 2022-10-20
 enddate:
 ---
 
-Published in: *NMR in biomedicine*
+Published in: *Nature*
 
-DOI: [10.1002/nbm.4846](https://doi.org/10.1002/nbm.4846)
+DOI: [10.1038/s41586-022-05349-x](https://doi.org/10.1038/s41586-022-05349-x)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.05.02.22274588" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9580435" download>Access it freely here</a>
 

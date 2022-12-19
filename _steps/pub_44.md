@@ -1,14 +1,14 @@
 ---
-title: "Unified epigenomic, transcriptomic, proteomic, and metabolomic taxonomy of Alzheimer's disease progression and heterogeneity."
-date: 2022-11-19
+title: "Chronic oligodendrocyte injury in central nervous system pathologies."
+date: 2022-11-20
 enddate:
 ---
 
-Published in: *Science advances*
+Published in: *Communications biology*
 
-DOI: [10.1126/sciadv.abo6764](https://doi.org/10.1126/sciadv.abo6764)
+DOI: [10.1038/s42003-022-04248-1](https://doi.org/10.1038/s42003-022-04248-1)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9674284" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s42003-022-04248-1.pdf">Access it freely here</a>
 

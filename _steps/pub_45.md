@@ -1,14 +1,14 @@
 ---
-title: "Direct and Indirect Effects of Filamin A on Tau Pathology in Neuronal Cells."
+title: "Unified epigenomic, transcriptomic, proteomic, and metabolomic taxonomy of Alzheimer's disease progression and heterogeneity."
 date: 2022-11-19
 enddate:
 ---
 
-Published in: *Molecular neurobiology*
+Published in: *Science advances*
 
-DOI: [10.1007/s12035-022-03121-w](https://doi.org/10.1007/s12035-022-03121-w)
+DOI: [10.1126/sciadv.abo6764](https://doi.org/10.1126/sciadv.abo6764)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s12035-022-03121-w.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9674284" download>Access it freely here</a>
 

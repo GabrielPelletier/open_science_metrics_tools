@@ -1,14 +1,14 @@
 ---
-title: "Frequency and Longitudinal Course of Motor Signs In Genetic Frontotemporal Dementia"
-date: 2022-08-10
+title: "Neuroprotection in neurodegenerations of the brain and eye: Lessons from the past and directions for the future"
+date: 2022-08-12
 enddate:
 ---
 
-Published in: *Neurology*
+Published in: *Frontiers in Neurology*
 
-DOI: [10.1212/WNL.0000000000200828](https://doi.org/10.1212/WNL.0000000000200828)
+DOI: [10.3389/fneur.2022.964197](https://doi.org/10.3389/fneur.2022.964197)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://n.neurology.org/content/neurology/early/2022/08/10/WNL.0000000000200828.full.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fneur.2022.964197/pdf">Access it freely here</a>
 

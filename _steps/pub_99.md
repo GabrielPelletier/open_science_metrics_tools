@@ -1,14 +1,14 @@
 ---
-title: "Combining NGN2 programming and dopaminergic patterning for a rapid and efficient generation of hiPSC-derived midbrain neurons."
+title: "Topographical differences in white matter hyperintensity burden and cognition in aging, MCI, and AD."
 date: 2022-10-14
 enddate:
 ---
 
-Published in: *Scientific reports*
+Published in: *GeroScience*
 
-DOI: [10.1038/s41598-022-22158-4](https://doi.org/10.1038/s41598-022-22158-4)
+DOI: [10.1007/s11357-022-00665-6](https://doi.org/10.1007/s11357-022-00665-6)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41598-022-22158-4.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.04.20.22274087" download>Access it freely here</a>
 

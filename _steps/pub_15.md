@@ -1,14 +1,13 @@
 ---
-title: "3-Dimensional Immunostaining and Automated Deep-Learning Based Analysis of Nerve Degeneration."
-date: 2022-12-12
+title: "MiToS and King's staging as clinical outcome measures in ALS: a retrospective analysis of the FORTITUDE-ALS trial."
+date: 2022-12-13
 enddate:
 ---
 
-Published in: *International journal of molecular sciences*
+Published in: *Amyotrophic lateral sclerosis & frontotemporal degeneration*
 
-DOI: [10.3390/ijms232314811](https://doi.org/10.3390/ijms232314811)
+DOI: [10.1080/21678421.2022.2154678](https://doi.org/10.1080/21678421.2022.2154678)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/1422-0067/23/23/14811/pdf?version=1669778705">Access it freely here</a>
 

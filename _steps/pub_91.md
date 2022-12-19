@@ -1,14 +1,13 @@
 ---
-title: "Evolution of immune genes is associated with the Black Death."
+title: "GM-CSF-stimulated human macrophages demonstrate enhanced functions contributing to T cell activation."
 date: 2022-10-20
 enddate:
 ---
 
-Published in: *Nature*
+Published in: *Immunology and cell biology*
 
-DOI: [10.1038/s41586-022-05349-x](https://doi.org/10.1038/s41586-022-05349-x)
+DOI: [10.1111/imcb.12600](https://doi.org/10.1111/imcb.12600)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9580435" download>Access it freely here</a>
 

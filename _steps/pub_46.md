@@ -1,14 +1,14 @@
 ---
-title: "The association of age-related and off-target retention with longitudinal quantification of ["
-date: 2022-11-18
+title: "Direct and Indirect Effects of Filamin A on Tau Pathology in Neuronal Cells."
+date: 2022-11-19
 enddate:
 ---
 
-Published in: *Journal of nuclear medicine : official publication, Society of Nuclear Medicine*
+Published in: *Molecular neurobiology*
 
-DOI: [10.2967/jnumed.122.264434](https://doi.org/10.2967/jnumed.122.264434)
+DOI: [10.1007/s12035-022-03121-w](https://doi.org/10.1007/s12035-022-03121-w)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://jnm.snmjournals.org/content/jnumed/early/2022/11/17/jnumed.122.264434.full.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s12035-022-03121-w.pdf">Access it freely here</a>
 

@@ -1,14 +1,14 @@
 ---
-title: "Association of Autologous Tumor Lysate-Loaded Dendritic Cell Vaccination With Extension of Survival Among Patients With Newly Diagnosed and Recurrent Glioblastoma: A Phase 3 Prospective Externally Controlled Cohort Trial."
+title: "The association of age-related and off-target retention with longitudinal quantification of ["
 date: 2022-11-18
 enddate:
 ---
 
-Published in: *JAMA oncology*
+Published in: *Journal of nuclear medicine : official publication, Society of Nuclear Medicine*
 
-DOI: [10.1001/jamaoncol.2022.5370](https://doi.org/10.1001/jamaoncol.2022.5370)
+DOI: [10.2967/jnumed.122.264434](https://doi.org/10.2967/jnumed.122.264434)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://jamanetwork.com/journals/jamaoncology/articlepdf/2798847/jamaoncology_liau_2022_oi_220066_1668698380.80695.pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://jnm.snmjournals.org/content/jnumed/early/2022/11/17/jnumed.122.264434.full.pdf">Access it freely here</a>
 
