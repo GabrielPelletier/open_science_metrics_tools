@@ -1,14 +1,14 @@
 ---
-title: "Detection and genomic analysis of BRAF fusions in Juvenile Pilocytic Astrocytoma through the combination and integration of multi-omic data."
-date: 2022-12-13
+title: "APOE alleles are associated with sex-specific structural differences in brain regions affected in Alzheimer's disease and related dementia."
+date: 2022-12-14
 enddate:
 ---
 
-Published in: *BMC cancer*
+Published in: *PLoS biology*
 
-DOI: [10.1186/s12885-022-10359-z](https://doi.org/10.1186/s12885-022-10359-z)
+DOI: [10.1371/journal.pbio.3001863](https://doi.org/10.1371/journal.pbio.3001863)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://bmccancer.biomedcentral.com/counter/pdf/10.1186/s12885-022-10359-z">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001863&type=printable">Access it freely here</a>
 

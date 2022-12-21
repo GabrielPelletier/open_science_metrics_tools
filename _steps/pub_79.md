@@ -1,13 +1,13 @@
 ---
-title: "Disease Burden of Spinal Muscular Atrophy: A Comparative Cohort Study Using Insurance Claims Data in the USA."
-date: 2022-11-01
+title: "Kundalini Yoga Intervention Increases Hippocampal Volume in Older Adults: A Pilot Randomized Controlled Trial."
+date: 2022-11-05
 enddate:
 ---
 
-Published in: *Journal of neuromuscular diseases*
+Published in: *International journal of yoga*
 
-DOI: [10.3233/JND-210764](https://doi.org/10.3233/JND-210764)
+DOI: [10.4103/ijoy.ijoy_25_22](https://doi.org/10.4103/ijoy.ijoy_25_22)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
 
 

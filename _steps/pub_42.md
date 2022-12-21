@@ -1,12 +1,12 @@
 ---
-title: "Music engagement is negatively correlated with depressive symptoms during the COVID-19 pandemic via reward-related mechanisms."
-date: 2022-11-20
+title: "Integrating machine learning and digital microfluidics for screening experimental conditions."
+date: 2022-11-24
 enddate:
 ---
 
-Published in: *Annals of the New York Academy of Sciences*
+Published in: *Lab on a chip*
 
-DOI: [10.1111/nyas.14931](https://doi.org/10.1111/nyas.14931)
+DOI: [10.1039/d2lc00764a](https://doi.org/10.1039/d2lc00764a)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

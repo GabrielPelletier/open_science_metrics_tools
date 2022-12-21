@@ -1,14 +1,13 @@
 ---
-title: "A Framework for Advancing Sustainable MRI Access in Africa."
-date: 2022-10-20
+title: "Herbert Jasper in Paris and the Origin of Electromyography."
+date: 2022-10-21
 enddate:
 ---
 
-Published in: *NMR in biomedicine*
+Published in: *Neurology*
 
-DOI: [10.1002/nbm.4846](https://doi.org/10.1002/nbm.4846)
+DOI: [10.1212/WNL.0000000000201483](https://doi.org/10.1212/WNL.0000000000201483)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.05.02.22274588" download>Access it freely here</a>
 

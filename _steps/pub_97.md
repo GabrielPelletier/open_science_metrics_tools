@@ -1,14 +1,14 @@
 ---
-title: "The central autonomic system revisited - Convergent evidence for a regulatory role of the insular and midcingulate cortex from neuroimaging meta-analyses."
-date: 2022-10-17
+title: "Evolution of immune genes is associated with the Black Death."
+date: 2022-10-20
 enddate:
 ---
 
-Published in: *Neuroscience and biobehavioral reviews*
+Published in: *Nature*
 
-DOI: [10.1016/j.neubiorev.2022.104915](https://doi.org/10.1016/j.neubiorev.2022.104915)
+DOI: [10.1038/s41586-022-05349-x](https://doi.org/10.1038/s41586-022-05349-x)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.05.25.493371" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9580435" download>Access it freely here</a>
 

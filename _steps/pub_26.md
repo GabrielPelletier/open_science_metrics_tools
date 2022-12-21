@@ -1,13 +1,14 @@
 ---
-title: "On to the next adventure."
-date: 2022-12-04
+title: "Two pathways differentially linking tau depositions, oxidative stress, and neuronal loss to apathetic phenotypes in progressive supranuclear palsy."
+date: 2022-12-07
 enddate:
 ---
 
-Published in: *Epilepsy & behavior : E&B*
+Published in: *Journal of the neurological sciences*
 
-DOI: [10.1016/j.yebeh.2022.108814](https://doi.org/10.1016/j.yebeh.2022.108814)
+DOI: [10.1016/j.jns.2022.120514](https://doi.org/10.1016/j.jns.2022.120514)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.jns.2022.120514">Access it freely here</a>
 

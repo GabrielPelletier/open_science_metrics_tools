@@ -1,13 +1,14 @@
 ---
-title: "Kundalini Yoga Intervention Increases Hippocampal Volume in Older Adults: A Pilot Randomized Controlled Trial."
-date: 2022-11-05
+title: "Neural substrates of spatial processing and navigation in blindness: An activation likelihood estimation meta-analysis."
+date: 2022-11-08
 enddate:
 ---
 
-Published in: *International journal of yoga*
+Published in: *Frontiers in neuroscience*
 
-DOI: [10.4103/ijoy.ijoy_25_22](https://doi.org/10.4103/ijoy.ijoy_25_22)
+DOI: [10.3389/fnins.2022.1010354](https://doi.org/10.3389/fnins.2022.1010354)
 
-The publication DOI could not be resolved by Unpaywall. It may or may not be available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.1010354/pdf">Access it freely here</a>
 

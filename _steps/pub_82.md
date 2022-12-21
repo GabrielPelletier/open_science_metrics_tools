@@ -1,14 +1,13 @@
 ---
-title: "Investigating Late-Onset Pompe Prevalence in Neuromuscular Medicine Academic Practices: The IPaNeMA Study."
-date: 2022-10-28
+title: "Disease Burden of Spinal Muscular Atrophy: A Comparative Cohort Study Using Insurance Claims Data in the USA."
+date: 2022-11-01
 enddate:
 ---
 
-Published in: *Neurology. Genetics*
+Published in: *Journal of neuromuscular diseases*
 
-DOI: [10.1212/NXG.0000000000000623](https://doi.org/10.1212/NXG.0000000000000623)
+DOI: [10.3233/JND-210764](https://doi.org/10.3233/JND-210764)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://ng.neurology.org/content/nng/7/6/e623.full.pdf">Access it freely here</a>
 

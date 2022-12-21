@@ -1,12 +1,12 @@
 ---
-title: "Modulation of DNA methylation and protein expression in the prefrontal cortex by repeated administration of D-lysergic acid diethylamide (LSD): Impact on neurotropic, neurotrophic, and neuroplasticity signaling"
-date: 2022-12-01
+title: "Quantitative vs qualitative muscle MRI: Imaging biomarker in patients with Oculopharyngeal Muscular Dystrophy (OPMD)."
+date: 2022-12-04
 enddate:
 ---
 
-Published in: *Progress in Neuro-Psychopharmacology and Biological Psychiatry*
+Published in: *Neuromuscular disorders : NMD*
 
-DOI: [10.1016/j.pnpbp.2022.110594](https://doi.org/10.1016/j.pnpbp.2022.110594)
+DOI: [10.1016/j.nmd.2022.09.010](https://doi.org/10.1016/j.nmd.2022.09.010)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 

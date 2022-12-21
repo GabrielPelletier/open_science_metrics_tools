@@ -1,14 +1,14 @@
 ---
-title: "Temporal dynamics predict symptom onset and cognitive decline in familial frontotemporal dementia."
-date: 2022-11-16
+title: "Direct and Indirect Effects of Filamin A on Tau Pathology in Neuronal Cells."
+date: 2022-11-19
 enddate:
 ---
 
-Published in: *Alzheimer's & dementia : the journal of the Alzheimer's Association*
+Published in: *Molecular neurobiology*
 
-DOI: [10.1002/alz.12824](https://doi.org/10.1002/alz.12824)
+DOI: [10.1007/s12035-022-03121-w](https://doi.org/10.1007/s12035-022-03121-w)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://repositorio.ul.pt/bitstream/10451/55205/1/Temporal_predict.pdf" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s12035-022-03121-w.pdf">Access it freely here</a>
 

@@ -1,14 +1,13 @@
 ---
-title: "Socio-demographic disparities in receipt of clinical health care services during the COVID-19 pandemic for Canadian children with disability."
-date: 2022-11-30
+title: "On to the next adventure."
+date: 2022-12-04
 enddate:
 ---
 
-Published in: *BMC health services research*
+Published in: *Epilepsy & behavior : E&B*
 
-DOI: [10.1186/s12913-022-08672-1](https://doi.org/10.1186/s12913-022-08672-1)
+DOI: [10.1016/j.yebeh.2022.108814](https://doi.org/10.1016/j.yebeh.2022.108814)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08672-1">Access it freely here</a>
 

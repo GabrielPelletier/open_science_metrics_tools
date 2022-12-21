@@ -1,14 +1,13 @@
 ---
-title: "Evolution of immune genes is associated with the Black Death."
-date: 2022-10-20
+title: "Discordance and Concordance Between Cerebrospinal and [18F]FDG-PET Biomarkers in Assessing Atypical and Early-Onset AD Dementia Cases."
+date: 2022-10-21
 enddate:
 ---
 
-Published in: *Nature*
+Published in: *Neurology*
 
-DOI: [10.1038/s41586-022-05349-x](https://doi.org/10.1038/s41586-022-05349-x)
+DOI: [10.1212/WNL.0000000000201198](https://doi.org/10.1212/WNL.0000000000201198)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9580435" download>Access it freely here</a>
 

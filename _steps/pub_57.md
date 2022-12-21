@@ -1,14 +1,13 @@
 ---
-title: "GALC variants affect galactosylceramidase enzymatic activity and risk of Parkinson's disease."
-date: 2022-11-13
+title: "Subjective cognitive decline is associated with lower baseline cognition and increased rate of cognitive decline."
+date: 2022-11-15
 enddate:
 ---
 
-Published in: *Brain : a journal of neurology*
+Published in: *The journals of gerontology. Series B, Psychological sciences and social sciences*
 
-DOI: [10.1093/brain/awac413](https://doi.org/10.1093/brain/awac413)
+DOI: [10.1093/geronb/gbac178](https://doi.org/10.1093/geronb/gbac178)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.04.30.22274239" download>Access it freely here</a>
 

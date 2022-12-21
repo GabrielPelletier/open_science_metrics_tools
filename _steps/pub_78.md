@@ -1,13 +1,14 @@
 ---
-title: "Comparing neural activity during autobiographical memory retrieval between younger and older adults: An ALE meta-analysis"
-date: 2022-11-01
+title: "Resting-state functional MRI of the visual system for characterization of optic neuropathy."
+date: 2022-11-05
 enddate:
 ---
 
-Published in: *Neurobiology of Aging*
+Published in: *Frontiers in human neuroscience*
 
-DOI: [10.1016/j.neurobiolaging.2022.06.009](https://doi.org/10.1016/j.neurobiolaging.2022.06.009)
+DOI: [10.3389/fnhum.2022.943618](https://doi.org/10.3389/fnhum.2022.943618)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnhum.2022.943618/pdf">Access it freely here</a>
 

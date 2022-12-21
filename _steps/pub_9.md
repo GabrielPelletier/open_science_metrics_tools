@@ -1,14 +1,13 @@
 ---
-title: "Ultra-high field neuroimaging in psychosis: A narrative review."
-date: 2022-12-13
+title: "The role of opioid transmission in music-induced pleasure."
+date: 2022-12-15
 enddate:
 ---
 
-Published in: *Frontiers in psychiatry*
+Published in: *Annals of the New York Academy of Sciences*
 
-DOI: [10.3389/fpsyt.2022.994372](https://doi.org/10.3389/fpsyt.2022.994372)
+DOI: [10.1111/nyas.14946](https://doi.org/10.1111/nyas.14946)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2022.994372/pdf">Access it freely here</a>
 

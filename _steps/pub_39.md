@@ -1,14 +1,13 @@
 ---
-title: "Association of Attention-Deficit/Hyperactivity Disorder and Depression Polygenic Scores with Lithium Response: A Consortium for Lithium Genetics Study."
-date: 2022-11-22
+title: "Cost-effectiveness of a gene sequencing test for Alzheimer's disease in Ontario."
+date: 2022-11-27
 enddate:
 ---
 
-Published in: *Complex psychiatry*
+Published in: *Journal of community genetics*
 
-DOI: [10.1159/000519707](https://doi.org/10.1159/000519707)
+DOI: [10.1007/s12687-022-00619-7](https://doi.org/10.1007/s12687-022-00619-7)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8740189" download>Access it freely here</a>
 

@@ -1,13 +1,14 @@
 ---
-title: "Comparing the Characteristics of Microglia Preparations Generated Using Different Human iPSC-Based Differentiation Methods to Model Neurodegenerative Diseases."
-date: 2022-12-17
+title: "Language impairment in the genetic forms of behavioural variant frontotemporal dementia."
+date: 2022-12-21
 enddate:
 ---
 
-Published in: *ASN neuro*
+Published in: *Journal of neurology*
 
-DOI: [10.1177/17590914221145105](https://doi.org/10.1177/17590914221145105)
+DOI: [10.1007/s00415-022-11512-1](https://doi.org/10.1007/s00415-022-11512-1)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s00415-022-11512-1.pdf">Access it freely here</a>
 

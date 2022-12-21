@@ -1,14 +1,13 @@
 ---
-title: "APOE alleles are associated with sex-specific structural differences in brain regions affected in Alzheimer's disease and related dementia."
-date: 2022-12-14
+title: "Comparing the Characteristics of Microglia Preparations Generated Using Different Human iPSC-Based Differentiation Methods to Model Neurodegenerative Diseases."
+date: 2022-12-17
 enddate:
 ---
 
-Published in: *PLoS biology*
+Published in: *ASN neuro*
 
-DOI: [10.1371/journal.pbio.3001863](https://doi.org/10.1371/journal.pbio.3001863)
+DOI: [10.1177/17590914221145105](https://doi.org/10.1177/17590914221145105)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001863&type=printable">Access it freely here</a>
 
