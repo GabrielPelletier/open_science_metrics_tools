@@ -14,8 +14,8 @@ data_dir = ROOT_DIR + '/data/ponctual_search_results/'
 #file_list = ['aff_oa_info_2010', 'aff_oa_info_2011', 'aff_oa_info_2012', 'aff_oa_info_2013', 'aff_oa_info_2014', 'aff_oa_info_2015',
 #             'aff_oa_info_2016', 'aff_oa_info_2017', 'aff_oa_info_2018', 'aff_oa_info_2019', 'aff_oa_info_2020', 'aff_oa_info_2021']
 file_list = ['y2010_oa_info', 'y2011_oa_info', 'y2012_oa_info', 'y2013_oa_info', 'y2014_oa_info', 'y2015_oa_info',
-             'y2016_oa_info', 'y2017_oa_info', 'y2018_oa_info', 'y2019_oa_info', 'y2020_oa_info', 'y2021_oa_info']
-years = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
+             'y2016_oa_info', 'y2017_oa_info', 'y2018_oa_info', 'y2019_oa_info', 'y2020_oa_info', 'y2021_oa_info', 'y2022_oa_info']
+years = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]
 # Declare summar ydata lists that we will fill with yearly summary data
 sum_publications_by_year = []
 sum_is_oa_by_year = []
