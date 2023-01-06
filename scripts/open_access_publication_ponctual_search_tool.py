@@ -55,7 +55,7 @@ if __name__ == '__main__':
     #date_from = '"2022/01/01"'
     #date_to = '"2022/12/31"'
     #base_query = '(' + affiliation_1 + '[Affiliation]) OR ((' + affiliation_2 + '[Affiliation]) AND (' + affiliation_3 + '[Affiliation])) AND((' + date_from + '[Date - Publication] : ' + date_to + '[Date - Publication]))'
-    base_query = 'AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2021/01/01:2021/12/31[Date - Publication])'
+    base_query = 'AND ("Montreal Neurological"[Affiliation] OR "McGill"[Affiliation]) AND 2011/01/01:2011/12/31[Date - Publication])'
     # Read QUERY, or AUTHOR LIST, from text file
     text_file = open(ROOT_DIR + "/data/queries_and_lists_for_ponctual_searches/neuro_author_list_2022.csv", "r", encoding='utf-8')
     author_list = list(csv.DictReader(text_file, delimiter=","))
