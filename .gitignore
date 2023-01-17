@@ -17,3 +17,6 @@ _site
 # exclude everything in ponctual_search_results, but keep dierctory.
 data/ponctual_search_results/*
 !data/ponctual_search_results/.gitkeep
+
+# exclude some script(s)
+scripts/open_access_by_individual.py

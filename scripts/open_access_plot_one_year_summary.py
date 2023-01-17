@@ -10,7 +10,7 @@ import os
 
 ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 data_dir = ROOT_DIR + '/data/ponctual_search_results/'
-file = 'y2021_oa_info_cleaned.csv'
+file = 'y2022_oa_info.csv'
 year_df = pd.read_csv(data_dir + file)
 
 # Get Sum and Ratio of OA papers and by OA type
@@ -46,13 +46,16 @@ print('Num Green & Reposiroty: ' + str(sum_green_repo))
 
 # Plot Open vs Closed
 data = np.array([sum_is_oa, sum_closed])
-mylabels = ["Open Access", "Closed"]
+#mylabels = ["Open Access", "Closed"]
 myexplode = [0.2, 0]
-mycolors = ["DarkOrange", "DimGray"]
-textprops = {"fontsize": 14}
+#mycolors = ["DarkOrange", "DimGray"]
+mylabels = [" ", " "]
+mycolors = ["#FF6720", "#E5E1E6"]
+textprops = {"fontsize": 20}
 
 patches, texts, autotexts = plt.pie(data, autopct='%1.1f%%', labels=mylabels, explode=myexplode, colors=mycolors,
                                     textprops=textprops)
+'''
 # Add raw numbers as text manually placed on the pie chart (NOT IDEAL)
 plt.text(-0.55, 0.45, '(n= ' + str(sum_is_oa) + ')', horizontalalignment='center',
      verticalalignment='center')
@@ -60,6 +63,7 @@ plt.text(0.4, -0.6, '(n= ' + str(sum_closed) + ')', horizontalalignment='center'
      verticalalignment='center')
 
 [_.set_fontsize(18) for _ in texts]
+'''
 plt.show()
 
 # Plot Types of OA
