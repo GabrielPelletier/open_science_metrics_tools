@@ -1,14 +1,13 @@
 ---
-title: "Consent Codes: Maintaining Consent in an Ever-expanding Open Science Ecosystem."
-date: 2022-12-16
+title: "Mitochondrial signalling and homeostasis: from cell biology to neurological disease."
+date: 2023-01-13
 enddate:
 ---
 
-Published in: *Neuroinformatics*
+Published in: *Trends in neurosciences*
 
-DOI: [10.1007/s12021-022-09577-4](https://doi.org/10.1007/s12021-022-09577-4)
+DOI: [10.1016/j.tins.2022.12.001](https://doi.org/10.1016/j.tins.2022.12.001)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s12021-022-09577-4.pdf">Access it freely here</a>
 

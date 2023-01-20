@@ -1,14 +1,13 @@
 ---
-title: "Unified epigenomic, transcriptomic, proteomic, and metabolomic taxonomy of Alzheimer's disease progression and heterogeneity."
-date: 2022-11-19
+title: "The role of opioid transmission in music-induced pleasure."
+date: 2022-12-15
 enddate:
 ---
 
-Published in: *Science advances*
+Published in: *Annals of the New York Academy of Sciences*
 
-DOI: [10.1126/sciadv.abo6764](https://doi.org/10.1126/sciadv.abo6764)
+DOI: [10.1111/nyas.14946](https://doi.org/10.1111/nyas.14946)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9674284" download>Access it freely here</a>
 

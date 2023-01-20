@@ -1,14 +1,13 @@
 ---
-title: "Temporal dynamics predict symptom onset and cognitive decline in familial frontotemporal dementia."
-date: 2022-11-16
+title: "Utilizing artificial intelligence and electroencephalography to assess expertise on a simulated neurosurgical task."
+date: 2022-12-13
 enddate:
 ---
 
-Published in: *Alzheimer's & dementia : the journal of the Alzheimer's Association*
+Published in: *Computers in biology and medicine*
 
-DOI: [10.1002/alz.12824](https://doi.org/10.1002/alz.12824)
+DOI: [10.1016/j.compbiomed.2022.106286](https://doi.org/10.1016/j.compbiomed.2022.106286)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://repositorio.ul.pt/bitstream/10451/55205/1/Temporal_predict.pdf" download>Access it freely here</a>
 

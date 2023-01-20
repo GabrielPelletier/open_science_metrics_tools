@@ -1,14 +1,13 @@
 ---
-title: "Effect of spinal anesthesia-induced deafferentation on pain processing in healthy male volunteers: A task-related fMRI study."
-date: 2022-12-20
+title: "Early Biomarkers in the Prediction of Later Functional Impairment in Term Children with Cerebral Palsy."
+date: 2023-01-15
 enddate:
 ---
 
-Published in: *Frontiers in pain research (Lausanne, Switzerland)*
+Published in: *Pediatric neurology*
 
-DOI: [10.3389/fpain.2022.1001148](https://doi.org/10.3389/fpain.2022.1001148)
+DOI: [10.1016/j.pediatrneurol.2022.12.004](https://doi.org/10.1016/j.pediatrneurol.2022.12.004)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpain.2022.1001148/pdf">Access it freely here</a>
 

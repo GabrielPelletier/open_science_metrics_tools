@@ -1,14 +1,13 @@
 ---
-title: "A connectomics-based taxonomy of mammals."
-date: 2022-11-08
+title: "Modulation of DNA methylation and protein expression in the prefrontal cortex by repeated administration of D-lysergic acid diethylamide (LSD): Impact on neurotropic, neurotrophic, and neuroplasticity signaling"
+date: 2022-12-01
 enddate:
 ---
 
-Published in: *eLife*
+Published in: *Progress in Neuro-Psychopharmacology and Biological Psychiatry*
 
-DOI: [10.7554/eLife.78635](https://doi.org/10.7554/eLife.78635)
+DOI: [10.1016/j.pnpbp.2022.110594](https://doi.org/10.1016/j.pnpbp.2022.110594)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.7554/elife.78635">Access it freely here</a>
 

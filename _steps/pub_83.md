@@ -1,14 +1,14 @@
 ---
-title: "Antigenicity is preserved with fixative solutions used in human gross anatomy: A mice brain immunohistochemistry study."
-date: 2022-11-01
+title: "Association of Attention-Deficit/Hyperactivity Disorder and Depression Polygenic Scores with Lithium Response: A Consortium for Lithium Genetics Study."
+date: 2022-11-22
 enddate:
 ---
 
-Published in: *Frontiers in neuroanatomy*
+Published in: *Complex psychiatry*
 
-DOI: [10.3389/fnana.2022.957358](https://doi.org/10.3389/fnana.2022.957358)
+DOI: [10.1159/000519707](https://doi.org/10.1159/000519707)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fnana.2022.957358/pdf">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8740189" download>Access it freely here</a>
 

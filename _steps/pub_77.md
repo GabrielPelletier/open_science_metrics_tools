@@ -1,14 +1,13 @@
 ---
-title: "Querying hippocampal replay with subcortical inputs."
-date: 2022-11-07
+title: "Loss of brainstem white matter predicts onset and motor neuron symptoms in C9orf72 expansion carriers: a GENFI study."
+date: 2022-11-29
 enddate:
 ---
 
-Published in: *Current opinion in neurobiology*
+Published in: *Journal of neurology*
 
-DOI: [10.1016/j.conb.2022.102645](https://doi.org/10.1016/j.conb.2022.102645)
+DOI: [10.1007/s00415-022-11435-x](https://doi.org/10.1007/s00415-022-11435-x)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2205.02665" download>Access it freely here</a>
 

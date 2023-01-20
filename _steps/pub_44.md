@@ -1,14 +1,14 @@
 ---
-title: "Association of Attention-Deficit/Hyperactivity Disorder and Depression Polygenic Scores with Lithium Response: A Consortium for Lithium Genetics Study."
-date: 2022-11-22
+title: "Effect of spinal anesthesia-induced deafferentation on pain processing in healthy male volunteers: A task-related fMRI study."
+date: 2022-12-20
 enddate:
 ---
 
-Published in: *Complex psychiatry*
+Published in: *Frontiers in pain research (Lausanne, Switzerland)*
 
-DOI: [10.1159/000519707](https://doi.org/10.1159/000519707)
+DOI: [10.3389/fpain.2022.1001148](https://doi.org/10.3389/fpain.2022.1001148)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8740189" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fpain.2022.1001148/pdf">Access it freely here</a>
 

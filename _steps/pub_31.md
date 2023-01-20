@@ -1,14 +1,14 @@
 ---
-title: "NigraNet: An automatic framework to assess nigral neuromelanin content in early Parkinson's disease using convolutional neural network."
-date: 2022-12-02
+title: "A critical role of brain network architecture in a continuum model of autism spectrum disorders spanning from healthy individuals with genetic liability to individuals with ASD."
+date: 2022-12-28
 enddate:
 ---
 
-Published in: *NeuroImage. Clinical*
+Published in: *Molecular psychiatry*
 
-DOI: [10.1016/j.nicl.2022.103250](https://doi.org/10.1016/j.nicl.2022.103250)
+DOI: [10.1038/s41380-022-01916-w](https://doi.org/10.1038/s41380-022-01916-w)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.nicl.2022.103250">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41380-022-01916-w.pdf">Access it freely here</a>
 

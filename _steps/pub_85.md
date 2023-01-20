@@ -1,13 +1,14 @@
 ---
-title: "Gene-based burden analysis of damaging private variants in PRKN, PARK7 and PINK1 in Parkinson's disease cohorts of European descent."
-date: 2022-10-29
+title: "Persistence of hippocampal and striatal multivoxel patterns during awake rest after motor sequence learning."
+date: 2022-11-22
 enddate:
 ---
 
-Published in: *Neurobiology of aging*
+Published in: *iScience*
 
-DOI: [10.1016/j.neurobiolaging.2022.07.012](https://doi.org/10.1016/j.neurobiolaging.2022.07.012)
+DOI: [10.1016/j.isci.2022.105498](https://doi.org/10.1016/j.isci.2022.105498)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
+&nbsp;&nbsp;&nbsp;<a href="http://www.cell.com/article/S2589004222017709/pdf">Access it freely here</a>
 

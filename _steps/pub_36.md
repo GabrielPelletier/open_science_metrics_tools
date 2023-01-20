@@ -1,14 +1,14 @@
 ---
-title: "Socio-demographic disparities in receipt of clinical health care services during the COVID-19 pandemic for Canadian children with disability."
-date: 2022-11-30
+title: "Development of a Prototype for a Bilingual Patient-Reported Outcome Measure of the Important Health Aspects of Quality of Life in People Living with HIV: The Preference Based HIV Index (PB-HIV)."
+date: 2022-12-24
 enddate:
 ---
 
-Published in: *BMC health services research*
+Published in: *Journal of personalized medicine*
 
-DOI: [10.1186/s12913-022-08672-1](https://doi.org/10.1186/s12913-022-08672-1)
+DOI: [10.3390/jpm12122080](https://doi.org/10.3390/jpm12122080)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08672-1">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2075-4426/12/12/2080/pdf?version=1671530470">Access it freely here</a>
 

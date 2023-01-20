@@ -1,14 +1,14 @@
 ---
-title: "APOE alleles are associated with sex-specific structural differences in brain regions affected in Alzheimer's disease and related dementia."
-date: 2022-12-14
+title: "Meta-topologies define distinct anatomical classes of brain tumours linked to histology and survival."
+date: 2023-01-13
 enddate:
 ---
 
-Published in: *PLoS biology*
+Published in: *Brain communications*
 
-DOI: [10.1371/journal.pbio.3001863](https://doi.org/10.1371/journal.pbio.3001863)
+DOI: [10.1093/braincomms/fcac336](https://doi.org/10.1093/braincomms/fcac336)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Gold OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001863&type=printable">Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9830987" download>Access it freely here</a>
 

@@ -1,13 +1,14 @@
 ---
-title: "Delineating the epileptogenic zone: spikes versus oscillations."
-date: 2022-10-22
+title: "Association of Autologous Tumor Lysate-Loaded Dendritic Cell Vaccination With Extension of Survival Among Patients With Newly Diagnosed and Recurrent Glioblastoma: A Phase 3 Prospective Externally Controlled Cohort Trial."
+date: 2022-11-18
 enddate:
 ---
 
-Published in: *The Lancet. Neurology*
+Published in: *JAMA oncology*
 
-DOI: [10.1016/S1474-4422(22)00396-9](https://doi.org/10.1016/S1474-4422(22)00396-9)
+DOI: [10.1001/jamaoncol.2022.5370](https://doi.org/10.1001/jamaoncol.2022.5370)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://jamanetwork.com/journals/jamaoncology/articlepdf/2798847/jamaoncology_liau_2022_oi_220066_1668698380.80695.pdf">Access it freely here</a>
 

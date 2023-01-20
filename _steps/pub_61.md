@@ -1,14 +1,14 @@
 ---
-title: "GALC variants affect galactosylceramidase enzymatic activity and risk of Parkinson's disease."
-date: 2022-11-13
+title: "Brain ageing in schizophrenia: evidence from 26 international cohorts via the ENIGMA Schizophrenia consortium."
+date: 2022-12-10
 enddate:
 ---
 
-Published in: *Brain : a journal of neurology*
+Published in: *Molecular psychiatry*
 
-DOI: [10.1093/brain/awac413](https://doi.org/10.1093/brain/awac413)
+DOI: [10.1038/s41380-022-01897-w](https://doi.org/10.1038/s41380-022-01897-w)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Open_Access_logo_PLoS_white_green.svg/576px-Open_Access_logo_PLoS_white_green.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Green OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
-&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1101/2022.04.30.22274239" download>Access it freely here</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41380-022-01897-w.pdf">Access it freely here</a>
 

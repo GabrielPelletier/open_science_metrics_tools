@@ -1,14 +1,13 @@
 ---
-title: "Social isolation and the brain in the pandemic era."
-date: 2022-10-19
+title: "Normative Values of Neuromelanin-Sensitive MRI Signal in Older Adults Obtained Using a Turbo Spin Echo Sequence."
+date: 2022-11-15
 enddate:
 ---
 
-Published in: *Nature human behaviour*
+Published in: *Journal of magnetic resonance imaging : JMRI*
 
-DOI: [10.1038/s41562-022-01453-0](https://doi.org/10.1038/s41562-022-01453-0)
+DOI: [10.1002/jmri.28530](https://doi.org/10.1002/jmri.28530)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Bronze OA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
 
-&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41562-022-01453-0.pdf">Access it freely here</a>
 

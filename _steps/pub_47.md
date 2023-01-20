@@ -1,13 +1,14 @@
 ---
-title: "White matter hyperintensity load varies depending on subjective cognitive decline criteria."
-date: 2022-11-20
+title: "Consent Codes: Maintaining Consent in an Ever-expanding Open Science Ecosystem."
+date: 2022-12-16
 enddate:
 ---
 
-Published in: *GeroScience*
+Published in: *Neuroinformatics*
 
-DOI: [10.1007/s11357-022-00684-3](https://doi.org/10.1007/s11357-022-00684-3)
+DOI: [10.1007/s12021-022-09577-4](https://doi.org/10.1007/s12021-022-09577-4)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Closed_Access_logo_transparent.svg/1200px-Closed_Access_logo_transparent.svg.png" alt="drawing" width="25" align="left"/> &nbsp;&nbsp;&nbsp;This publication is not available in Open Access.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/800px-Open_Access_logo_PLoS_transparent.svg.png" alt="drawing" width="50" align="left"/> &nbsp;&nbsp;&nbsp;This publication is available in **Open Access**! (Hybrid OA)
 
+&nbsp;&nbsp;&nbsp;<a href="https://link.springer.com/content/pdf/10.1007/s12021-022-09577-4.pdf">Access it freely here</a>
 
