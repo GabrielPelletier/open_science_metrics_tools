@@ -28,7 +28,7 @@ The goal is to eventually have tools to track:
     
 * **review_pub_oa_status.py**
 
-    This script reviews and updates the entire master.csv list of all publications identified to date. It updates any changes to the publication information that might have occured after publication. Most importantly it updates the Open Access statuts of a publication which may change when the article is published in an instituional repository sometime after the publciaton because of an embargo period, for instance.
+    This script reviews and updates the entire master.csv list of all publications identified to date. It updates any changes to the publication information that might have occured after publication. Most importantly it updates the Open Access statuts of a publication which may change when the article is published in an institutional repository sometime after the publication because of an embargo period, for instance.
   
 * **ponctual_search_tool.py**
 
@@ -37,9 +37,9 @@ The goal is to eventually have tools to track:
  ## ORCID ID Usage Metrics
  * **orcid_id_tracker.py**
   
-    This script takes a list of researchers (.csv format), queries whether they are any ORCID records matching each reseracher using the first-name and last-name using the ORCID public API, and outputs one .csv file containing all the matching ORCID IDs an affiliation information for all researchers, or a single row for reserachers without an ORCID, indicating no ORCID records were found.
+    This script takes a list of researchers (.csv format), queries whether they are any ORCID records matching each researcher using the first-name and last-name using the ORCID public API, and outputs one .csv file containing all the matching ORCID IDs an affiliation information for all researchers, or a single row for researchers without an ORCID, indicating no ORCID records were found.
   
-    Manual verification is then needed to keep the ORCID records that match the reseracher, either looking at the affilation information or by seraching the ORCID ID in a search enginge trying to retrieve publications which link to the ID and assess whetehr the reseracher is the correct one associated with the institution of interest. This manual verification is not ideal, but is necessary because for researchers, not affiliation information is available on their public ORCID record.
+    Manual verification is then needed to keep the ORCID records that match the researcher, either looking at the affilation information or by searching the ORCID ID in a search engine trying to retrieve publications which link to the ID and assess whether the researcher is the correct one associated with the institution of interest. This manual verification is not ideal, but is necessary because for researchers, not affiliation information is available on their public ORCID record.
   
     **Input:** One CSV file located in ROOT/data/queries_and_lists_for_ponctual_searches/ with the list of researchers, with one column for the last name (header 'last_name') and one column for the first name (header 'first_name'). The exact path filename is specified and can be modified at line 48.
   
