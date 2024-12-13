@@ -5,6 +5,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
+import numpy as np
 
 ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
@@ -14,9 +15,10 @@ data_dir = ROOT_DIR + '/data/ponctual_search_results/'
 #file_list = ['aff_oa_info_2010', 'aff_oa_info_2011', 'aff_oa_info_2012', 'aff_oa_info_2013', 'aff_oa_info_2014', 'aff_oa_info_2015',
 #             'aff_oa_info_2016', 'aff_oa_info_2017', 'aff_oa_info_2018', 'aff_oa_info_2019', 'aff_oa_info_2020', 'aff_oa_info_2021']
 file_list = ['y2010_oa_info', 'y2011_oa_info', 'y2012_oa_info', 'y2013_oa_info', 'y2014_oa_info', 'y2015_oa_info',
-             'y2016_oa_info', 'y2017_oa_info', 'y2018_oa_info', 'y2019_oa_info', 'y2020_oa_info', 'y2021_oa_info', 'y2022_oa_info']
-years = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]
-# Declare summar ydata lists that we will fill with yearly summary data
+             'y2016_oa_info', 'y2017_oa_info', 'y2018_oa_info', 'y2019_oa_info', 'y2020_oa_info', 'y2021_oa_info',
+             'y2022_oa_info_cleaned', 'y2023_oa_info_cleaned']
+years = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
+# Declare summary data lists that we will fill with yearly summary data
 sum_publications_by_year = []
 sum_is_oa_by_year = []
 sum_closed_by_year = []
@@ -79,7 +81,7 @@ plt.plot(x, oa_by_year['ratio_oa']*100, color=(1, 0.73, 0.06), label='Open Acces
 plt.scatter(x, oa_by_year['ratio_oa']*100, color=(1, 0.73, 0.06), label='_nolegend_', linewidth=3)
 plt.plot(x, oa_by_year['ratio_closed']*100, color='k', label='Closed', linewidth=3)
 plt.scatter(x, oa_by_year['ratio_closed']*100, color='k', label='_nolegend_', linewidth=3)
-plt.title("Percent of OA publications at The Neuro by year\n(PubMed search based on 109 Neuro PIs)")
+plt.title("Percent of OA publications at The Neuro by year")
 plt.xlabel("Year")
 plt.ylabel("Percent of publications")
 plt.legend(loc="upper left")
@@ -94,7 +96,8 @@ plt.plot(x, oa_by_year['sum_oa'], color=(1, 0.73, 0.06), label='Open Access', li
 plt.scatter(x, oa_by_year['sum_oa'], color=(1, 0.73, 0.06), label='_nolegend_', linewidth=3)
 plt.plot(x, oa_by_year['sum_closed'], color='k', label='Closed', linewidth=3)
 plt.scatter(x, oa_by_year['sum_closed'], color='k', label='_nolegend_', linewidth=3)
-plt.title("Number of OA publications at The Neuro by year\n(PubMed search based on 109 Neuro PIs)")
+plt.title("Number of OA publications at The Neuro by year")
+plt.xticks(np.arange(min(x)+1, max(x)+1, 2.0))
 plt.xlabel("Year")
 plt.ylabel("Number of publications")
 plt.legend(loc="upper left")
@@ -118,7 +121,7 @@ plt.scatter(x, oa_by_year['ratio_hybrid']*100, color=(0.68, 0.67, 0.61), label='
 plt.plot(x, oa_by_year['ratio_hybrid']*100, color=(1, 0.73, 0.06), linestyle='dotted', linewidth=3)
 plt.xlabel("Year")
 plt.ylabel("Percent of OA publications\nfor each OA type")
-plt.title("% of each OA type among OA publications\n(PubMed search based on 109 Neuro PIs)")
+plt.title("% of each OA type among OA publications")
 plt.legend(loc="upper center")
 #plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
 plt.tight_layout()
@@ -140,7 +143,7 @@ plt.scatter(x, oa_by_year['sum_hybrid'], color=(0.68, 0.67, 0.61), label='_noleg
 plt.plot(x, oa_by_year['sum_hybrid'], color=(1, 0.73, 0.06), linestyle='dotted', linewidth=3)
 plt.xlabel("Year")
 plt.ylabel("Number of publications")
-plt.title("Number publications of each OA type\n(PubMed search based on 109 Neuro PIs)")
+plt.title("Number publications of each OA type")
 plt.legend(loc="upper left")
 plt.tight_layout()
 plt.show()

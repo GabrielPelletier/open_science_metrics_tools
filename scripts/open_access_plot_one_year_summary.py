@@ -10,7 +10,7 @@ import os
 
 ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 data_dir = ROOT_DIR + '/data/ponctual_search_results/'
-file = 'y2022_oa_info.csv'
+file = 'y2024_oa_info_cleaned.csv'
 year_df = pd.read_csv(data_dir + file)
 
 # Get Sum and Ratio of OA papers and by OA type
