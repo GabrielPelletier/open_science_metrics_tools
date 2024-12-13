@@ -45,7 +45,7 @@ auth_token = os.environ.get('orcid_api_token')
 auth_token_header_value = "Bearer %s" % auth_token
 
 # Load Researchers list and loop through it.
-pi_list = pd.read_csv(ROOT_DIR + '/data/queries_and_lists_for_ponctual_searches/Neuro_PIs_2021.csv')
+pi_list = pd.read_csv(ROOT_DIR + '/data/queries_and_lists_for_ponctual_searches/neuro_author_list_2024.csv')
 
 for row in pi_list.index:
 

@@ -30,7 +30,7 @@ The goal is to eventually have tools to track:
 
     This script reviews and updates the entire master.csv list of all publications identified to date. It updates any changes to the publication information that might have occured after publication. Most importantly it updates the Open Access statuts of a publication which may change when the article is published in an institutional repository sometime after the publication because of an embargo period, for instance.
   
-* **ponctual_search_tool.py**
+* **open_access_ponctual_search_tool.py**
 
   This script can be used for ponctual queries (e.g., getting publications and OA status for a given year, or given researcher). Script should be modified manually to customize the query.
   
